@@ -11,3 +11,5 @@ If you want to find out more about me, check out my [blog](https://www.raymondca
 I love to help peoeple, so please reach out if you have questions. My DMs are open on Twitter and you can email me at my blog. Also, my two favorite things are Star Wars and cats, not necessarily in that order.
 
 ![Star Wars cat](https://raw.githubusercontent.com/cfjedimaster/cfjedimaster/master/cat.jpg)
+
+![counter](https://enzy20r2pibx5pb.m.pipedream.net)
