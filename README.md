@@ -12,8 +12,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 
 ![Star Wars cat](https://raw.githubusercontent.com/cfjedimaster/cfjedimaster/master/cat.jpg)
 
-![counter](https://enzy20r2pibx5pb.m.pipedream.net)
-
 <!-- RSS -->
 ## My Latest Blog Entries
 
@@ -37,4 +35,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 
 * [Updating my Reddit Workflow with Pipedream](https://www.raymondcamden.com/2020/05/19/updating-my-reddit-workflow-with-pipedream)
 
-<!-- devend -->
+<!-- ENDRSS -->
+
+![counter](https://enzy20r2pibx5pb.m.pipedream.net)
