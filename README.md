@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Review: The Bard's Tale IV](https://www.raymondcamden.com/2020/07/12/review-the-bards-tale-iv)
+
 * [Building a Vue Application with Serverless on Netlify](https://www.raymondcamden.com/2020/07/07/building-a-vue-application-with-serverless-on-netlify)
 
 * [How to Enable your Jamstack Site to have a "Rain Day"](https://www.raymondcamden.com/2020/07/06/how-to-enable-your-jamstack-site-to-have-a-rain-day)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Enhancing Your Netlify Build Notifications](https://www.raymondcamden.com/2020/05/29/enhancing-your-netlify-build-notifications)
 
 * [Integrating Google Analytics with Eleventy](https://www.raymondcamden.com/2020/05/21/integrating-google-analytics-with-eleventy)
-
-* [Updating my Reddit Workflow with Pipedream](https://www.raymondcamden.com/2020/05/19/updating-my-reddit-workflow-with-pipedream)
 
 <!-- ENDRSS -->
 
