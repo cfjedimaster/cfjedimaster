@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing Vue.js Application Files That Aren't Components](https://www.raymondcamden.com/2020/07/17/testing-vuejs-application-files-that-arent-components)
+
 * [Review: The Bard's Tale IV](https://www.raymondcamden.com/2020/07/12/review-the-bards-tale-iv)
 
 * [Building a Vue Application with Serverless on Netlify](https://www.raymondcamden.com/2020/07/07/building-a-vue-application-with-serverless-on-netlify)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Building a Dual Selects Control in Vue.js](https://www.raymondcamden.com/2020/06/08/building-a-dual-selects-control-in-vuejs)
 
 * [Enhancing Your Netlify Build Notifications](https://www.raymondcamden.com/2020/05/29/enhancing-your-netlify-build-notifications)
-
-* [Integrating Google Analytics with Eleventy](https://www.raymondcamden.com/2020/05/21/integrating-google-analytics-with-eleventy)
 
 <!-- ENDRSS -->
 
