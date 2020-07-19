@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Making Monsters with JavaScript](https://www.raymondcamden.com/2020/07/19/making-monsters-with-javascript)
+
 * [Testing Vue.js Application Files That Aren't Components](https://www.raymondcamden.com/2020/07/17/testing-vuejs-application-files-that-arent-components)
 
 * [Review: The Bard's Tale IV](https://www.raymondcamden.com/2020/07/12/review-the-bards-tale-iv)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Testing Netlify's Proxy Support for API Hiding](https://www.raymondcamden.com/2020/06/10/testing-netlifys-proxy-support-for-api-hiding)
 
 * [Building a Dual Selects Control in Vue.js](https://www.raymondcamden.com/2020/06/08/building-a-dual-selects-control-in-vuejs)
-
-* [Enhancing Your Netlify Build Notifications](https://www.raymondcamden.com/2020/05/29/enhancing-your-netlify-build-notifications)
 
 <!-- ENDRSS -->
 
