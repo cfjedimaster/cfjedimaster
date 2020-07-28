@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Twitter Scheduling System with Pipedream and Google Sheets](https://www.raymondcamden.com/2020/07/28/building-a-twitter-scheduling-system-with-pipedream-and-google-sheets)
+
 * [Making Monsters with JavaScript](https://www.raymondcamden.com/2020/07/19/making-monsters-with-javascript)
 
 * [Testing Vue.js Application Files That Aren't Components](https://www.raymondcamden.com/2020/07/17/testing-vuejs-application-files-that-arent-components)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Determining Food Popularity By Location](https://www.raymondcamden.com/2020/06/23/determining-food-popularity-by-location)
 
 * [Testing Netlify's Proxy Support for API Hiding](https://www.raymondcamden.com/2020/06/10/testing-netlifys-proxy-support-for-api-hiding)
-
-* [Building a Dual Selects Control in Vue.js](https://www.raymondcamden.com/2020/06/08/building-a-dual-selects-control-in-vuejs)
 
 <!-- ENDRSS -->
 
