@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Sharing Your Movies with Pipedream and Letterboxd](https://www.raymondcamden.com/2020/08/04/sharing-your-movies-with-pipedream-and-letterboxd)
+
 * [Building a Twitter Scheduling System with Pipedream and Google Sheets](https://www.raymondcamden.com/2020/07/28/building-a-twitter-scheduling-system-with-pipedream-and-google-sheets)
 
 * [Making Monsters with JavaScript](https://www.raymondcamden.com/2020/07/19/making-monsters-with-javascript)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Adding Algolia Search to Eleventy and Netlify](https://www.raymondcamden.com/2020/06/24/adding-algolia-search-to-eleventy-and-netlify)
 
 * [Determining Food Popularity By Location](https://www.raymondcamden.com/2020/06/23/determining-food-popularity-by-location)
-
-* [Testing Netlify's Proxy Support for API Hiding](https://www.raymondcamden.com/2020/06/10/testing-netlifys-proxy-support-for-api-hiding)
 
 <!-- ENDRSS -->
 
