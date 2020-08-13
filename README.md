@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Migrating from Filters in Vue 3](https://www.raymondcamden.com/2020/08/13/migrating-from-filters-in-vue-3)
+
 * [Hiding Future Content with Eleventy](https://www.raymondcamden.com/2020/08/07/hiding-future-content-with-eleventy)
 
 * [Migrating from Node and Express to the Jamstack - Part 1](https://www.raymondcamden.com/2020/08/06/migrating-from-node-and-express-to-the-jamstack-part-1)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Building a Vue Application with Serverless on Netlify](https://www.raymondcamden.com/2020/07/07/building-a-vue-application-with-serverless-on-netlify)
 
 * [How to Enable your Jamstack Site to have a "Rain Day"](https://www.raymondcamden.com/2020/07/06/how-to-enable-your-jamstack-site-to-have-a-rain-day)
-
-* [Adding Algolia Search to Eleventy and Netlify - Part Two](https://www.raymondcamden.com/2020/07/01/adding-algolia-search-to-eleventy-and-netlify-part-two)
 
 <!-- ENDRSS -->
 
