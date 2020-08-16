@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Migrating from Node and Express to the Jamstack - Part 3](https://www.raymondcamden.com/2020/08/16/migrating-from-node-and-express-to-the-jamstack-part-3)
+
 * [Migrating from Node and Express to the Jamstack - Part 2](https://www.raymondcamden.com/2020/08/15/migrating-from-node-and-express-to-the-jamstack-part-2)
 
 * [Migrating from Filters in Vue 3](https://www.raymondcamden.com/2020/08/13/migrating-from-filters-in-vue-3)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Testing Vue.js Application Files That Aren't Components](https://www.raymondcamden.com/2020/07/17/testing-vuejs-application-files-that-arent-components)
 
 * [Review: The Bard's Tale IV](https://www.raymondcamden.com/2020/07/12/review-the-bards-tale-iv)
-
-* [Building a Vue Application with Serverless on Netlify](https://www.raymondcamden.com/2020/07/07/building-a-vue-application-with-serverless-on-netlify)
 
 <!-- ENDRSS -->
 
