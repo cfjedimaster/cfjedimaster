@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Supporting Multiple Authors in an Eleventy Blog](https://www.raymondcamden.com/2020/08/24/supporting-multiple-authors-in-an-eleventy-blog)
+
 * [Designing Random Encounters for my Vue RPG](https://www.raymondcamden.com/2020/08/19/designing-random-encounters-for-my-vue-rpg)
 
 * [Migrating from Node and Express to the Jamstack - Part 3](https://www.raymondcamden.com/2020/08/16/migrating-from-node-and-express-to-the-jamstack-part-3)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Building a Twitter Scheduling System with Pipedream and Google Sheets](https://www.raymondcamden.com/2020/07/28/building-a-twitter-scheduling-system-with-pipedream-and-google-sheets)
 
 * [Making Monsters with JavaScript](https://www.raymondcamden.com/2020/07/19/making-monsters-with-javascript)
-
-* [Testing Vue.js Application Files That Aren't Components](https://www.raymondcamden.com/2020/07/17/testing-vuejs-application-files-that-arent-components)
 
 <!-- ENDRSS -->
 
