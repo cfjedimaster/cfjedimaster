@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [An Experiment with Vue Components](https://www.raymondcamden.com/2020/08/28/an-experiment-with-vue-components)
+
 * [Supporting Multiple Authors in an Eleventy Blog](https://www.raymondcamden.com/2020/08/24/supporting-multiple-authors-in-an-eleventy-blog)
 
 * [Designing Random Encounters for my Vue RPG](https://www.raymondcamden.com/2020/08/19/designing-random-encounters-for-my-vue-rpg)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Sharing Your Movies with Pipedream and Letterboxd](https://www.raymondcamden.com/2020/08/04/sharing-your-movies-with-pipedream-and-letterboxd)
 
 * [Building a Twitter Scheduling System with Pipedream and Google Sheets](https://www.raymondcamden.com/2020/07/28/building-a-twitter-scheduling-system-with-pipedream-and-google-sheets)
-
-* [Making Monsters with JavaScript](https://www.raymondcamden.com/2020/07/19/making-monsters-with-javascript)
 
 <!-- ENDRSS -->
 
