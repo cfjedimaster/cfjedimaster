@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Vue Quick Shot - Fullscreen API](https://www.raymondcamden.com/2020/09/04/vue-quick-shot-fullscreen-api)
+
 * [Vue Quick Shot - Using Page Visibility](https://www.raymondcamden.com/2020/09/03/vue-quick-shot-using-page-visibility)
 
 * [An Experiment with Vue Components](https://www.raymondcamden.com/2020/08/28/an-experiment-with-vue-components)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Hiding Future Content with Eleventy](https://www.raymondcamden.com/2020/08/07/hiding-future-content-with-eleventy)
 
 * [Migrating from Node and Express to the Jamstack - Part 1](https://www.raymondcamden.com/2020/08/06/migrating-from-node-and-express-to-the-jamstack-part-1)
-
-* [Sharing Your Movies with Pipedream and Letterboxd](https://www.raymondcamden.com/2020/08/04/sharing-your-movies-with-pipedream-and-letterboxd)
 
 <!-- ENDRSS -->
 
