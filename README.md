@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Vue Quick Shot - Form Field Character Counters](https://www.raymondcamden.com/2020/09/14/vue-quick-shot-form-field-character-counters)
+
 * [Building a Traffic-Based Workflow in Pipedream](https://www.raymondcamden.com/2020/09/06/building-a-traffic-based-workflow-in-pipedream)
 
 * [Vue Quick Shot - Fullscreen API](https://www.raymondcamden.com/2020/09/04/vue-quick-shot-fullscreen-api)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Migrating from Node and Express to the Jamstack - Part 2](https://www.raymondcamden.com/2020/08/15/migrating-from-node-and-express-to-the-jamstack-part-2)
 
 * [Migrating from Filters in Vue 3](https://www.raymondcamden.com/2020/08/13/migrating-from-filters-in-vue-3)
-
-* [Hiding Future Content with Eleventy](https://www.raymondcamden.com/2020/08/07/hiding-future-content-with-eleventy)
 
 <!-- ENDRSS -->
 
