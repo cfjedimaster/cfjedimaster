@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Vue Quick Shot - Uploading a File](https://www.raymondcamden.com/2020/09/20/vue-quick-shot-uploading-a-file)
+
 * [Hooking Up FaunaDB to Eleventy](https://www.raymondcamden.com/2020/09/15/hooking-up-faunadb-to-eleventy)
 
 * [Vue Quick Shot - Form Field Character Counters](https://www.raymondcamden.com/2020/09/14/vue-quick-shot-form-field-character-counters)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Designing Random Encounters for my Vue RPG](https://www.raymondcamden.com/2020/08/19/designing-random-encounters-for-my-vue-rpg)
 
 * [Migrating from Node and Express to the Jamstack - Part 3](https://www.raymondcamden.com/2020/08/16/migrating-from-node-and-express-to-the-jamstack-part-3)
-
-* [Migrating from Node and Express to the Jamstack - Part 2](https://www.raymondcamden.com/2020/08/15/migrating-from-node-and-express-to-the-jamstack-part-2)
 
 <!-- ENDRSS -->
 
