@@ -15,6 +15,8 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Vue Quick Shot - Warn Before Leaving a Form](https://www.raymondcamden.com/2020/10/15/vue-quick-shot-warn-before-leaving-a-form)
+
 * [Another Netlify Analytics Hack - Stats Per URL](https://www.raymondcamden.com/2020/10/08/another-netlify-analytics-hack-stats-per-url)
 
 * [Tracking Posts by Week in Eleventy](https://www.raymondcamden.com/2020/09/30/tracking-posts-by-week-in-eleventy)
@@ -32,8 +34,6 @@ I love to help peoeple, so please reach out if you have questions. My DMs are op
 * [Vue Quick Shot - Using Page Visibility](https://www.raymondcamden.com/2020/09/03/vue-quick-shot-using-page-visibility)
 
 * [An Experiment with Vue Components](https://www.raymondcamden.com/2020/08/28/an-experiment-with-vue-components)
-
-* [Supporting Multiple Authors in an Eleventy Blog](https://www.raymondcamden.com/2020/08/24/supporting-multiple-authors-in-an-eleventy-blog)
 
 <!-- ENDRSS -->
 
