@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Review: Learning Progressive Web Apps by John Wargo](https://www.raymondcamden.com/2020/10/21/review-learning-progressive-web-apps-by-john-wargo)
+
 * [Vue Quick Shot - Warn Before Leaving a Form](https://www.raymondcamden.com/2020/10/15/vue-quick-shot-warn-before-leaving-a-form)
 
 * [Another Netlify Analytics Hack - Stats Per URL](https://www.raymondcamden.com/2020/10/08/another-netlify-analytics-hack-stats-per-url)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Vue Quick Shot - Fullscreen API](https://www.raymondcamden.com/2020/09/04/vue-quick-shot-fullscreen-api)
 
 * [Vue Quick Shot - Using Page Visibility](https://www.raymondcamden.com/2020/09/03/vue-quick-shot-using-page-visibility)
-
-* [An Experiment with Vue Components](https://www.raymondcamden.com/2020/08/28/an-experiment-with-vue-components)
 
 <!-- ENDRSS -->
 
