@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Selecting Random Posts in Eleventy](https://www.raymondcamden.com/2020/10/26/selecting-random-posts-in-eleventy)
+
 * [Review: Learning Progressive Web Apps by John Wargo](https://www.raymondcamden.com/2020/10/21/review-learning-progressive-web-apps-by-john-wargo)
 
 * [Vue Quick Shot - Warn Before Leaving a Form](https://www.raymondcamden.com/2020/10/15/vue-quick-shot-warn-before-leaving-a-form)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Traffic-Based Workflow in Pipedream](https://www.raymondcamden.com/2020/09/06/building-a-traffic-based-workflow-in-pipedream)
 
 * [Vue Quick Shot - Fullscreen API](https://www.raymondcamden.com/2020/09/04/vue-quick-shot-fullscreen-api)
-
-* [Vue Quick Shot - Using Page Visibility](https://www.raymondcamden.com/2020/09/03/vue-quick-shot-using-page-visibility)
 
 <!-- ENDRSS -->
 
