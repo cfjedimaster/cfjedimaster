@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding Your Netlify Build Status to Your Site](https://www.raymondcamden.com/2020/11/04/adding-your-netlify-build-status-to-your-site)
+
 * [Selecting Random Posts in Eleventy](https://www.raymondcamden.com/2020/10/26/selecting-random-posts-in-eleventy)
 
 * [Review: Learning Progressive Web Apps by John Wargo](https://www.raymondcamden.com/2020/10/21/review-learning-progressive-web-apps-by-john-wargo)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Vue Quick Shot - Form Field Character Counters](https://www.raymondcamden.com/2020/09/14/vue-quick-shot-form-field-character-counters)
 
 * [Building a Traffic-Based Workflow in Pipedream](https://www.raymondcamden.com/2020/09/06/building-a-traffic-based-workflow-in-pipedream)
-
-* [Vue Quick Shot - Fullscreen API](https://www.raymondcamden.com/2020/09/04/vue-quick-shot-fullscreen-api)
 
 <!-- ENDRSS -->
 
