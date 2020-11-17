@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Vue Quick Shot - Preventing Multiple Form Submissions](https://www.raymondcamden.com/2020/11/17/vue-quick-shot-preventing-multiple-form-submissions)
+
 * [The Jamstack Book - Early Access Release](https://www.raymondcamden.com/2020/11/12/the-jamstack-book-early-access-release)
 
 * [Adding a Warning for Old Posts to Your Jamstack Site](https://www.raymondcamden.com/2020/11/09/adding-a-warning-for-old-posts-to-your-jamstack-site)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Tracking Posts by Week in Eleventy](https://www.raymondcamden.com/2020/09/30/tracking-posts-by-week-in-eleventy)
 
 * [Vue Quick Shot - Uploading a File](https://www.raymondcamden.com/2020/09/20/vue-quick-shot-uploading-a-file)
-
-* [Hooking Up FaunaDB to Eleventy](https://www.raymondcamden.com/2020/09/15/hooking-up-faunadb-to-eleventy)
 
 <!-- ENDRSS -->
 
