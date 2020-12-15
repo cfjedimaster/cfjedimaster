@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Vue Quick Shot - Downloading Data as a File](https://www.raymondcamden.com/2020/12/15/vue-quick-shot-downloading-data-as-a-file)
+
 * [Adding Google Calendar to Your Jamstack - with Pipedream](https://www.raymondcamden.com/2020/12/08/adding-google-calendar-to-your-jamstack-with-pipedream)
 
 * [Building a Web App Powered by Google Forms and Sheets](https://www.raymondcamden.com/2020/11/20/building-a-web-app-powered-by-google-forms-and-sheets)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Review: Learning Progressive Web Apps by John Wargo](https://www.raymondcamden.com/2020/10/21/review-learning-progressive-web-apps-by-john-wargo)
 
 * [Vue Quick Shot - Warn Before Leaving a Form](https://www.raymondcamden.com/2020/10/15/vue-quick-shot-warn-before-leaving-a-form)
-
-* [Another Netlify Analytics Hack - Stats Per URL](https://www.raymondcamden.com/2020/10/08/another-netlify-analytics-hack-stats-per-url)
 
 <!-- ENDRSS -->
 
