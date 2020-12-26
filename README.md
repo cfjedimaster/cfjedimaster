@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [2020 Can Kiss My...](https://www.raymondcamden.com/2020/12/26/2020-can-kiss-my)
+
 * [Vue Quick Shot - Downloading Data as a File](https://www.raymondcamden.com/2020/12/15/vue-quick-shot-downloading-data-as-a-file)
 
 * [Adding Google Calendar to Your Jamstack - with Pipedream](https://www.raymondcamden.com/2020/12/08/adding-google-calendar-to-your-jamstack-with-pipedream)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Selecting Random Posts in Eleventy](https://www.raymondcamden.com/2020/10/26/selecting-random-posts-in-eleventy)
 
 * [Review: Learning Progressive Web Apps by John Wargo](https://www.raymondcamden.com/2020/10/21/review-learning-progressive-web-apps-by-john-wargo)
-
-* [Vue Quick Shot - Warn Before Leaving a Form](https://www.raymondcamden.com/2020/10/15/vue-quick-shot-warn-before-leaving-a-form)
 
 <!-- ENDRSS -->
 
