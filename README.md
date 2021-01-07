@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Identifying Pictures via SMS with Pipedream, Twilio, and Microsoft Cognitive Services](https://www.raymondcamden.com/2021/01/07/identifying-pictures-via-sms-with-pipedream-twilio-and-microsoft-cognitive-services)
+
 * [Building Generic Workflows in Pipedream](https://www.raymondcamden.com/2021/01/03/building-generic-workflows-in-pipedream)
 
 * [2020 Can Kiss My...](https://www.raymondcamden.com/2020/12/26/2020-can-kiss-my)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding a Warning for Old Posts to Your Jamstack Site](https://www.raymondcamden.com/2020/11/09/adding-a-warning-for-old-posts-to-your-jamstack-site)
 
 * [Adding Your Netlify Build Status to Your Site](https://www.raymondcamden.com/2020/11/04/adding-your-netlify-build-status-to-your-site)
-
-* [Selecting Random Posts in Eleventy](https://www.raymondcamden.com/2020/10/26/selecting-random-posts-in-eleventy)
 
 <!-- ENDRSS -->
 
