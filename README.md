@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Remembering (and Restoring) a Route with Vue Router](https://www.raymondcamden.com/2021/01/12/remembering-and-restoring-a-route-with-vue-router)
+
 * [Identifying Pictures via SMS with Pipedream, Twilio, and Microsoft Cognitive Services](https://www.raymondcamden.com/2021/01/07/identifying-pictures-via-sms-with-pipedream-twilio-and-microsoft-cognitive-services)
 
 * [Building Generic Workflows in Pipedream](https://www.raymondcamden.com/2021/01/03/building-generic-workflows-in-pipedream)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [The Jamstack Book - Early Access Release](https://www.raymondcamden.com/2020/11/12/the-jamstack-book-early-access-release)
 
 * [Adding a Warning for Old Posts to Your Jamstack Site](https://www.raymondcamden.com/2020/11/09/adding-a-warning-for-old-posts-to-your-jamstack-site)
-
-* [Adding Your Netlify Build Status to Your Site](https://www.raymondcamden.com/2020/11/04/adding-your-netlify-build-status-to-your-site)
 
 <!-- ENDRSS -->
 
