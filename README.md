@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Pre-Built Lunr Indexes with Eleventy](https://www.raymondcamden.com/2021/01/22/using-pre-built-lunr-indexes-with-eleventy)
+
 * [Accessing Eleventy Data on the Client Side](https://www.raymondcamden.com/2021/01/18/accessing-eleventy-data-on-the-client-side)
 
 * [A Vue Component for Handling Loading State](https://www.raymondcamden.com/2021/01/15/a-vue-component-for-handling-loading-state)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Google Calendar to Your Jamstack - with Pipedream](https://www.raymondcamden.com/2020/12/08/adding-google-calendar-to-your-jamstack-with-pipedream)
 
 * [Building a Web App Powered by Google Forms and Sheets](https://www.raymondcamden.com/2020/11/20/building-a-web-app-powered-by-google-forms-and-sheets)
-
-* [Vue Quick Shot - Preventing Multiple Form Submissions](https://www.raymondcamden.com/2020/11/17/vue-quick-shot-preventing-multiple-form-submissions)
 
 <!-- ENDRSS -->
 
