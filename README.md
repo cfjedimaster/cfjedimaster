@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Highly Analytics - A Review](https://www.raymondcamden.com/2021/01/28/highly-analytics-a-review)
+
 * [Using Pre-Built Lunr Indexes with Eleventy](https://www.raymondcamden.com/2021/01/22/using-pre-built-lunr-indexes-with-eleventy)
 
 * [Accessing Eleventy Data on the Client Side](https://www.raymondcamden.com/2021/01/18/accessing-eleventy-data-on-the-client-side)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Vue Quick Shot - Downloading Data as a File](https://www.raymondcamden.com/2020/12/15/vue-quick-shot-downloading-data-as-a-file)
 
 * [Adding Google Calendar to Your Jamstack - with Pipedream](https://www.raymondcamden.com/2020/12/08/adding-google-calendar-to-your-jamstack-with-pipedream)
-
-* [Building a Web App Powered by Google Forms and Sheets](https://www.raymondcamden.com/2020/11/20/building-a-web-app-powered-by-google-forms-and-sheets)
 
 <!-- ENDRSS -->
 
