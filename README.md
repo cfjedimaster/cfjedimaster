@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Exporting Disqus Comments and Adding Them to Eleventy](https://www.raymondcamden.com/2021/02/11/exporting-disqus-comments-and-adding-them-to-eleventy)
+
 * [Quick Hack for Reveal.js Presentations](https://www.raymondcamden.com/2021/01/29/quick-hack-for-revealjs-presentations)
 
 * [Highly Analytics - A Review](https://www.raymondcamden.com/2021/01/28/highly-analytics-a-review)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building Generic Workflows in Pipedream](https://www.raymondcamden.com/2021/01/03/building-generic-workflows-in-pipedream)
 
 * [2020 Can Kiss My...](https://www.raymondcamden.com/2020/12/26/2020-can-kiss-my)
-
-* [Vue Quick Shot - Downloading Data as a File](https://www.raymondcamden.com/2020/12/15/vue-quick-shot-downloading-data-as-a-file)
 
 <!-- ENDRSS -->
 
