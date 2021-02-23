@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Keeping Count of User Visits](https://www.raymondcamden.com/2021/02/23/keeping-count-of-user-visits)
+
 * [Integrating Navigation Search with Lunr and Eleventy](https://www.raymondcamden.com/2021/02/22/integrating-navigation-search-with-lunr-and-eleventy)
 
 * [Using the PDF Embed API with Vue.js](https://www.raymondcamden.com/2021/02/17/using-the-pdf-embed-api-with-vuejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [A Vue Component for Handling Loading State](https://www.raymondcamden.com/2021/01/15/a-vue-component-for-handling-loading-state)
 
 * [Remembering (and Restoring) a Route with Vue Router](https://www.raymondcamden.com/2021/01/12/remembering-and-restoring-a-route-with-vue-router)
-
-* [Identifying Pictures via SMS with Pipedream, Twilio, and Microsoft Cognitive Services](https://www.raymondcamden.com/2021/01/07/identifying-pictures-via-sms-with-pipedream-twilio-and-microsoft-cognitive-services)
 
 <!-- ENDRSS -->
 
