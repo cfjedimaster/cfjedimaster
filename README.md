@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using PDFs with the Jamstack](https://www.raymondcamden.com/2021/02/25/using-pdfs-with-the-jamstack)
+
 * [Keeping Count of User Visits](https://www.raymondcamden.com/2021/02/23/keeping-count-of-user-visits)
 
 * [Integrating Navigation Search with Lunr and Eleventy](https://www.raymondcamden.com/2021/02/22/integrating-navigation-search-with-lunr-and-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Accessing Eleventy Data on the Client Side](https://www.raymondcamden.com/2021/01/18/accessing-eleventy-data-on-the-client-side)
 
 * [A Vue Component for Handling Loading State](https://www.raymondcamden.com/2021/01/15/a-vue-component-for-handling-loading-state)
-
-* [Remembering (and Restoring) a Route with Vue Router](https://www.raymondcamden.com/2021/01/12/remembering-and-restoring-a-route-with-vue-router)
 
 <!-- ENDRSS -->
 
