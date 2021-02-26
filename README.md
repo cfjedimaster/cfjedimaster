@@ -39,5 +39,3 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 
 ![counter](https://enzy20r2pibx5pb.m.pipedream.net)
 
-Temp edit to test Bridgly: https://webmentions.vercel.app/
-
