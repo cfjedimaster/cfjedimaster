@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using the Adobe PDF Tools API to Generate Thumbnails](https://www.raymondcamden.com/2021/03/02/using-the-adobe-pdf-tools-api-to-generate-thumbnails)
+
 * [Using PDFs with the Jamstack](https://www.raymondcamden.com/2021/02/25/using-pdfs-with-the-jamstack)
 
 * [Keeping Count of User Visits](https://www.raymondcamden.com/2021/02/23/keeping-count-of-user-visits)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Pre-Built Lunr Indexes with Eleventy](https://www.raymondcamden.com/2021/01/22/using-pre-built-lunr-indexes-with-eleventy)
 
 * [Accessing Eleventy Data on the Client Side](https://www.raymondcamden.com/2021/01/18/accessing-eleventy-data-on-the-client-side)
-
-* [A Vue Component for Handling Loading State](https://www.raymondcamden.com/2021/01/15/a-vue-component-for-handling-loading-state)
 
 <!-- ENDRSS -->
 
