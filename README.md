@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Saying Goodbye to HERE](https://www.raymondcamden.com/2021/03/05/saying-goodbye-to-here)
+
 * [Using the Adobe PDF Tools API to Generate Thumbnails](https://www.raymondcamden.com/2021/03/02/using-the-adobe-pdf-tools-api-to-generate-thumbnails)
 
 * [Using PDFs with the Jamstack](https://www.raymondcamden.com/2021/02/25/using-pdfs-with-the-jamstack)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Highly Analytics - A Review](https://www.raymondcamden.com/2021/01/28/highly-analytics-a-review)
 
 * [Using Pre-Built Lunr Indexes with Eleventy](https://www.raymondcamden.com/2021/01/22/using-pre-built-lunr-indexes-with-eleventy)
-
-* [Accessing Eleventy Data on the Client Side](https://www.raymondcamden.com/2021/01/18/accessing-eleventy-data-on-the-client-side)
 
 <!-- ENDRSS -->
 
