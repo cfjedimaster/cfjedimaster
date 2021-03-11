@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding Filtering to my Vue.js Table Sorting and Pagination Demo](https://www.raymondcamden.com/2021/03/11/adding-filtering-to-my-vuejs-table-sorting-and-pagination-demo)
+
 * [Saying Goodbye to HERE](https://www.raymondcamden.com/2021/03/05/saying-goodbye-to-here)
 
 * [Using the Adobe PDF Tools API to Generate Thumbnails](https://www.raymondcamden.com/2021/03/02/using-the-adobe-pdf-tools-api-to-generate-thumbnails)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Quick Hack for Reveal.js Presentations](https://www.raymondcamden.com/2021/01/29/quick-hack-for-revealjs-presentations)
 
 * [Highly Analytics - A Review](https://www.raymondcamden.com/2021/01/28/highly-analytics-a-review)
-
-* [Using Pre-Built Lunr Indexes with Eleventy](https://www.raymondcamden.com/2021/01/22/using-pre-built-lunr-indexes-with-eleventy)
 
 <!-- ENDRSS -->
 
