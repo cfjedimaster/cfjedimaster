@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Hello (Again), Adobe!](https://www.raymondcamden.com/2021/03/15/hello-again-adobe)
+
 * [Adding Filtering to my Vue.js Table Sorting and Pagination Demo](https://www.raymondcamden.com/2021/03/11/adding-filtering-to-my-vuejs-table-sorting-and-pagination-demo)
 
 * [Saying Goodbye to HERE](https://www.raymondcamden.com/2021/03/05/saying-goodbye-to-here)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Exporting Disqus Comments and Adding Them to Eleventy](https://www.raymondcamden.com/2021/02/11/exporting-disqus-comments-and-adding-them-to-eleventy)
 
 * [Quick Hack for Reveal.js Presentations](https://www.raymondcamden.com/2021/01/29/quick-hack-for-revealjs-presentations)
-
-* [Highly Analytics - A Review](https://www.raymondcamden.com/2021/01/28/highly-analytics-a-review)
 
 <!-- ENDRSS -->
 
