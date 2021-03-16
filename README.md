@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using PDFs with the Jamstack - Now with Thumbnails](https://www.raymondcamden.com/2021/03/16/using-pdfs-with-the-jamstack-now-with-thumbnails)
+
 * [Hello (Again), Adobe!](https://www.raymondcamden.com/2021/03/15/hello-again-adobe)
 
 * [Adding Filtering to my Vue.js Table Sorting and Pagination Demo](https://www.raymondcamden.com/2021/03/11/adding-filtering-to-my-vuejs-table-sorting-and-pagination-demo)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using the PDF Embed API with Vue.js](https://www.raymondcamden.com/2021/02/17/using-the-pdf-embed-api-with-vuejs)
 
 * [Exporting Disqus Comments and Adding Them to Eleventy](https://www.raymondcamden.com/2021/02/11/exporting-disqus-comments-and-adding-them-to-eleventy)
-
-* [Quick Hack for Reveal.js Presentations](https://www.raymondcamden.com/2021/01/29/quick-hack-for-revealjs-presentations)
 
 <!-- ENDRSS -->
 
