@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Load a PDF Embed when Visible](https://www.raymondcamden.com/2021/04/09/load-a-pdf-embed-when-visible)
+
 * [Building a Simple Image Gallery with Eleventy](https://www.raymondcamden.com/2021/04/07/building-a-simple-image-gallery-with-eleventy)
 
 * [Quick Tips for Eleventy and Vercel](https://www.raymondcamden.com/2021/03/27/quick-tips-for-eleventy-and-vercel)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using the Adobe PDF Tools API to Generate Thumbnails](https://www.raymondcamden.com/2021/03/02/using-the-adobe-pdf-tools-api-to-generate-thumbnails)
 
 * [Using PDFs with the Jamstack](https://www.raymondcamden.com/2021/02/25/using-pdfs-with-the-jamstack)
-
-* [Keeping Count of User Visits](https://www.raymondcamden.com/2021/02/23/keeping-count-of-user-visits)
 
 <!-- ENDRSS -->
 
