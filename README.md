@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Proof of Concept - Dynamically Filtering a Large Select](https://www.raymondcamden.com/2021/04/12/proof-of-concept-dynamically-filtering-a-large-select)
+
 * [Load a PDF Embed when Visible](https://www.raymondcamden.com/2021/04/09/load-a-pdf-embed-when-visible)
 
 * [Building a Simple Image Gallery with Eleventy](https://www.raymondcamden.com/2021/04/07/building-a-simple-image-gallery-with-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Saying Goodbye to HERE](https://www.raymondcamden.com/2021/03/05/saying-goodbye-to-here)
 
 * [Using the Adobe PDF Tools API to Generate Thumbnails](https://www.raymondcamden.com/2021/03/02/using-the-adobe-pdf-tools-api-to-generate-thumbnails)
-
-* [Using PDFs with the Jamstack](https://www.raymondcamden.com/2021/02/25/using-pdfs-with-the-jamstack)
 
 <!-- ENDRSS -->
 
