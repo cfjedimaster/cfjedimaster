@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Crickets and Other Things](https://www.raymondcamden.com/2021/04/28/crickets-and-other-things)
+
 * [Building a Database Driven Eleventy Site](https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site)
 
 * [Proof of Concept - Dynamically Filtering a Large Select](https://www.raymondcamden.com/2021/04/12/proof-of-concept-dynamically-filtering-a-large-select)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Hello (Again), Adobe!](https://www.raymondcamden.com/2021/03/15/hello-again-adobe)
 
 * [Adding Filtering to my Vue.js Table Sorting and Pagination Demo](https://www.raymondcamden.com/2021/03/11/adding-filtering-to-my-vuejs-table-sorting-and-pagination-demo)
-
-* [Saying Goodbye to HERE](https://www.raymondcamden.com/2021/03/05/saying-goodbye-to-here)
 
 <!-- ENDRSS -->
 
