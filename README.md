@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding an Email Subscription to Your Jamstack Site](https://www.raymondcamden.com/2021/05/01/adding-an-email-subscription-to-your-jamstack-site)
+
 * [Crickets and Other Things](https://www.raymondcamden.com/2021/04/28/crickets-and-other-things)
 
 * [Building a Database Driven Eleventy Site](https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using PDFs with the Jamstack - Now with Thumbnails](https://www.raymondcamden.com/2021/03/16/using-pdfs-with-the-jamstack-now-with-thumbnails)
 
 * [Hello (Again), Adobe!](https://www.raymondcamden.com/2021/03/15/hello-again-adobe)
-
-* [Adding Filtering to my Vue.js Table Sorting and Pagination Demo](https://www.raymondcamden.com/2021/03/11/adding-filtering-to-my-vuejs-table-sorting-and-pagination-demo)
 
 <!-- ENDRSS -->
 
