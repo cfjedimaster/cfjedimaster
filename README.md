@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Choose Your Own Adventure site with Eleventy](https://www.raymondcamden.com/2021/05/16/building-a-choose-your-own-adventure-site-with-eleventy)
+
 * [Updating (and Supporting) URL Parameters with Vue.js](https://www.raymondcamden.com/2021/05/08/updating-and-supporting-url-parameters-with-vuejs)
 
 * [Adding an Email Subscription to Your Jamstack Site](https://www.raymondcamden.com/2021/05/01/adding-an-email-subscription-to-your-jamstack-site)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Quick Tips for Eleventy and Vercel](https://www.raymondcamden.com/2021/03/27/quick-tips-for-eleventy-and-vercel)
 
 * [How I Write Content Here...](https://www.raymondcamden.com/2021/03/24/how-i-write-content-here)
-
-* [Using PDFs with the Jamstack - Now with Thumbnails](https://www.raymondcamden.com/2021/03/16/using-pdfs-with-the-jamstack-now-with-thumbnails)
 
 <!-- ENDRSS -->
 
