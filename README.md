@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Lunr with Eleventy via Netlify Serverless Functions - Part Two](undefined)
+
 * [Using Lunr with Eleventy via Netlify Serverless Functions](undefined)
 
 * [Recreating Breaking Bad Credits with JavaScript (and a bit of CSS)](undefined)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Database Driven Eleventy Site](undefined)
 
 * [Proof of Concept - Dynamically Filtering a Large Select](undefined)
-
-* [Load a PDF Embed when Visible](undefined)
 
 <!-- ENDRSS -->
 
