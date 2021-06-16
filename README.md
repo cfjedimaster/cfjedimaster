@@ -15,25 +15,25 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
-* [Using Lunr with Eleventy via Netlify Serverless Functions - Part Two](undefined)
+* [Quick Tip - Using Pipedream to Monitor my Algolia Index](https://www.raymondcamden.com/2021/06/16/quick-tip-using-pipedream-to-monitor-my-algolia-index)
 
-* [Using Lunr with Eleventy via Netlify Serverless Functions](undefined)
+* [Using Lunr with Eleventy via Netlify Serverless Functions - Part Two](https://www.raymondcamden.com/2021/06/06/using-lunr-with-eleventy-via-netlify-serverless-functions-part-two)
 
-* [Recreating Breaking Bad Credits with JavaScript (and a bit of CSS)](undefined)
+* [Using Lunr with Eleventy via Netlify Serverless Functions](https://www.raymondcamden.com/2021/06/02/using-lunr-with-eleventy-via-netlify-serverless-functions)
 
-* [Quick Netlify Tip for Redirects](undefined)
+* [Recreating Breaking Bad Credits with JavaScript (and a bit of CSS)](https://www.raymondcamden.com/2021/05/31/recreating-breaking-bad-credits-with-javascript-and-a-bit-of-css)
 
-* [Building a Choose Your Own Adventure site with Eleventy](undefined)
+* [Quick Netlify Tip for Redirects](https://www.raymondcamden.com/2021/05/24/quick-netlify-tip-for-redirects)
 
-* [Updating (and Supporting) URL Parameters with Vue.js](undefined)
+* [Building a Choose Your Own Adventure site with Eleventy](https://www.raymondcamden.com/2021/05/16/building-a-choose-your-own-adventure-site-with-eleventy)
 
-* [Adding an Email Subscription to Your Jamstack Site](undefined)
+* [Updating (and Supporting) URL Parameters with Vue.js](https://www.raymondcamden.com/2021/05/08/updating-and-supporting-url-parameters-with-vuejs)
 
-* [Crickets and Other Things](undefined)
+* [Adding an Email Subscription to Your Jamstack Site](https://www.raymondcamden.com/2021/05/01/adding-an-email-subscription-to-your-jamstack-site)
 
-* [Building a Database Driven Eleventy Site](undefined)
+* [Crickets and Other Things](https://www.raymondcamden.com/2021/04/28/crickets-and-other-things)
 
-* [Proof of Concept - Dynamically Filtering a Large Select](undefined)
+* [Building a Database Driven Eleventy Site](https://www.raymondcamden.com/2021/04/15/building-a-database-driven-eleventy-site)
 
 <!-- ENDRSS -->
 
