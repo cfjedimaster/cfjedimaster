@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Dynamic Short URLs with Eleventy](https://www.raymondcamden.com/2021/06/22/dynamic-short-urls-with-eleventy)
+
 * [Using PDFs with the Jamstack - Adding Search with Text Extraction](https://www.raymondcamden.com/2021/06/18/using-pdfs-with-the-jamstack-adding-search-with-text-extraction)
 
 * [Quick Tip - Using Pipedream to Monitor my Algolia Index](https://www.raymondcamden.com/2021/06/16/quick-tip-using-pipedream-to-monitor-my-algolia-index)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Updating (and Supporting) URL Parameters with Vue.js](https://www.raymondcamden.com/2021/05/08/updating-and-supporting-url-parameters-with-vuejs)
 
 * [Adding an Email Subscription to Your Jamstack Site](https://www.raymondcamden.com/2021/05/01/adding-an-email-subscription-to-your-jamstack-site)
-
-* [Crickets and Other Things](https://www.raymondcamden.com/2021/04/28/crickets-and-other-things)
 
 <!-- ENDRSS -->
 
