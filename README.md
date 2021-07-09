@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Graphing Movie Rating Distribution For No Good Reason](https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason)
+
 * [Using Pipedream to Proxy Other APIs](https://www.raymondcamden.com/2021/06/30/using-pipedream-to-proxy-other-apis)
 
 * [Dynamic Short URLs with Eleventy](https://www.raymondcamden.com/2021/06/22/dynamic-short-urls-with-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Quick Netlify Tip for Redirects](https://www.raymondcamden.com/2021/05/24/quick-netlify-tip-for-redirects)
 
 * [Building a Choose Your Own Adventure site with Eleventy](https://www.raymondcamden.com/2021/05/16/building-a-choose-your-own-adventure-site-with-eleventy)
-
-* [Updating (and Supporting) URL Parameters with Vue.js](https://www.raymondcamden.com/2021/05/08/updating-and-supporting-url-parameters-with-vuejs)
 
 <!-- ENDRSS -->
 
