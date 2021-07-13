@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Creating an Additive Capture Shortcode in Eleventy](https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy)
+
 * [Graphing Movie Rating Distribution For No Good Reason](https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason)
 
 * [Using Pipedream to Proxy Other APIs](https://www.raymondcamden.com/2021/06/30/using-pipedream-to-proxy-other-apis)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Recreating Breaking Bad Credits with JavaScript (and a bit of CSS)](https://www.raymondcamden.com/2021/05/31/recreating-breaking-bad-credits-with-javascript-and-a-bit-of-css)
 
 * [Quick Netlify Tip for Redirects](https://www.raymondcamden.com/2021/05/24/quick-netlify-tip-for-redirects)
-
-* [Building a Choose Your Own Adventure site with Eleventy](https://www.raymondcamden.com/2021/05/16/building-a-choose-your-own-adventure-site-with-eleventy)
 
 <!-- ENDRSS -->
 
