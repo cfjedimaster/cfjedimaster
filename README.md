@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Integrating Eleventy with GitHub Flat Data](https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data)
+
 * [Creating an Additive Capture Shortcode in Eleventy](https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy)
 
 * [Graphing Movie Rating Distribution For No Good Reason](https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Lunr with Eleventy via Netlify Serverless Functions](https://www.raymondcamden.com/2021/06/02/using-lunr-with-eleventy-via-netlify-serverless-functions)
 
 * [Recreating Breaking Bad Credits with JavaScript (and a bit of CSS)](https://www.raymondcamden.com/2021/05/31/recreating-breaking-bad-credits-with-javascript-and-a-bit-of-css)
-
-* [Quick Netlify Tip for Redirects](https://www.raymondcamden.com/2021/05/24/quick-netlify-tip-for-redirects)
 
 <!-- ENDRSS -->
 
