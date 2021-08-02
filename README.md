@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [An Adobe PDF Embed Plugin for Eleventy](https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy)
+
 * [Page Level URL Fetching with Eleventy](https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy)
 
 * [Integrating Eleventy with GitHub Flat Data](https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Quick Tip - Using Pipedream to Monitor my Algolia Index](https://www.raymondcamden.com/2021/06/16/quick-tip-using-pipedream-to-monitor-my-algolia-index)
 
 * [Using Lunr with Eleventy via Netlify Serverless Functions - Part Two](https://www.raymondcamden.com/2021/06/06/using-lunr-with-eleventy-via-netlify-serverless-functions-part-two)
-
-* [Using Lunr with Eleventy via Netlify Serverless Functions](https://www.raymondcamden.com/2021/06/02/using-lunr-with-eleventy-via-netlify-serverless-functions)
 
 <!-- ENDRSS -->
 
