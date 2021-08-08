@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Uploading Multiple Files with Fetch](https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch)
+
 * [Check out Begin](https://www.raymondcamden.com/2021/08/06/check-out-begin)
 
 * [An Adobe PDF Embed Plugin for Eleventy](https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Dynamic Short URLs with Eleventy](https://www.raymondcamden.com/2021/06/22/dynamic-short-urls-with-eleventy)
 
 * [Using PDFs with the Jamstack - Adding Search with Text Extraction](https://www.raymondcamden.com/2021/06/18/using-pdfs-with-the-jamstack-adding-search-with-text-extraction)
-
-* [Quick Tip - Using Pipedream to Monitor my Algolia Index](https://www.raymondcamden.com/2021/06/16/quick-tip-using-pipedream-to-monitor-my-algolia-index)
 
 <!-- ENDRSS -->
 
