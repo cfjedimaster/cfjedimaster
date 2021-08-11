@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [More Work on Algolia and My Blog](https://www.raymondcamden.com/2021/08/11/more-work-on-algolia-and-my-blog)
+
 * [Uploading Multiple Files with Fetch](https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch)
 
 * [Check out Begin](https://www.raymondcamden.com/2021/08/06/check-out-begin)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Pipedream to Proxy Other APIs](https://www.raymondcamden.com/2021/06/30/using-pipedream-to-proxy-other-apis)
 
 * [Dynamic Short URLs with Eleventy](https://www.raymondcamden.com/2021/06/22/dynamic-short-urls-with-eleventy)
-
-* [Using PDFs with the Jamstack - Adding Search with Text Extraction](https://www.raymondcamden.com/2021/06/18/using-pdfs-with-the-jamstack-adding-search-with-text-extraction)
 
 <!-- ENDRSS -->
 
