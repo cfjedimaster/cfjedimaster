@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using PDFs with the Jamstack - Building a Document Viewer](https://www.raymondcamden.com/2021/08/30/using-pdfs-with-the-jamstack-building-a-document-viewer)
+
 * [Using Liquid Blocks in Eleventy Layouts](https://www.raymondcamden.com/2021/08/19/using-liquid-blocks-in-eleventy-layouts)
 
 * [More Work on Algolia and My Blog](https://www.raymondcamden.com/2021/08/11/more-work-on-algolia-and-my-blog)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Creating an Additive Capture Shortcode in Eleventy](https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy)
 
 * [Graphing Movie Rating Distribution For No Good Reason](https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason)
-
-* [Using Pipedream to Proxy Other APIs](https://www.raymondcamden.com/2021/06/30/using-pipedream-to-proxy-other-apis)
 
 <!-- ENDRSS -->
 
