@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Making Monsters Fight for Fun and Profit (minus the profit)](https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit)
+
 * [Using PDFs with the Jamstack - Building a Document Viewer](https://www.raymondcamden.com/2021/08/30/using-pdfs-with-the-jamstack-building-a-document-viewer)
 
 * [Using Liquid Blocks in Eleventy Layouts](https://www.raymondcamden.com/2021/08/19/using-liquid-blocks-in-eleventy-layouts)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Integrating Eleventy with GitHub Flat Data](https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data)
 
 * [Creating an Additive Capture Shortcode in Eleventy](https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy)
-
-* [Graphing Movie Rating Distribution For No Good Reason](https://www.raymondcamden.com/2021/07/09/graphing-movie-rating-distribution-for-no-good-reason)
 
 <!-- ENDRSS -->
 
