@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building an App with the StackOverflow API](https://www.raymondcamden.com/2021/09/16/building-an-app-with-the-stackoverflow-api)
+
 * [Making Monsters Fight for Fun and Profit (minus the profit)](https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit)
 
 * [Using PDFs with the Jamstack - Building a Document Viewer](https://www.raymondcamden.com/2021/08/30/using-pdfs-with-the-jamstack-building-a-document-viewer)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Page Level URL Fetching with Eleventy](https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy)
 
 * [Integrating Eleventy with GitHub Flat Data](https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data)
-
-* [Creating an Additive Capture Shortcode in Eleventy](https://www.raymondcamden.com/2021/07/12/creating-an-additive-capture-shortcode-in-eleventy)
 
 <!-- ENDRSS -->
 
