@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Supporting Multiple Authors in an Eleventy Blog - Follow-Up](https://www.raymondcamden.com/2021/09/19/supporting-multiple-authors-in-an-eleventy-blog-follow-up)
+
 * [Building an App with the StackOverflow API](https://www.raymondcamden.com/2021/09/16/building-an-app-with-the-stackoverflow-api)
 
 * [Making Monsters Fight for Fun and Profit (minus the profit)](https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [An Adobe PDF Embed Plugin for Eleventy](https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy)
 
 * [Page Level URL Fetching with Eleventy](https://www.raymondcamden.com/2021/07/30/page-level-url-fetching-with-eleventy)
-
-* [Integrating Eleventy with GitHub Flat Data](https://www.raymondcamden.com/2021/07/14/integrating-eleventy-with-github-flat-data)
 
 <!-- ENDRSS -->
 
