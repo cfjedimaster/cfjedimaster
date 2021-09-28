@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building the PlacePlaceHolder Service with Pipedream](https://www.raymondcamden.com/2021/09/28/building-the-placeplaceholder-service-with-pipedream)
+
 * [Creating a (Manual) Related Posts Feature in Eleventy](https://www.raymondcamden.com/2021/09/24/creating-a-manual-related-posts-feature-in-eleventy)
 
 * [Supporting Multiple Authors in an Eleventy Blog - Follow-Up](https://www.raymondcamden.com/2021/09/19/supporting-multiple-authors-in-an-eleventy-blog-follow-up)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Uploading Multiple Files with Fetch](https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch)
 
 * [Check out Begin](https://www.raymondcamden.com/2021/08/06/check-out-begin)
-
-* [An Adobe PDF Embed Plugin for Eleventy](https://www.raymondcamden.com/2021/08/02/an-adobe-pdf-embed-plugin-for-eleventy)
 
 <!-- ENDRSS -->
 
