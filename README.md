@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Eleventy 1.0 - New Output Options](https://www.raymondcamden.com/2021/10/07/eleventy-10-new-output-options)
+
 * [Eleventy 1.0 Beta!](https://www.raymondcamden.com/2021/10/06/eleventy-10-beta)
 
 * [Building the PlacePlaceHolder Service with Pipedream](https://www.raymondcamden.com/2021/09/28/building-the-placeplaceholder-service-with-pipedream)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Liquid Blocks in Eleventy Layouts](https://www.raymondcamden.com/2021/08/19/using-liquid-blocks-in-eleventy-layouts)
 
 * [More Work on Algolia and My Blog](https://www.raymondcamden.com/2021/08/11/more-work-on-algolia-and-my-blog)
-
-* [Uploading Multiple Files with Fetch](https://www.raymondcamden.com/2021/08/08/uploading-multiple-files-with-fetch)
 
 <!-- ENDRSS -->
 
