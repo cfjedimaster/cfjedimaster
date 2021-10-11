@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Eleventy Hack/Tip/Possibly Bad Idea - Dynamic Theme Testing](https://www.raymondcamden.com/2021/10/11/eleventy-hacktippossibly-bad-idea-dynamic-theme-testing)
+
 * [Eleventy 1.0 - Upgrading Experience](https://www.raymondcamden.com/2021/10/08/eleventy-10-upgrading-experience)
 
 * [Eleventy 1.0 - New Output Options](https://www.raymondcamden.com/2021/10/07/eleventy-10-new-output-options)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Making Monsters Fight for Fun and Profit (minus the profit)](https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit)
 
 * [Using PDFs with the Jamstack - Building a Document Viewer](https://www.raymondcamden.com/2021/08/30/using-pdfs-with-the-jamstack-building-a-document-viewer)
-
-* [Using Liquid Blocks in Eleventy Layouts](https://www.raymondcamden.com/2021/08/19/using-liquid-blocks-in-eleventy-layouts)
 
 <!-- ENDRSS -->
 
