@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Eleventy 1.0 - Dynamic Ignores](https://www.raymondcamden.com/2021/10/15/eleventy-10-dynamic-ignores)
+
 * [Adding PDF Output Support to Eleventy](https://www.raymondcamden.com/2021/10/13/adding-pdf-output-supports-to-eleventy)
 
 * [Eleventy Hack/Tip/Possibly Bad Idea - Dynamic Theme Testing](https://www.raymondcamden.com/2021/10/11/eleventy-hacktippossibly-bad-idea-dynamic-theme-testing)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Supporting Multiple Authors in an Eleventy Blog - Follow-Up](https://www.raymondcamden.com/2021/09/19/supporting-multiple-authors-in-an-eleventy-blog-follow-up)
 
 * [Building an App with the StackOverflow API](https://www.raymondcamden.com/2021/09/16/building-an-app-with-the-stackoverflow-api)
-
-* [Making Monsters Fight for Fun and Profit (minus the profit)](https://www.raymondcamden.com/2021/09/06/making-monsters-fight-for-fun-and-profit-minus-the-profit)
 
 <!-- ENDRSS -->
 
