@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Eleventy 1.0 - New Option for Global Data](https://www.raymondcamden.com/2021/11/02/eleventy-10-new-option-for-global-data)
+
 * [Welcome to RaymondCamden.com 2022](https://www.raymondcamden.com/2021/10/21/welcome-to-raymondcamdencom-2022)
 
 * [Eleventy 1.0 - Dynamic Ignores](https://www.raymondcamden.com/2021/10/15/eleventy-10-dynamic-ignores)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building the PlacePlaceHolder Service with Pipedream](https://www.raymondcamden.com/2021/09/28/building-the-placeplaceholder-service-with-pipedream)
 
 * [Creating a (Manual) Related Posts Feature in Eleventy](https://www.raymondcamden.com/2021/09/24/creating-a-manual-related-posts-feature-in-eleventy)
-
-* [Supporting Multiple Authors in an Eleventy Blog - Follow-Up](https://www.raymondcamden.com/2021/09/19/supporting-multiple-authors-in-an-eleventy-blog-follow-up)
 
 <!-- ENDRSS -->
 
