@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Review: Captain Code: Unleash Your Coding Superpower with Python](https://www.raymondcamden.com/2021/11/22/review-captain-code-unleash-your-coding-superpower-with-python)
+
 * [Congratulating Yourself with Pipedream and Microsoft To Do](https://www.raymondcamden.com/2021/11/13/congratulating-yourself-with-pipedream-and-microsoft-to-do)
 
 * [Eleventy 1.0 - Global Data via Plugins Example](https://www.raymondcamden.com/2021/11/07/eleventy-10-global-data-via-plugins-example)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Eleventy 1.0 - Upgrading Experience](https://www.raymondcamden.com/2021/10/08/eleventy-10-upgrading-experience)
 
 * [Eleventy 1.0 - New Output Options](https://www.raymondcamden.com/2021/10/07/eleventy-10-new-output-options)
-
-* [Eleventy 1.0 Beta!](https://www.raymondcamden.com/2021/10/06/eleventy-10-beta)
 
 <!-- ENDRSS -->
 
