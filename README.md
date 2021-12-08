@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Fun (Scary?) Webcam Demo](https://www.raymondcamden.com/2021/12/08/fun-scary-webcam-demo)
+
 * [Eleventy 1.0 - The Serverless Plugin](https://www.raymondcamden.com/2021/12/04/eleventy-10-the-serverless-plugin)
 
 * [Review: Captain Code: Unleash Your Coding Superpower with Python](https://www.raymondcamden.com/2021/11/22/review-captain-code-unleash-your-coding-superpower-with-python)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding PDF Output Support to Eleventy](https://www.raymondcamden.com/2021/10/13/adding-pdf-output-supports-to-eleventy)
 
 * [Eleventy Hack/Tip/Possibly Bad Idea - Dynamic Theme Testing](https://www.raymondcamden.com/2021/10/11/eleventy-hacktippossibly-bad-idea-dynamic-theme-testing)
-
-* [Eleventy 1.0 - Upgrading Experience](https://www.raymondcamden.com/2021/10/08/eleventy-10-upgrading-experience)
 
 <!-- ENDRSS -->
 
