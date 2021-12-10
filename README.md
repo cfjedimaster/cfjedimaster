@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Running Netlify Dev and Eleventy Two or More Times At Once](https://www.raymondcamden.com/2021/12/10/running-netlify-dev-and-eleventy-two-or-more-times)
+
 * [Fun (Scary?) Webcam Demo](https://www.raymondcamden.com/2021/12/08/fun-scary-webcam-demo)
 
 * [Eleventy 1.0 - The Serverless Plugin](https://www.raymondcamden.com/2021/12/04/eleventy-10-the-serverless-plugin)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Eleventy 1.0 - Dynamic Ignores](https://www.raymondcamden.com/2021/10/15/eleventy-10-dynamic-ignores)
 
 * [Adding PDF Output Support to Eleventy](https://www.raymondcamden.com/2021/10/13/adding-pdf-output-supports-to-eleventy)
-
-* [Eleventy Hack/Tip/Possibly Bad Idea - Dynamic Theme Testing](https://www.raymondcamden.com/2021/10/11/eleventy-hacktippossibly-bad-idea-dynamic-theme-testing)
 
 <!-- ENDRSS -->
 
