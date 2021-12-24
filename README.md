@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Python for My Last Post of the Year...](https://www.raymondcamden.com/2021/12/24/python-for-my-last-post-of-the-year)
+
 * [Using Google Analytics 4 for Blog Stats](https://www.raymondcamden.com/2021/12/17/using-google-analytics-4-for-blog-stats)
 
 * [Running Netlify Dev and Eleventy Two or More Times At Once](https://www.raymondcamden.com/2021/12/10/running-netlify-dev-and-eleventy-two-or-more-times)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Eleventy 1.0 - New Option for Global Data](https://www.raymondcamden.com/2021/11/02/eleventy-10-new-option-for-global-data)
 
 * [Welcome to RaymondCamden.com 2022](https://www.raymondcamden.com/2021/10/21/welcome-to-raymondcamdencom-2022)
-
-* [Eleventy 1.0 - Dynamic Ignores](https://www.raymondcamden.com/2021/10/15/eleventy-10-dynamic-ignores)
 
 <!-- ENDRSS -->
 
