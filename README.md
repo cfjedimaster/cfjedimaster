@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a File Search Script in Python](https://www.raymondcamden.com/2022/01/03/building-a-file-search-script-in-python)
+
 * [year++](https://www.raymondcamden.com/2022/01/02/year)
 
 * [Python for My Last Post of the Year...](https://www.raymondcamden.com/2021/12/24/python-for-my-last-post-of-the-year)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Congratulating Yourself with Pipedream and Microsoft To Do](https://www.raymondcamden.com/2021/11/13/congratulating-yourself-with-pipedream-and-microsoft-to-do)
 
 * [Eleventy 1.0 - Global Data via Plugins Example](https://www.raymondcamden.com/2021/11/07/eleventy-10-global-data-via-plugins-example)
-
-* [Eleventy 1.0 - New Option for Global Data](https://www.raymondcamden.com/2021/11/02/eleventy-10-new-option-for-global-data)
 
 <!-- ENDRSS -->
 
