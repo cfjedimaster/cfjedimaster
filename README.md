@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Working with Front Matter in Python](https://www.raymondcamden.com/2022/01/06/working-with-frontmatter-in-python)
+
 * [Building a File Search Script in Python](https://www.raymondcamden.com/2022/01/03/building-a-file-search-script-in-python)
 
 * [year++](https://www.raymondcamden.com/2022/01/02/year)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Review: Captain Code: Unleash Your Coding Superpower with Python](https://www.raymondcamden.com/2021/11/22/review-captain-code-unleash-your-coding-superpower-with-python)
 
 * [Congratulating Yourself with Pipedream and Microsoft To Do](https://www.raymondcamden.com/2021/11/13/congratulating-yourself-with-pipedream-and-microsoft-to-do)
-
-* [Eleventy 1.0 - Global Data via Plugins Example](https://www.raymondcamden.com/2021/11/07/eleventy-10-global-data-via-plugins-example)
 
 <!-- ENDRSS -->
 
