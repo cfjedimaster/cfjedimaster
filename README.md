@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building my First Idle Clicker Game in Vue.js](https://www.raymondcamden.com/2022/01/13/building-my-first-idle-clicker-game-in-vuejs)
+
 * [Working with Front Matter in Python](https://www.raymondcamden.com/2022/01/06/working-with-frontmatter-in-python)
 
 * [Building a File Search Script in Python](https://www.raymondcamden.com/2022/01/03/building-a-file-search-script-in-python)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Eleventy 1.0 - The Serverless Plugin](https://www.raymondcamden.com/2021/12/04/eleventy-10-the-serverless-plugin)
 
 * [Review: Captain Code: Unleash Your Coding Superpower with Python](https://www.raymondcamden.com/2021/11/22/review-captain-code-unleash-your-coding-superpower-with-python)
-
-* [Congratulating Yourself with Pipedream and Microsoft To Do](https://www.raymondcamden.com/2021/11/13/congratulating-yourself-with-pipedream-and-microsoft-to-do)
 
 <!-- ENDRSS -->
 
