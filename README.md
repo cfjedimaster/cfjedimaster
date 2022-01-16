@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Review: Make 7 Apps With Vue 2](https://www.raymondcamden.com/2022/01/16/review-make-7-apps-with-vue-2)
+
 * [Building my First Idle Clicker Game in Vue.js](https://www.raymondcamden.com/2022/01/13/building-my-first-idle-clicker-game-in-vuejs)
 
 * [Working with Front Matter in Python](https://www.raymondcamden.com/2022/01/06/working-with-frontmatter-in-python)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Fun (Scary?) Webcam Demo](https://www.raymondcamden.com/2021/12/08/fun-scary-webcam-demo)
 
 * [Eleventy 1.0 - The Serverless Plugin](https://www.raymondcamden.com/2021/12/04/eleventy-10-the-serverless-plugin)
-
-* [Review: Captain Code: Unleash Your Coding Superpower with Python](https://www.raymondcamden.com/2021/11/22/review-captain-code-unleash-your-coding-superpower-with-python)
 
 <!-- ENDRSS -->
 
