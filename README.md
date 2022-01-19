@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [A Guide to Building a Blog in Eleventy](https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy)
+
 * [Review: Make 7 Apps With Vue 2](https://www.raymondcamden.com/2022/01/16/review-make-7-apps-with-vue-2)
 
 * [Building my First Idle Clicker Game in Vue.js](https://www.raymondcamden.com/2022/01/13/building-my-first-idle-clicker-game-in-vuejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Running Netlify Dev and Eleventy Two or More Times At Once](https://www.raymondcamden.com/2021/12/10/running-netlify-dev-and-eleventy-two-or-more-times)
 
 * [Fun (Scary?) Webcam Demo](https://www.raymondcamden.com/2021/12/08/fun-scary-webcam-demo)
-
-* [Eleventy 1.0 - The Serverless Plugin](https://www.raymondcamden.com/2021/12/04/eleventy-10-the-serverless-plugin)
 
 <!-- ENDRSS -->
 
