@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Searching the New York Times with Python](https://www.raymondcamden.com/2022/01/22/searching-the-new-york-times-with-python)
+
 * [A Guide to Building a Blog in Eleventy](https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy)
 
 * [Review: Make 7 Apps With Vue 2](https://www.raymondcamden.com/2022/01/16/review-make-7-apps-with-vue-2)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Google Analytics 4 for Blog Stats](https://www.raymondcamden.com/2021/12/17/using-google-analytics-4-for-blog-stats)
 
 * [Running Netlify Dev and Eleventy Two or More Times At Once](https://www.raymondcamden.com/2021/12/10/running-netlify-dev-and-eleventy-two-or-more-times)
-
-* [Fun (Scary?) Webcam Demo](https://www.raymondcamden.com/2021/12/08/fun-scary-webcam-demo)
 
 <!-- ENDRSS -->
 
