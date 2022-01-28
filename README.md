@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using a Google Photos Album in your Eleventy Site with Pipedream](https://www.raymondcamden.com/2022/01/28/using-a-google-photos-album-in-your-eleventy-site-with-pipedream)
+
 * [Accessing Google Photos with Pipedream](https://www.raymondcamden.com/2022/01/26/accessing-google-photos-with-pipedream)
 
 * [Searching the New York Times with Python](https://www.raymondcamden.com/2022/01/22/searching-the-new-york-times-with-python)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [year++](https://www.raymondcamden.com/2022/01/02/year)
 
 * [Python for My Last Post of the Year...](https://www.raymondcamden.com/2021/12/24/python-for-my-last-post-of-the-year)
-
-* [Using Google Analytics 4 for Blog Stats](https://www.raymondcamden.com/2021/12/17/using-google-analytics-4-for-blog-stats)
 
 <!-- ENDRSS -->
 
