@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [An Early Look at Netlify Scheduled Functions](https://www.raymondcamden.com/2022/02/04/an-early-look-at-netlify-scheduled-functions)
+
 * [A Google Static Maps Eleventy Plugin](https://www.raymondcamden.com/2022/02/02/a-google-static-maps-eleventy-plugin)
 
 * [Using a Google Photos Album in your Eleventy Site with Pipedream](https://www.raymondcamden.com/2022/01/28/using-a-google-photos-album-in-your-eleventy-site-with-pipedream)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Working with Front Matter in Python](https://www.raymondcamden.com/2022/01/06/working-with-frontmatter-in-python)
 
 * [Building a File Search Script in Python](https://www.raymondcamden.com/2022/01/03/building-a-file-search-script-in-python)
-
-* [year++](https://www.raymondcamden.com/2022/01/02/year)
 
 <!-- ENDRSS -->
 
