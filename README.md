@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using the Microsoft Computer Vision API with Python](https://www.raymondcamden.com/2022/02/08/using-the-microsoft-computer-vision-api-with-python)
+
 * [An Early Look at Netlify Scheduled Functions](https://www.raymondcamden.com/2022/02/04/an-early-look-at-netlify-scheduled-functions)
 
 * [A Google Static Maps Eleventy Plugin](https://www.raymondcamden.com/2022/02/02/a-google-static-maps-eleventy-plugin)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building my First Idle Clicker Game in Vue.js](https://www.raymondcamden.com/2022/01/13/building-my-first-idle-clicker-game-in-vuejs)
 
 * [Working with Front Matter in Python](https://www.raymondcamden.com/2022/01/06/working-with-frontmatter-in-python)
-
-* [Building a File Search Script in Python](https://www.raymondcamden.com/2022/01/03/building-a-file-search-script-in-python)
 
 <!-- ENDRSS -->
 
