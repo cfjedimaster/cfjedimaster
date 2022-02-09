@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Turning a Microsoft ToDo List Into a Public JSON Feed with Pipedream](https://www.raymondcamden.com/2022/02/09/turning-a-microsoft-todo-list-into-a-public-json-feed-with-pipedream)
+
 * [Using the Microsoft Computer Vision API with Python](https://www.raymondcamden.com/2022/02/08/using-the-microsoft-computer-vision-api-with-python)
 
 * [An Early Look at Netlify Scheduled Functions](https://www.raymondcamden.com/2022/02/04/an-early-look-at-netlify-scheduled-functions)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Review: Make 7 Apps With Vue 2](https://www.raymondcamden.com/2022/01/16/review-make-7-apps-with-vue-2)
 
 * [Building my First Idle Clicker Game in Vue.js](https://www.raymondcamden.com/2022/01/13/building-my-first-idle-clicker-game-in-vuejs)
-
-* [Working with Front Matter in Python](https://www.raymondcamden.com/2022/01/06/working-with-frontmatter-in-python)
 
 <!-- ENDRSS -->
 
