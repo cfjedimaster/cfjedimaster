@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding QR Codes to Your Jamstack Site](https://www.raymondcamden.com/2022/02/11/adding-qr-codes-to-your-jamstack-site)
+
 * [Turning a Microsoft ToDo List Into a Public JSON Feed with Pipedream](https://www.raymondcamden.com/2022/02/09/turning-a-microsoft-todo-list-into-a-public-json-feed-with-pipedream)
 
 * [Using the Microsoft Computer Vision API with Python](https://www.raymondcamden.com/2022/02/08/using-the-microsoft-computer-vision-api-with-python)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [A Guide to Building a Blog in Eleventy](https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy)
 
 * [Review: Make 7 Apps With Vue 2](https://www.raymondcamden.com/2022/01/16/review-make-7-apps-with-vue-2)
-
-* [Building my First Idle Clicker Game in Vue.js](https://www.raymondcamden.com/2022/01/13/building-my-first-idle-clicker-game-in-vuejs)
 
 <!-- ENDRSS -->
 
