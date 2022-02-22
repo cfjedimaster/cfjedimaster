@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing out the new Pipedream to Get Trance Releases](https://www.raymondcamden.com/2022/02/22/testing-out-the-new-pipedream-to-get-trance-releases)
+
 * [Another Early Look - Netlify Graph](https://www.raymondcamden.com/2022/02/17/another-early-look-netlify-graph)
 
 * [Adding QR Codes to Your Jamstack Site](https://www.raymondcamden.com/2022/02/11/adding-qr-codes-to-your-jamstack-site)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Accessing Google Photos with Pipedream](https://www.raymondcamden.com/2022/01/26/accessing-google-photos-with-pipedream)
 
 * [Searching the New York Times with Python](https://www.raymondcamden.com/2022/01/22/searching-the-new-york-times-with-python)
-
-* [A Guide to Building a Blog in Eleventy](https://www.raymondcamden.com/2022/01/19/a-guide-to-building-a-blog-in-eleventy)
 
 <!-- ENDRSS -->
 
