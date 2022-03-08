@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Including RSS Content in your Eleventy Site](https://www.raymondcamden.com/2022/03/08/including-rss-content-in-your-eleventy-site)
+
 * [Working with Algolia's Crawler](https://www.raymondcamden.com/2022/03/04/working-with-algolias-crawler)
 
 * [Testing out the new Pipedream to Get Trance Releases](https://www.raymondcamden.com/2022/02/22/testing-out-the-new-pipedream-to-get-trance-releases)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [A Google Static Maps Eleventy Plugin](https://www.raymondcamden.com/2022/02/02/a-google-static-maps-eleventy-plugin)
 
 * [Using a Google Photos Album in your Eleventy Site with Pipedream](https://www.raymondcamden.com/2022/01/28/using-a-google-photos-album-in-your-eleventy-site-with-pipedream)
-
-* [Accessing Google Photos with Pipedream](https://www.raymondcamden.com/2022/01/26/accessing-google-photos-with-pipedream)
 
 <!-- ENDRSS -->
 
