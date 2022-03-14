@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building Table Sorting and Pagination in JavaScript](https://www.raymondcamden.com/2022/03/14/building-table-sorting-and-pagination-in-javascript)
+
 * [Including RSS Content in your Eleventy Site](https://www.raymondcamden.com/2022/03/08/including-rss-content-in-your-eleventy-site)
 
 * [Working with Algolia's Crawler](https://www.raymondcamden.com/2022/03/04/working-with-algolias-crawler)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [An Early Look at Netlify Scheduled Functions](https://www.raymondcamden.com/2022/02/04/an-early-look-at-netlify-scheduled-functions)
 
 * [A Google Static Maps Eleventy Plugin](https://www.raymondcamden.com/2022/02/02/a-google-static-maps-eleventy-plugin)
-
-* [Using a Google Photos Album in your Eleventy Site with Pipedream](https://www.raymondcamden.com/2022/01/28/using-a-google-photos-album-in-your-eleventy-site-with-pipedream)
 
 <!-- ENDRSS -->
 
