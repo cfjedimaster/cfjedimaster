@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Speaking at Eleventy Meetup Next Week](https://www.raymondcamden.com/2022/03/24/speaking-at-eleventy-meetup-next-week)
+
 * [Hosting an Alexa Skill on Pipedream](https://www.raymondcamden.com/2022/03/17/hosting-an-alexa-skill-on-pipedream)
 
 * [Building Table Sorting and Pagination in JavaScript](https://www.raymondcamden.com/2022/03/14/building-table-sorting-and-pagination-in-javascript)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Turning a Microsoft ToDo List Into a Public JSON Feed with Pipedream](https://www.raymondcamden.com/2022/02/09/turning-a-microsoft-todo-list-into-a-public-json-feed-with-pipedream)
 
 * [Using the Microsoft Computer Vision API with Python](https://www.raymondcamden.com/2022/02/08/using-the-microsoft-computer-vision-api-with-python)
-
-* [An Early Look at Netlify Scheduled Functions](https://www.raymondcamden.com/2022/02/04/an-early-look-at-netlify-scheduled-functions)
 
 <!-- ENDRSS -->
 
