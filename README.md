@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Including RSS Content in your Eleventy Site - Part 2](https://www.raymondcamden.com/2022/04/03/including-rss-content-in-your-eleventy-site-part-2)
+
 * [A Snippet for Getting DZone Article Stats](https://www.raymondcamden.com/2022/03/30/a-snippet-for-getting-dzone-article-stats)
 
 * [Saving Form Data in Client-Side Storage](https://www.raymondcamden.com/2022/03/27/saving-form-data-in-client-side-storage)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Testing out the new Pipedream to Get Trance Releases](https://www.raymondcamden.com/2022/02/22/testing-out-the-new-pipedream-to-get-trance-releases)
 
 * [Another Early Look - Netlify Graph](https://www.raymondcamden.com/2022/02/17/another-early-look-netlify-graph)
-
-* [Adding QR Codes to Your Jamstack Site](https://www.raymondcamden.com/2022/02/11/adding-qr-codes-to-your-jamstack-site)
 
 <!-- ENDRSS -->
 
