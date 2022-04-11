@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Use Your Saffron Recipes in the Jamstack](https://www.raymondcamden.com/2022/04/11/use-your-saffron-recipes-in-the-jamstack)
+
 * [Thoughts on the Jamstack and Content Metrics](https://www.raymondcamden.com/2022/04/06/thoughts-on-jamstack-and-content-metrics)
 
 * [Including RSS Content in your Eleventy Site - Part 2](https://www.raymondcamden.com/2022/04/03/including-rss-content-in-your-eleventy-site-part-2)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Including RSS Content in your Eleventy Site](https://www.raymondcamden.com/2022/03/08/including-rss-content-in-your-eleventy-site)
 
 * [Working with Algolia's Crawler](https://www.raymondcamden.com/2022/03/04/working-with-algolias-crawler)
-
-* [Testing out the new Pipedream to Get Trance Releases](https://www.raymondcamden.com/2022/02/22/testing-out-the-new-pipedream-to-get-trance-releases)
 
 <!-- ENDRSS -->
 
