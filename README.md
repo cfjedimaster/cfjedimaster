@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Watching RSS Feeds for Keywords in Pipedream](https://www.raymondcamden.com/2022/04/19/watching-rss-feeds-for-keywords-in-pipedream)
+
 * [Links For You](https://www.raymondcamden.com/2022/04/17/links-for-you)
 
 * [Use Your Saffron Recipes in the Jamstack](https://www.raymondcamden.com/2022/04/11/use-your-saffron-recipes-in-the-jamstack)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Hosting an Alexa Skill on Pipedream](https://www.raymondcamden.com/2022/03/17/hosting-an-alexa-skill-on-pipedream)
 
 * [Building Table Sorting and Pagination in JavaScript](https://www.raymondcamden.com/2022/03/14/building-table-sorting-and-pagination-in-javascript)
-
-* [Including RSS Content in your Eleventy Site](https://www.raymondcamden.com/2022/03/08/including-rss-content-in-your-eleventy-site)
 
 <!-- ENDRSS -->
 
