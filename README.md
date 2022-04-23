@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Store Nintendo Switch Screenshots in the Cloud using Pipedream](https://www.raymondcamden.com/2022/04/23/store-nintendo-switch-screenshots-in-the-cloud-using-pipedream)
+
 * [The Jamstack Book - Final Release!](https://www.raymondcamden.com/2022/04/21/the-jamstack-book-final-release)
 
 * [Watching RSS Feeds for Keywords in Pipedream](https://www.raymondcamden.com/2022/04/19/watching-rss-feeds-for-keywords-in-pipedream)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Saving Form Data in Client-Side Storage](https://www.raymondcamden.com/2022/03/27/saving-form-data-in-client-side-storage)
 
 * [Speaking at Eleventy Meetup Next Week](https://www.raymondcamden.com/2022/03/24/speaking-at-eleventy-meetup-next-week)
-
-* [Hosting an Alexa Skill on Pipedream](https://www.raymondcamden.com/2022/03/17/hosting-an-alexa-skill-on-pipedream)
 
 <!-- ENDRSS -->
 
