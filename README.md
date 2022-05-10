@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Improved Utility Actions with Pipedream](https://www.raymondcamden.com/2022/05/10/improved-utility-actions-with-pipedream)
+
 * [Links For You](https://www.raymondcamden.com/2022/05/08/links-for-you)
 
 * [Building Table Sorting and Pagination in Alpine.js](https://www.raymondcamden.com/2022/05/02/building-table-sorting-and-pagination-in-alpinejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2022/04/17/links-for-you)
 
 * [Use Your Saffron Recipes in the Jamstack](https://www.raymondcamden.com/2022/04/11/use-your-saffron-recipes-in-the-jamstack)
-
-* [Thoughts on the Jamstack and Content Metrics](https://www.raymondcamden.com/2022/04/06/thoughts-on-jamstack-and-content-metrics)
 
 <!-- ENDRSS -->
 
