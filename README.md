@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Rebuilding TBS Horoscope (Again) as a Pipedream Twitter Bot](https://www.raymondcamden.com/2022/05/13/rebuilding-tbs-horoscope-again-as-a-pipedream-twitter-bot)
+
 * [Improved Utility Actions with Pipedream](https://www.raymondcamden.com/2022/05/10/improved-utility-actions-with-pipedream)
 
 * [Links For You](https://www.raymondcamden.com/2022/05/08/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Watching RSS Feeds for Keywords in Pipedream](https://www.raymondcamden.com/2022/04/19/watching-rss-feeds-for-keywords-in-pipedream)
 
 * [Links For You](https://www.raymondcamden.com/2022/04/17/links-for-you)
-
-* [Use Your Saffron Recipes in the Jamstack](https://www.raymondcamden.com/2022/04/11/use-your-saffron-recipes-in-the-jamstack)
 
 <!-- ENDRSS -->
 
