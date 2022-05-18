@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My First Web Component](https://www.raymondcamden.com/2022/05/18/my-first-web-component)
+
 * [Kicking Off a Pipedream Workflow on a Full Moon (Because Why Not?)](https://www.raymondcamden.com/2022/05/16/kicking-off-a-pipedream-workflow-on-a-full-moon-because-why-not)
 
 * [Rebuilding TBS Horoscope (Again) as a Pipedream Twitter Bot](https://www.raymondcamden.com/2022/05/13/rebuilding-tbs-horoscope-again-as-a-pipedream-twitter-bot)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Store Nintendo Switch Screenshots in the Cloud using Pipedream](https://www.raymondcamden.com/2022/04/23/store-nintendo-switch-screenshots-in-the-cloud-using-pipedream)
 
 * [The Jamstack Book - Final Release!](https://www.raymondcamden.com/2022/04/21/the-jamstack-book-final-release)
-
-* [Watching RSS Feeds for Keywords in Pipedream](https://www.raymondcamden.com/2022/04/19/watching-rss-feeds-for-keywords-in-pipedream)
 
 <!-- ENDRSS -->
 
