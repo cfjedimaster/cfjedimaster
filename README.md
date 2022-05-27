@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Integrate Your Netlify Builds with Tidbyt and Pipedream](https://www.raymondcamden.com/2022/05/26/integrate-your-netlify-builds-with-tidbyt-and-pipedream)
+
 * [Building Table Sorting and Pagination in a Web Component](https://www.raymondcamden.com/2022/05/23/building-table-sorting-and-pagination-in-a-web-component)
 
 * [My First Web Component](https://www.raymondcamden.com/2022/05/18/my-first-web-component)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2022/05/01/links-for-you)
 
 * [Writing to Google Photos from Pipedream - Some Tips](https://www.raymondcamden.com/2022/04/28/writing-to-google-photos-from-pipedream-some-tips)
-
-* [Store Nintendo Switch Screenshots in the Cloud using Pipedream](https://www.raymondcamden.com/2022/04/23/store-nintendo-switch-screenshots-in-the-cloud-using-pipedream)
 
 <!-- ENDRSS -->
 
