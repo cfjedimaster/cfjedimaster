@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Related Content by Day of Year in Eleventy](https://www.raymondcamden.com/2022/06/23/related-content-by-day-of-year-in-eleventy)
+
 * [Building a Quiz with Eleventy and Eleventy Serverless](https://www.raymondcamden.com/2022/06/18/building-a-quiz-with-eleventy-and-eleventy-serverless)
 
 * [Links For You](https://www.raymondcamden.com/2022/06/14/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Kicking Off a Pipedream Workflow on a Full Moon (Because Why Not?)](https://www.raymondcamden.com/2022/05/16/kicking-off-a-pipedream-workflow-on-a-full-moon-because-why-not)
 
 * [Rebuilding TBS Horoscope (Again) as a Pipedream Twitter Bot](https://www.raymondcamden.com/2022/05/13/rebuilding-tbs-horoscope-again-as-a-pipedream-twitter-bot)
-
-* [Improved Utility Actions with Pipedream](https://www.raymondcamden.com/2022/05/10/improved-utility-actions-with-pipedream)
 
 <!-- ENDRSS -->
 
