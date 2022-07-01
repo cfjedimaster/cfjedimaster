@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Reading Comic Books in the Jamstack](https://www.raymondcamden.com/2022/07/01/reading-comic-books-in-the-jamstack)
+
 * [Testing the Netlify Cache Plugin with Eleventy](https://www.raymondcamden.com/2022/06/26/testing-the-netlify-cache-plugin-with-eleventy)
 
 * [Related Content by Day of Year in Eleventy](https://www.raymondcamden.com/2022/06/23/related-content-by-day-of-year-in-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building Table Sorting and Pagination in a Web Component](https://www.raymondcamden.com/2022/05/23/building-table-sorting-and-pagination-in-a-web-component)
 
 * [My First Web Component](https://www.raymondcamden.com/2022/05/18/my-first-web-component)
-
-* [Kicking Off a Pipedream Workflow on a Full Moon (Because Why Not?)](https://www.raymondcamden.com/2022/05/16/kicking-off-a-pipedream-workflow-on-a-full-moon-because-why-not)
 
 <!-- ENDRSS -->
 
