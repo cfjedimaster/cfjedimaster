@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Auth0 Login with JavaScript - Some Tips](https://www.raymondcamden.com/2022/07/11/using-auth0-login-with-javascript-some-tips)
+
 * [Links For You](https://www.raymondcamden.com/2022/07/03/links-for-you)
 
 * [Reading Comic Books in the Jamstack](https://www.raymondcamden.com/2022/07/01/reading-comic-books-in-the-jamstack)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2022/05/29/links-for-you)
 
 * [Integrate Your Netlify Builds with Tidbyt and Pipedream](https://www.raymondcamden.com/2022/05/26/integrate-your-netlify-builds-with-tidbyt-and-pipedream)
-
-* [Building Table Sorting and Pagination in a Web Component](https://www.raymondcamden.com/2022/05/23/building-table-sorting-and-pagination-in-a-web-component)
 
 <!-- ENDRSS -->
 
