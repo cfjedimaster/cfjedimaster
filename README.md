@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [An example of Algolia Search with Alpine.js](https://www.raymondcamden.com/2022/07/19/an-example-of-algolia-search-with-alpinejs)
+
 * [Getting Images from a Twitter Account (2022)](https://www.raymondcamden.com/2022/07/15/getting-images-from-a-twitter-account-2022)
 
 * [Using Auth0 Login with JavaScript - Some Tips](https://www.raymondcamden.com/2022/07/11/using-auth0-login-with-javascript-some-tips)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2022/06/14/links-for-you)
 
 * [Image Upload Preview in Alpine.js](https://www.raymondcamden.com/2022/06/03/image-upload-preview-in-alpinejs)
-
-* [Links For You](https://www.raymondcamden.com/2022/05/29/links-for-you)
 
 <!-- ENDRSS -->
 
