@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Generating Zips in an Eleventy Site](https://www.raymondcamden.com/2022/07/23/generating-zips-in-an-eleventy-site)
+
 * [An example of Algolia Search with Alpine.js](https://www.raymondcamden.com/2022/07/19/an-example-of-algolia-search-with-alpinejs)
 
 * [Getting Images from a Twitter Account (2022)](https://www.raymondcamden.com/2022/07/15/getting-images-from-a-twitter-account-2022)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Quiz with Eleventy and Eleventy Serverless](https://www.raymondcamden.com/2022/06/18/building-a-quiz-with-eleventy-and-eleventy-serverless)
 
 * [Links For You](https://www.raymondcamden.com/2022/06/14/links-for-you)
-
-* [Image Upload Preview in Alpine.js](https://www.raymondcamden.com/2022/06/03/image-upload-preview-in-alpinejs)
 
 <!-- ENDRSS -->
 
