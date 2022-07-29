@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building Related Selects in Alpine.js](https://www.raymondcamden.com/2022/07/29/building-related-selects-in-alpinejs)
+
 * [Generating Zips in an Eleventy Site](https://www.raymondcamden.com/2022/07/23/generating-zips-in-an-eleventy-site)
 
 * [An example of Algolia Search with Alpine.js](https://www.raymondcamden.com/2022/07/19/an-example-of-algolia-search-with-alpinejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Related Content by Day of Year in Eleventy](https://www.raymondcamden.com/2022/06/23/related-content-by-day-of-year-in-eleventy)
 
 * [Building a Quiz with Eleventy and Eleventy Serverless](https://www.raymondcamden.com/2022/06/18/building-a-quiz-with-eleventy-and-eleventy-serverless)
-
-* [Links For You](https://www.raymondcamden.com/2022/06/14/links-for-you)
 
 <!-- ENDRSS -->
 
