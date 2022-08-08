@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Responding to Severe Weather Alerts with Pipedream](https://www.raymondcamden.com/2022/08/08/responding-to-severe-weather-alerts-with-pipedream)
+
 * [Links For You](https://www.raymondcamden.com/2022/08/01/links-for-you)
 
 * [Building Related Selects in Alpine.js](https://www.raymondcamden.com/2022/07/29/building-related-selects-in-alpinejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Reading Comic Books in the Jamstack](https://www.raymondcamden.com/2022/07/01/reading-comic-books-in-the-jamstack)
 
 * [Testing the Netlify Cache Plugin with Eleventy](https://www.raymondcamden.com/2022/06/26/testing-the-netlify-cache-plugin-with-eleventy)
-
-* [Related Content by Day of Year in Eleventy](https://www.raymondcamden.com/2022/06/23/related-content-by-day-of-year-in-eleventy)
 
 <!-- ENDRSS -->
 
