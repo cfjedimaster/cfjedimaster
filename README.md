@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Support Draft Blog Posts in Eleventy](https://www.raymondcamden.com/2022/08/14/support-draft-blog-posts-in-eleventy)
+
 * [Building a Web-Based Badge Scanner](https://www.raymondcamden.com/2022/08/11/building-a-web-based-badge-scanner)
 
 * [How to Migrate from Lunr to Algolia - a Technical Guide](https://www.raymondcamden.com/2022/08/09/how-to-migrate-from-lunr-to-algolia-a-technical-guide)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Getting Images from a Twitter Account (2022)](https://www.raymondcamden.com/2022/07/15/getting-images-from-a-twitter-account-2022)
 
 * [Using Auth0 Login with JavaScript - Some Tips](https://www.raymondcamden.com/2022/07/11/using-auth0-login-with-javascript-some-tips)
-
-* [Links For You](https://www.raymondcamden.com/2022/07/03/links-for-you)
 
 <!-- ENDRSS -->
 
