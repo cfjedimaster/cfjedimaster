@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Investigating IndexedDB Wrapper Libraries - Part One](https://www.raymondcamden.com/2022/08/17/investigating-indexeddb-wrapper-libraries-part-one)
+
 * [Support Draft Blog Posts in Eleventy](https://www.raymondcamden.com/2022/08/14/support-draft-blog-posts-in-eleventy)
 
 * [Building a Web-Based Badge Scanner](https://www.raymondcamden.com/2022/08/11/building-a-web-based-badge-scanner)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [An example of Algolia Search with Alpine.js](https://www.raymondcamden.com/2022/07/19/an-example-of-algolia-search-with-alpinejs)
 
 * [Getting Images from a Twitter Account (2022)](https://www.raymondcamden.com/2022/07/15/getting-images-from-a-twitter-account-2022)
-
-* [Using Auth0 Login with JavaScript - Some Tips](https://www.raymondcamden.com/2022/07/11/using-auth0-login-with-javascript-some-tips)
 
 <!-- ENDRSS -->
 
