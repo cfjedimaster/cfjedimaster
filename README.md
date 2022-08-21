@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links for You](https://www.raymondcamden.com/2022/08/21/links-for-you)
+
 * [Investigating IndexedDB Wrapper Libraries - Part Two](https://www.raymondcamden.com/2022/08/18/investigating-indexeddb-wrapper-libraries-part-two)
 
 * [Investigating IndexedDB Wrapper Libraries - Part One](https://www.raymondcamden.com/2022/08/17/investigating-indexeddb-wrapper-libraries-part-one)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building Related Selects in Alpine.js](https://www.raymondcamden.com/2022/07/29/building-related-selects-in-alpinejs)
 
 * [Generating Zips in an Eleventy Site](https://www.raymondcamden.com/2022/07/23/generating-zips-in-an-eleventy-site)
-
-* [An example of Algolia Search with Alpine.js](https://www.raymondcamden.com/2022/07/19/an-example-of-algolia-search-with-alpinejs)
 
 <!-- ENDRSS -->
 
