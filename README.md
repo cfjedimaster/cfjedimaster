@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding Social Share Links in Eleventy](https://www.raymondcamden.com/2022/08/22/adding-social-share-links-in-eleventy)
+
 * [Links for You](https://www.raymondcamden.com/2022/08/21/links-for-you)
 
 * [Investigating IndexedDB Wrapper Libraries - Part Two](https://www.raymondcamden.com/2022/08/18/investigating-indexeddb-wrapper-libraries-part-two)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2022/08/01/links-for-you)
 
 * [Building Related Selects in Alpine.js](https://www.raymondcamden.com/2022/07/29/building-related-selects-in-alpinejs)
-
-* [Generating Zips in an Eleventy Site](https://www.raymondcamden.com/2022/07/23/generating-zips-in-an-eleventy-site)
 
 <!-- ENDRSS -->
 
