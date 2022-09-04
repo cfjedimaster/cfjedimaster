@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2022/09/04/links-for-you)
+
 * [Investigating IndexedDB Wrapper Libraries - Part Three](https://www.raymondcamden.com/2022/08/29/investigating-indexeddb-wrapper-libraries-part-three)
 
 * [Adding Social Share Links in Eleventy](https://www.raymondcamden.com/2022/08/22/adding-social-share-links-in-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [How to Migrate from Lunr to Algolia - a Technical Guide](https://www.raymondcamden.com/2022/08/09/how-to-migrate-from-lunr-to-algolia-a-technical-guide)
 
 * [Responding to Severe Weather Alerts with Pipedream](https://www.raymondcamden.com/2022/08/08/responding-to-severe-weather-alerts-with-pipedream)
-
-* [Links For You](https://www.raymondcamden.com/2022/08/01/links-for-you)
 
 <!-- ENDRSS -->
 
