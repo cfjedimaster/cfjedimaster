@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Discover New Music with the Spotify API and Pipedream](https://www.raymondcamden.com/2022/09/13/discover-new-music-with-the-spotify-api-and-pipedream)
+
 * [Using Google Maps with Alpine.js](https://www.raymondcamden.com/2022/09/09/using-google-maps-with-alpinejs)
 
 * [Links For You](https://www.raymondcamden.com/2022/09/04/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Support Draft Blog Posts in Eleventy](https://www.raymondcamden.com/2022/08/14/support-draft-blog-posts-in-eleventy)
 
 * [Building a Web-Based Badge Scanner](https://www.raymondcamden.com/2022/08/11/building-a-web-based-badge-scanner)
-
-* [How to Migrate from Lunr to Algolia - a Technical Guide](https://www.raymondcamden.com/2022/08/09/how-to-migrate-from-lunr-to-algolia-a-technical-guide)
 
 <!-- ENDRSS -->
 
