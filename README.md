@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [JavaScript Quickie - Add Days But Prefer Business Days](https://www.raymondcamden.com/2022/09/23/javascript-quickie-add-days-but-prefer-business-days)
+
 * [Building a Web View of a Public Google Drive Folder](https://www.raymondcamden.com/2022/09/17/building-a-web-view-of-a-public-google-drive-folder)
 
 * [Discover New Music with the Spotify API and Pipedream](https://www.raymondcamden.com/2022/09/13/discover-new-music-with-the-spotify-api-and-pipedream)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Investigating IndexedDB Wrapper Libraries - Part Two](https://www.raymondcamden.com/2022/08/18/investigating-indexeddb-wrapper-libraries-part-two)
 
 * [Investigating IndexedDB Wrapper Libraries - Part One](https://www.raymondcamden.com/2022/08/17/investigating-indexeddb-wrapper-libraries-part-one)
-
-* [Support Draft Blog Posts in Eleventy](https://www.raymondcamden.com/2022/08/14/support-draft-blog-posts-in-eleventy)
 
 <!-- ENDRSS -->
 
