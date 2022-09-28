@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Converting Markdown Code Blocks to Gists](https://www.raymondcamden.com/2022/09/28/converting-markdown-code-blocks-to-gists)
+
 * [Links For You](https://www.raymondcamden.com/2022/09/25/links-for-you)
 
 * [JavaScript Quickie - Add Days But Prefer Business Days](https://www.raymondcamden.com/2022/09/23/javascript-quickie-add-days-but-prefer-business-days)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Social Share Links in Eleventy](https://www.raymondcamden.com/2022/08/22/adding-social-share-links-in-eleventy)
 
 * [Links for You](https://www.raymondcamden.com/2022/08/21/links-for-you)
-
-* [Investigating IndexedDB Wrapper Libraries - Part Two](https://www.raymondcamden.com/2022/08/18/investigating-indexeddb-wrapper-libraries-part-two)
 
 <!-- ENDRSS -->
 
