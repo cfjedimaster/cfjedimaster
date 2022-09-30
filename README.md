@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using the Adobe PDF EMbed API with Vue 3](https://www.raymondcamden.com/2022/09/30/using-the-adobe-pdf-embed-api-with-vue-3)
+
 * [Converting Markdown Code Blocks to Gists](https://www.raymondcamden.com/2022/09/28/converting-markdown-code-blocks-to-gists)
 
 * [Links For You](https://www.raymondcamden.com/2022/09/25/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Investigating IndexedDB Wrapper Libraries - Part Three](https://www.raymondcamden.com/2022/08/29/investigating-indexeddb-wrapper-libraries-part-three)
 
 * [Adding Social Share Links in Eleventy](https://www.raymondcamden.com/2022/08/22/adding-social-share-links-in-eleventy)
-
-* [Links for You](https://www.raymondcamden.com/2022/08/21/links-for-you)
 
 <!-- ENDRSS -->
 
