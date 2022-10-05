@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Web Component Experiment - Manipulating Inner Text](https://www.raymondcamden.com/2022/10/04/web-component-experiment-manipulating-inner-text)
+
 * [A PDF Embed Web Component](https://www.raymondcamden.com/2022/10/02/a-pdf-embed-web-component)
 
 * [Using the Adobe PDF Embed API with Vue 3](https://www.raymondcamden.com/2022/09/30/using-the-adobe-pdf-embed-api-with-vue-3)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Google Maps with Alpine.js](https://www.raymondcamden.com/2022/09/09/using-google-maps-with-alpinejs)
 
 * [Links For You](https://www.raymondcamden.com/2022/09/04/links-for-you)
-
-* [Investigating IndexedDB Wrapper Libraries - Part Three](https://www.raymondcamden.com/2022/08/29/investigating-indexeddb-wrapper-libraries-part-three)
 
 <!-- ENDRSS -->
 
