@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Placeholder Web Component with No External Dependencies](https://www.raymondcamden.com/2022/10/06/building-a-placeholder-web-component-with-no-external-dependencies)
+
 * [Web Component Experiment - Manipulating Inner Text](https://www.raymondcamden.com/2022/10/04/web-component-experiment-manipulating-inner-text)
 
 * [A PDF Embed Web Component](https://www.raymondcamden.com/2022/10/02/a-pdf-embed-web-component)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Discover New Music with the Spotify API and Pipedream](https://www.raymondcamden.com/2022/09/13/discover-new-music-with-the-spotify-api-and-pipedream)
 
 * [Using Google Maps with Alpine.js](https://www.raymondcamden.com/2022/09/09/using-google-maps-with-alpinejs)
-
-* [Links For You](https://www.raymondcamden.com/2022/09/04/links-for-you)
 
 <!-- ENDRSS -->
 
