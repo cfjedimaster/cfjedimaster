@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Working with Custom Events and Web Components](https://www.raymondcamden.com/2022/10/10/working-with-custom-events-and-web-components)
+
 * [Links For You](https://www.raymondcamden.com/2022/10/09/links-for-you)
 
 * [Building a Placeholder Web Component with No External Dependencies](https://www.raymondcamden.com/2022/10/06/building-a-placeholder-web-component-with-no-external-dependencies)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [JavaScript Quickie - Add Days But Prefer Business Days](https://www.raymondcamden.com/2022/09/23/javascript-quickie-add-days-but-prefer-business-days)
 
 * [Building a Web View of a Public Google Drive Folder](https://www.raymondcamden.com/2022/09/17/building-a-web-view-of-a-public-google-drive-folder)
-
-* [Discover New Music with the Spotify API and Pipedream](https://www.raymondcamden.com/2022/09/13/discover-new-music-with-the-spotify-api-and-pipedream)
 
 <!-- ENDRSS -->
 
