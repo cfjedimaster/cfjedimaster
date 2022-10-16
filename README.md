@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [First Experience Building with Eleventy's WebC Plugin](https://www.raymondcamden.com/2022/10/16/first-experience-building-with-eleventys-webc-plugin)
+
 * [Working with Slots and Web Components](https://www.raymondcamden.com/2022/10/13/working-with-slots-and-web-components)
 
 * [Working with Custom Events and Web Components](https://www.raymondcamden.com/2022/10/10/working-with-custom-events-and-web-components)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Converting Markdown Code Blocks to Gists](https://www.raymondcamden.com/2022/09/28/converting-markdown-code-blocks-to-gists)
 
 * [Links For You](https://www.raymondcamden.com/2022/09/25/links-for-you)
-
-* [JavaScript Quickie - Add Days But Prefer Business Days](https://www.raymondcamden.com/2022/09/23/javascript-quickie-add-days-but-prefer-business-days)
 
 <!-- ENDRSS -->
 
