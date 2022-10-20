@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Integrating Cloudinary into Eleventy](https://www.raymondcamden.com/2022/10/20/integrating-cloudinary-into-eleventy)
+
 * [First Experience Building with Eleventy's WebC Plugin](https://www.raymondcamden.com/2022/10/16/first-experience-building-with-eleventys-webc-plugin)
 
 * [Working with Slots and Web Components](https://www.raymondcamden.com/2022/10/13/working-with-slots-and-web-components)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using the Adobe PDF Embed API with Vue 3](https://www.raymondcamden.com/2022/09/30/using-the-adobe-pdf-embed-api-with-vue-3)
 
 * [Converting Markdown Code Blocks to Gists](https://www.raymondcamden.com/2022/09/28/converting-markdown-code-blocks-to-gists)
-
-* [Links For You](https://www.raymondcamden.com/2022/09/25/links-for-you)
 
 <!-- ENDRSS -->
 
