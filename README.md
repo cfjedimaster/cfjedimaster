@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Cloudinary with Alpine.js](https://www.raymondcamden.com/2022/10/27/using-cloudinary-with-alpinejs)
+
 * [Building an API to List Cloudinary Images in a Folder](https://www.raymondcamden.com/2022/10/24/building-an-api-to-list-cloudinary-images-in-a-folder)
 
 * [Integrating Cloudinary into Eleventy](https://www.raymondcamden.com/2022/10/20/integrating-cloudinary-into-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Web Component Experiment - Manipulating Inner Text](https://www.raymondcamden.com/2022/10/04/web-component-experiment-manipulating-inner-text)
 
 * [A PDF Embed Web Component](https://www.raymondcamden.com/2022/10/02/a-pdf-embed-web-component)
-
-* [Using the Adobe PDF Embed API with Vue 3](https://www.raymondcamden.com/2022/09/30/using-the-adobe-pdf-embed-api-with-vue-3)
 
 <!-- ENDRSS -->
 
