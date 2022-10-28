@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [An Alpine.js Template for Glitch](https://www.raymondcamden.com/2022/10/28/an-alpinejs-template-for-glitch)
+
 * [Using Cloudinary with Alpine.js](https://www.raymondcamden.com/2022/10/27/using-cloudinary-with-alpinejs)
 
 * [Building an API to List Cloudinary Images in a Folder](https://www.raymondcamden.com/2022/10/24/building-an-api-to-list-cloudinary-images-in-a-folder)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Placeholder Web Component with No External Dependencies](https://www.raymondcamden.com/2022/10/06/building-a-placeholder-web-component-with-no-external-dependencies)
 
 * [Web Component Experiment - Manipulating Inner Text](https://www.raymondcamden.com/2022/10/04/web-component-experiment-manipulating-inner-text)
-
-* [A PDF Embed Web Component](https://www.raymondcamden.com/2022/10/02/a-pdf-embed-web-component)
 
 <!-- ENDRSS -->
 
