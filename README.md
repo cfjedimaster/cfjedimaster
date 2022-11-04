@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding Responsive Images with Cloudinary](https://www.raymondcamden.com/2022/11/04/adding-responsive-images-with-cloudinary)
+
 * [Integrating Cloudinary Notifications with Pipedream](https://www.raymondcamden.com/2022/11/01/integrating-cloudinary-notifications-with-pipedream)
 
 * [An Alpine.js Template for Glitch](https://www.raymondcamden.com/2022/10/28/an-alpinejs-template-for-glitch)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Working with Custom Events and Web Components](https://www.raymondcamden.com/2022/10/10/working-with-custom-events-and-web-components)
 
 * [Links For You](https://www.raymondcamden.com/2022/10/09/links-for-you)
-
-* [Building a Placeholder Web Component with No External Dependencies](https://www.raymondcamden.com/2022/10/06/building-a-placeholder-web-component-with-no-external-dependencies)
 
 <!-- ENDRSS -->
 
