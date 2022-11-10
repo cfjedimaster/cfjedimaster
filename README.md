@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Quick LiquidJS + Eleventy Example - All Posts](https://www.raymondcamden.com/2022/11/09/quick-liquidjs--eleventy-example-all-posts)
+
 * [Links For You](https://www.raymondcamden.com/2022/11/06/links-for-you)
 
 * [Adding Responsive Images with Cloudinary](https://www.raymondcamden.com/2022/11/04/adding-responsive-images-with-cloudinary)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [First Experience Building with Eleventy's WebC Plugin](https://www.raymondcamden.com/2022/10/16/first-experience-building-with-eleventys-webc-plugin)
 
 * [Working with Slots and Web Components](https://www.raymondcamden.com/2022/10/13/working-with-slots-and-web-components)
-
-* [Working with Custom Events and Web Components](https://www.raymondcamden.com/2022/10/10/working-with-custom-events-and-web-components)
 
 <!-- ENDRSS -->
 
