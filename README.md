@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Some Options for Timing Pages in Eleventy](https://www.raymondcamden.com/2022/11/14/some-options-for-timing-pages-in-eleventy)
+
 * [Quick LiquidJS + Eleventy Example - All Posts](https://www.raymondcamden.com/2022/11/09/quick-liquidjs--eleventy-example-all-posts)
 
 * [Links For You](https://www.raymondcamden.com/2022/11/06/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Integrating Cloudinary into Eleventy](https://www.raymondcamden.com/2022/10/20/integrating-cloudinary-into-eleventy)
 
 * [First Experience Building with Eleventy's WebC Plugin](https://www.raymondcamden.com/2022/10/16/first-experience-building-with-eleventys-webc-plugin)
-
-* [Working with Slots and Web Components](https://www.raymondcamden.com/2022/10/13/working-with-slots-and-web-components)
 
 <!-- ENDRSS -->
 
