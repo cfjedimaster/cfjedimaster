@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a YouTube Embed Web Component (both vanilla and WebC flavored)](https://www.raymondcamden.com/2022/11/17/building-a-youtube-embed-web-component-both-vanilla-and-webc-flavored)
+
 * [Support External Articles in an Eleventy Blog](https://www.raymondcamden.com/2022/11/16/support-external-articles-in-an-eleventy-blog)
 
 * [Some Options for Timing Pages in Eleventy](https://www.raymondcamden.com/2022/11/14/some-options-for-timing-pages-in-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Cloudinary with Alpine.js](https://www.raymondcamden.com/2022/10/27/using-cloudinary-with-alpinejs)
 
 * [Building an API to List Cloudinary Images in a Folder](https://www.raymondcamden.com/2022/10/24/building-an-api-to-list-cloudinary-images-in-a-folder)
-
-* [Integrating Cloudinary into Eleventy](https://www.raymondcamden.com/2022/10/20/integrating-cloudinary-into-eleventy)
 
 <!-- ENDRSS -->
 
