@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [A Bare-Bones Eleventy Template for Glitch](https://www.raymondcamden.com/2022/11/25/a-bare-bones-eleventy-template-for-glitch)
+
 * [Links For You](https://www.raymondcamden.com/2022/11/19/links-for-you)
 
 * [Building a YouTube Embed Web Component (both vanilla and WebC flavored)](https://www.raymondcamden.com/2022/11/17/building-a-youtube-embed-web-component-both-vanilla-and-webc-flavored)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Integrating Cloudinary Notifications with Pipedream](https://www.raymondcamden.com/2022/11/01/integrating-cloudinary-notifications-with-pipedream)
 
 * [An Alpine.js Template for Glitch](https://www.raymondcamden.com/2022/10/28/an-alpinejs-template-for-glitch)
-
-* [Using Cloudinary with Alpine.js](https://www.raymondcamden.com/2022/10/27/using-cloudinary-with-alpinejs)
 
 <!-- ENDRSS -->
 
