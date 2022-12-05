@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Quirky Python Loop Thing](https://www.raymondcamden.com/2022/12/05/quirky-python-loop-thing)
+
 * [Building a Mastodon Bot on Pipedream](https://www.raymondcamden.com/2022/12/01/building-a-mastodon-bot-on-pipedream)
 
 * [A Bare-Bones Eleventy Template for Glitch](https://www.raymondcamden.com/2022/11/25/a-bare-bones-eleventy-template-for-glitch)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2022/11/06/links-for-you)
 
 * [Adding Responsive Images with Cloudinary](https://www.raymondcamden.com/2022/11/04/adding-responsive-images-with-cloudinary)
-
-* [Integrating Cloudinary Notifications with Pipedream](https://www.raymondcamden.com/2022/11/01/integrating-cloudinary-notifications-with-pipedream)
 
 <!-- ENDRSS -->
 
