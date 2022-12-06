@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Automatically Posting to Mastodon and Twitter on New RSS Items](https://www.raymondcamden.com/2022/12/06/automatically-posting-to-mastodon-and-twitter-on-new-rss-items)
+
 * [Quirky Python Loop Thing](https://www.raymondcamden.com/2022/12/05/quirky-python-loop-thing)
 
 * [Building a Mastodon Bot on Pipedream](https://www.raymondcamden.com/2022/12/01/building-a-mastodon-bot-on-pipedream)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Quick LiquidJS + Eleventy Example - All Posts](https://www.raymondcamden.com/2022/11/09/quick-liquidjs--eleventy-example-all-posts)
 
 * [Links For You](https://www.raymondcamden.com/2022/11/06/links-for-you)
-
-* [Adding Responsive Images with Cloudinary](https://www.raymondcamden.com/2022/11/04/adding-responsive-images-with-cloudinary)
 
 <!-- ENDRSS -->
 
