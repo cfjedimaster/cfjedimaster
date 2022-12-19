@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Download Data as a File with Alpine.js](https://www.raymondcamden.com/2022/12/19/download-data-as-a-file-with-alpinejs)
+
 * [Adding Download Support in an Eleventy Site](https://www.raymondcamden.com/2022/12/13/adding-download-support-in-an-eleventy-site)
 
 * [Links For You](https://www.raymondcamden.com/2022/12/12/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [A Bare-Bones Eleventy Template for Glitch](https://www.raymondcamden.com/2022/11/25/a-bare-bones-eleventy-template-for-glitch)
 
 * [Links For You](https://www.raymondcamden.com/2022/11/19/links-for-you)
-
-* [Building a YouTube Embed Web Component (both vanilla and WebC flavored)](https://www.raymondcamden.com/2022/11/17/building-a-youtube-embed-web-component-both-vanilla-and-webc-flavored)
 
 <!-- ENDRSS -->
 
