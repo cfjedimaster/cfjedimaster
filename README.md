@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Dynamically Showing and Hiding Slot Content in a Web Component](https://www.raymondcamden.com/2023/01/02/dynamically-showing-and-hiding-slot-content-in-a-web-component)
+
 * [Wrapping Up 2022](https://www.raymondcamden.com/2022/12/28/wrapping-up-2022)
 
 * [Download Data as a File with Alpine.js](https://www.raymondcamden.com/2022/12/19/download-data-as-a-file-with-alpinejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Quirky Python Loop Thing](https://www.raymondcamden.com/2022/12/05/quirky-python-loop-thing)
 
 * [Building a Mastodon Bot on Pipedream](https://www.raymondcamden.com/2022/12/01/building-a-mastodon-bot-on-pipedream)
-
-* [A Bare-Bones Eleventy Template for Glitch](https://www.raymondcamden.com/2022/11/25/a-bare-bones-eleventy-template-for-glitch)
 
 <!-- ENDRSS -->
 
