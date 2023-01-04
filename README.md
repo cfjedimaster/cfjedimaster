@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Intl for Short Number Formatting](https://www.raymondcamden.com/2023/01/04/using-intl-for-short-number-formatting)
+
 * [Dynamically Showing and Hiding Slot Content in a Web Component](https://www.raymondcamden.com/2023/01/02/dynamically-showing-and-hiding-slot-content-in-a-web-component)
 
 * [Wrapping Up 2022](https://www.raymondcamden.com/2022/12/28/wrapping-up-2022)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Automatically Posting to Mastodon and Twitter on New RSS Items](https://www.raymondcamden.com/2022/12/06/automatically-posting-to-mastodon-and-twitter-on-new-rss-items)
 
 * [Quirky Python Loop Thing](https://www.raymondcamden.com/2022/12/05/quirky-python-loop-thing)
-
-* [Building a Mastodon Bot on Pipedream](https://www.raymondcamden.com/2022/12/01/building-a-mastodon-bot-on-pipedream)
 
 <!-- ENDRSS -->
 
