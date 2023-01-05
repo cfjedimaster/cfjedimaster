@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Short Number Formatting in Python](https://www.raymondcamden.com/2023/01/05/short-number-formatting-in-python)
+
 * [Using Intl for Short Number Formatting](https://www.raymondcamden.com/2023/01/04/using-intl-for-short-number-formatting)
 
 * [Dynamically Showing and Hiding Slot Content in a Web Component](https://www.raymondcamden.com/2023/01/02/dynamically-showing-and-hiding-slot-content-in-a-web-component)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Reading Image Sizes and Dimensions with Alpine.js](https://www.raymondcamden.com/2022/12/08/reading-image-sizes-and-dimensions-with-alpinejs)
 
 * [Automatically Posting to Mastodon and Twitter on New RSS Items](https://www.raymondcamden.com/2022/12/06/automatically-posting-to-mastodon-and-twitter-on-new-rss-items)
-
-* [Quirky Python Loop Thing](https://www.raymondcamden.com/2022/12/05/quirky-python-loop-thing)
 
 <!-- ENDRSS -->
 
