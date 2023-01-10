@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Followup to My Intl Short Number Post](https://www.raymondcamden.com/2023/01/10/followup-to-my-intl-short-number-post)
+
 * [Links For You](https://www.raymondcamden.com/2023/01/08/links-for-you)
 
 * [Short Number Formatting in Python](https://www.raymondcamden.com/2023/01/05/short-number-formatting-in-python)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2022/12/12/links-for-you)
 
 * [Quick Test Post - Sorry!](https://www.raymondcamden.com/2022/12/09/quick-test-post-sorry)
-
-* [Reading Image Sizes and Dimensions with Alpine.js](https://www.raymondcamden.com/2022/12/08/reading-image-sizes-and-dimensions-with-alpinejs)
 
 <!-- ENDRSS -->
 
