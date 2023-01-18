@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Covers, covers, covers](https://www.raymondcamden.com/2023/01/18/covers-covers-covers)
+
 * [Followup to My Intl Short Number Post](https://www.raymondcamden.com/2023/01/10/followup-to-my-intl-short-number-post)
 
 * [Links For You](https://www.raymondcamden.com/2023/01/08/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Download Support in an Eleventy Site](https://www.raymondcamden.com/2022/12/13/adding-download-support-in-an-eleventy-site)
 
 * [Links For You](https://www.raymondcamden.com/2022/12/12/links-for-you)
-
-* [Quick Test Post - Sorry!](https://www.raymondcamden.com/2022/12/09/quick-test-post-sorry)
 
 <!-- ENDRSS -->
 
