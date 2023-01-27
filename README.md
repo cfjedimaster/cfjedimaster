@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Quick WebC Tip](https://www.raymondcamden.com/2023/01/27/quick-webc-tip)
+
 * [Update to My Slideshow Web Component - by Šime Vidas](https://www.raymondcamden.com/2023/01/24/update-to-my-slideshow-web-component-by-sime-vidas)
 
 * [Links For You](https://www.raymondcamden.com/2023/01/22/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Intl for Short Number Formatting](https://www.raymondcamden.com/2023/01/04/using-intl-for-short-number-formatting)
 
 * [Dynamically Showing and Hiding Slot Content in a Web Component](https://www.raymondcamden.com/2023/01/02/dynamically-showing-and-hiding-slot-content-in-a-web-component)
-
-* [Wrapping Up 2022](https://www.raymondcamden.com/2022/12/28/wrapping-up-2022)
 
 <!-- ENDRSS -->
 
