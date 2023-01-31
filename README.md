@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Cloudinary Debugging Tip](https://www.raymondcamden.com/2023/01/31/cloudinary-debugging-tip)
+
 * [Quick WebC Tip](https://www.raymondcamden.com/2023/01/27/quick-webc-tip)
 
 * [Update to My Slideshow Web Component - by Šime Vidas](https://www.raymondcamden.com/2023/01/24/update-to-my-slideshow-web-component-by-sime-vidas)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Short Number Formatting in Python](https://www.raymondcamden.com/2023/01/05/short-number-formatting-in-python)
 
 * [Using Intl for Short Number Formatting](https://www.raymondcamden.com/2023/01/04/using-intl-for-short-number-formatting)
-
-* [Dynamically Showing and Hiding Slot Content in a Web Component](https://www.raymondcamden.com/2023/01/02/dynamically-showing-and-hiding-slot-content-in-a-web-component)
 
 <!-- ENDRSS -->
 
