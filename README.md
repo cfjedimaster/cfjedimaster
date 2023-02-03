@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using JavaScript in a WebC Component](https://www.raymondcamden.com/2023/02/03/using-javascript-in-a-webc-component)
+
 * [My town sure seems to have a lot of...](https://www.raymondcamden.com/2023/02/02/my-town-sure-seems-to-have-a-lot-of)
 
 * [Cloudinary Debugging Tip](https://www.raymondcamden.com/2023/01/31/cloudinary-debugging-tip)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Followup to My Intl Short Number Post](https://www.raymondcamden.com/2023/01/10/followup-to-my-intl-short-number-post)
 
 * [Links For You](https://www.raymondcamden.com/2023/01/08/links-for-you)
-
-* [Short Number Formatting in Python](https://www.raymondcamden.com/2023/01/05/short-number-formatting-in-python)
 
 <!-- ENDRSS -->
 
