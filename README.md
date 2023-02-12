@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Lessons Learned in Twenty Years of Blogging](https://www.raymondcamden.com/2023/02/12/lessons-learned-in-twenty-years-of-blogging)
+
 * [Progressively Enhancing a Form with Web Components](https://www.raymondcamden.com/2023/02/10/progressively-enhancing-a-form-with-web-components)
 
 * [Another Update to my Slideshow Web Component - JavaScript Support](https://www.raymondcamden.com/2023/02/08/another-update-to-my-slideshow-web-component-javascript-support)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Update to My Slideshow Web Component - by Šime Vidas](https://www.raymondcamden.com/2023/01/24/update-to-my-slideshow-web-component-by-sime-vidas)
 
 * [Links For You](https://www.raymondcamden.com/2023/01/22/links-for-you)
-
-* [A Simple Slideshow Web Component](https://www.raymondcamden.com/2023/01/20/a-simple-slideshow-web-component)
 
 <!-- ENDRSS -->
 
