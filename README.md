@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My First Bug](https://www.raymondcamden.com/2023/02/24/my-first-bug)
+
 * [Links For You](https://www.raymondcamden.com/2023/02/17/links-for-you)
 
 * [Building a Mastodon Bot Listing Page in Eleventy](https://www.raymondcamden.com/2023/02/15/building-a-mastodon-bot-listing-page-in-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [My town sure seems to have a lot of...](https://www.raymondcamden.com/2023/02/02/my-town-sure-seems-to-have-a-lot-of)
 
 * [Cloudinary Debugging Tip](https://www.raymondcamden.com/2023/01/31/cloudinary-debugging-tip)
-
-* [Quick WebC Tip](https://www.raymondcamden.com/2023/01/27/quick-webc-tip)
 
 <!-- ENDRSS -->
 
