@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Update to My Eleventy Blog Guide](https://www.raymondcamden.com/2023/02/25/update-to-my-eleventy-blog-guide)
+
 * [My First Bug](https://www.raymondcamden.com/2023/02/24/my-first-bug)
 
 * [Links For You](https://www.raymondcamden.com/2023/02/17/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using JavaScript in a WebC Component](https://www.raymondcamden.com/2023/02/03/using-javascript-in-a-webc-component)
 
 * [My town sure seems to have a lot of...](https://www.raymondcamden.com/2023/02/02/my-town-sure-seems-to-have-a-lot-of)
-
-* [Cloudinary Debugging Tip](https://www.raymondcamden.com/2023/01/31/cloudinary-debugging-tip)
 
 <!-- ENDRSS -->
 
