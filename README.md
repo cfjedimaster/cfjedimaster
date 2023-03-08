@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Interesting Caveat with Web Components and the Event Lifecycle](https://www.raymondcamden.com/2023/03/08/interesting-caveat-with-web-components-and-the-event-lifecycle)
+
 * [Adding a Chart to an Apline.js Application](https://www.raymondcamden.com/2023/03/06/adding-a-chart-to-an-aplinejs-application)
 
 * [Links For You](https://www.raymondcamden.com/2023/03/04/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Lessons Learned in Twenty Years of Blogging](https://www.raymondcamden.com/2023/02/12/lessons-learned-in-twenty-years-of-blogging)
 
 * [Progressively Enhancing a Form with Web Components](https://www.raymondcamden.com/2023/02/10/progressively-enhancing-a-form-with-web-components)
-
-* [Another Update to my Slideshow Web Component - JavaScript Support](https://www.raymondcamden.com/2023/02/08/another-update-to-my-slideshow-web-component-javascript-support)
 
 <!-- ENDRSS -->
 
