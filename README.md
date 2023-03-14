@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Progressively Enhancing a Table with a Web Component](https://www.raymondcamden.com/2023/03/14/progressively-enhancing-a-table-with-a-web-component)
+
 * [Reminder about Web Components and Attributes](https://www.raymondcamden.com/2023/03/09/reminder-about-web-components-and-attributes)
 
 * [Interesting Caveat with Web Components and the Event Lifecycle](https://www.raymondcamden.com/2023/03/08/interesting-caveat-with-web-components-and-the-event-lifecycle)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/02/17/links-for-you)
 
 * [Building a Mastodon Bot Listing Page in Eleventy](https://www.raymondcamden.com/2023/02/15/building-a-mastodon-bot-listing-page-in-eleventy)
-
-* [Lessons Learned in Twenty Years of Blogging](https://www.raymondcamden.com/2023/02/12/lessons-learned-in-twenty-years-of-blogging)
 
 <!-- ENDRSS -->
 
