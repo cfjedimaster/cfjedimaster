@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Another Week, Another Mastodon Bot - Random Album Cover](https://www.raymondcamden.com/2023/03/17/another-week-another-mastodon-bot-random-album-cover)
+
 * [Progressively Enhancing a Table with a Web Component](https://www.raymondcamden.com/2023/03/14/progressively-enhancing-a-table-with-a-web-component)
 
 * [Reminder about Web Components and Attributes](https://www.raymondcamden.com/2023/03/09/reminder-about-web-components-and-attributes)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [My First Bug](https://www.raymondcamden.com/2023/02/24/my-first-bug)
 
 * [Links For You](https://www.raymondcamden.com/2023/02/17/links-for-you)
-
-* [Building a Mastodon Bot Listing Page in Eleventy](https://www.raymondcamden.com/2023/02/15/building-a-mastodon-bot-listing-page-in-eleventy)
 
 <!-- ENDRSS -->
 
