@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adobe Firefly in Beta](https://www.raymondcamden.com/2023/03/21/adobe-firefly-in-beta)
+
 * [Links For You](https://www.raymondcamden.com/2023/03/19/links-for-you)
 
 * [Another Week, Another Mastodon Bot - Random Album Cover](https://www.raymondcamden.com/2023/03/17/another-week-another-mastodon-bot-random-album-cover)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Supporting PDF Embeds in an Eleventy WebC Component](https://www.raymondcamden.com/2023/03/01/supporting-pdf-embeds-in-an-eleventy-webc-component)
 
 * [Update to My Eleventy Blog Guide](https://www.raymondcamden.com/2023/02/25/update-to-my-eleventy-blog-guide)
-
-* [My First Bug](https://www.raymondcamden.com/2023/02/24/my-first-bug)
 
 <!-- ENDRSS -->
 
