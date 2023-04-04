@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [WebC Updates in Eleventy - Looping](https://www.raymondcamden.com/2023/04/04/webc-updates-in-eleventy-looping)
+
 * [Awesome Algolia Updates (and some fixes here...)](https://www.raymondcamden.com/2023/03/30/awesome-algolia-updates-and-some-fixes-here)
 
 * [WebC Updates in Eleventy](https://www.raymondcamden.com/2023/03/28/webc-updates-in-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Reminder about Web Components and Attributes](https://www.raymondcamden.com/2023/03/09/reminder-about-web-components-and-attributes)
 
 * [Interesting Caveat with Web Components and the Event Lifecycle](https://www.raymondcamden.com/2023/03/08/interesting-caveat-with-web-components-and-the-event-lifecycle)
-
-* [Adding a Chart to an Apline.js Application](https://www.raymondcamden.com/2023/03/06/adding-a-chart-to-an-aplinejs-application)
 
 <!-- ENDRSS -->
 
