@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Working with CloudCannon and Eleventy - My Experience](https://www.raymondcamden.com/2023/04/06/working-with-cloudcannon-and-eleventy-my-experience)
+
 * [WebC Updates in Eleventy - Looping](https://www.raymondcamden.com/2023/04/04/webc-updates-in-eleventy-looping)
 
 * [Awesome Algolia Updates (and some fixes here...)](https://www.raymondcamden.com/2023/03/30/awesome-algolia-updates-and-some-fixes-here)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Progressively Enhancing a Table with a Web Component](https://www.raymondcamden.com/2023/03/14/progressively-enhancing-a-table-with-a-web-component)
 
 * [Reminder about Web Components and Attributes](https://www.raymondcamden.com/2023/03/09/reminder-about-web-components-and-attributes)
-
-* [Interesting Caveat with Web Components and the Event Lifecycle](https://www.raymondcamden.com/2023/03/08/interesting-caveat-with-web-components-and-the-event-lifecycle)
 
 <!-- ENDRSS -->
 
