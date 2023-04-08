@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/04/08/links-for-you)
+
 * [Working with CloudCannon and Eleventy - My Experience](https://www.raymondcamden.com/2023/04/06/working-with-cloudcannon-and-eleventy-my-experience)
 
 * [WebC Updates in Eleventy - Looping](https://www.raymondcamden.com/2023/04/04/webc-updates-in-eleventy-looping)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Another Week, Another Mastodon Bot - Random Album Cover](https://www.raymondcamden.com/2023/03/17/another-week-another-mastodon-bot-random-album-cover)
 
 * [Progressively Enhancing a Table with a Web Component](https://www.raymondcamden.com/2023/03/14/progressively-enhancing-a-table-with-a-web-component)
-
-* [Reminder about Web Components and Attributes](https://www.raymondcamden.com/2023/03/09/reminder-about-web-components-and-attributes)
 
 <!-- ENDRSS -->
 
