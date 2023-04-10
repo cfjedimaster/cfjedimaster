@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Speech Synthesis and Recognition with Alpine.js](https://www.raymondcamden.com/2023/04/10/using-speech-synthesis-and-recognition-with-alpinejs)
+
 * [Links For You](https://www.raymondcamden.com/2023/04/08/links-for-you)
 
 * [Working with CloudCannon and Eleventy - My Experience](https://www.raymondcamden.com/2023/04/06/working-with-cloudcannon-and-eleventy-my-experience)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/03/19/links-for-you)
 
 * [Another Week, Another Mastodon Bot - Random Album Cover](https://www.raymondcamden.com/2023/03/17/another-week-another-mastodon-bot-random-album-cover)
-
-* [Progressively Enhancing a Table with a Web Component](https://www.raymondcamden.com/2023/03/14/progressively-enhancing-a-table-with-a-web-component)
 
 <!-- ENDRSS -->
 
