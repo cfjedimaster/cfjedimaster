@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using the Cookie Store API](https://www.raymondcamden.com/2023/04/12/using-the-cookie-store-api)
+
 * [Using Speech Synthesis and Recognition with Alpine.js](https://www.raymondcamden.com/2023/04/10/using-speech-synthesis-and-recognition-with-alpinejs)
 
 * [Links For You](https://www.raymondcamden.com/2023/04/08/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adobe Firefly in Beta](https://www.raymondcamden.com/2023/03/21/adobe-firefly-in-beta)
 
 * [Links For You](https://www.raymondcamden.com/2023/03/19/links-for-you)
-
-* [Another Week, Another Mastodon Bot - Random Album Cover](https://www.raymondcamden.com/2023/03/17/another-week-another-mastodon-bot-random-album-cover)
 
 <!-- ENDRSS -->
 
