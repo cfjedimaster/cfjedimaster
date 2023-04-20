@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing the Web Share API](https://www.raymondcamden.com/2023/04/20/testing-the-web-share-api)
+
 * [Need Help with ColdFusion?](https://www.raymondcamden.com/2023/04/14/need-help-with-coldfusion)
 
 * [Using the Cookie Store API](https://www.raymondcamden.com/2023/04/12/using-the-cookie-store-api)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [WebC Updates in Eleventy](https://www.raymondcamden.com/2023/03/28/webc-updates-in-eleventy)
 
 * [New Blog Same as the Old Blog](https://www.raymondcamden.com/2023/03/27/new-blog-same-as-the-old-blog)
-
-* [Adobe Firefly in Beta](https://www.raymondcamden.com/2023/03/21/adobe-firefly-in-beta)
 
 <!-- ENDRSS -->
 
