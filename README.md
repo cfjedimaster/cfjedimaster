@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Creating a Web Component for Reveal.js (Follow-up)](https://www.raymondcamden.com/2023/04/24/creating-a-web-component-for-revealjs-followup)
+
 * [Creating a Web Component for Reveal.js](https://www.raymondcamden.com/2023/04/22/creating-a-web-component-for-revealjs)
 
 * [Testing the Web Share API](https://www.raymondcamden.com/2023/04/20/testing-the-web-share-api)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [WebC Updates in Eleventy - Looping](https://www.raymondcamden.com/2023/04/04/webc-updates-in-eleventy-looping)
 
 * [Awesome Algolia Updates (and some fixes here...)](https://www.raymondcamden.com/2023/03/30/awesome-algolia-updates-and-some-fixes-here)
-
-* [WebC Updates in Eleventy](https://www.raymondcamden.com/2023/03/28/webc-updates-in-eleventy)
 
 <!-- ENDRSS -->
 
