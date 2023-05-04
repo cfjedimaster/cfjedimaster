@@ -6,7 +6,7 @@ A lot of the first part my career was heavily involved with ColdFusion. I worked
 
 Since then I'm moved away from ColdFusion and have turned most of my focus to JavaScript. I love working on the web in general, but lately have been mostly involved with Vue.js, the Jamstack, and serverless. 
 
-If you want to find out more about me, check out my [blog](https://www.raymondcamden.com) or follow me on Twitter ([@raymondcamden](https://twitter.com/raymondcamden)). 
+If you want to find out more about me, check out my [blog](https://www.raymondcamden.com) or follow me on Mastodon: <http://mastodon.social/@raymondcamden>
 
 I love to help people, so please reach out if you have questions. My DMs are open on Twitter and you can email me at my blog. Also, my two favorite things are Star Wars and cats, not necessarily in that order.
 
