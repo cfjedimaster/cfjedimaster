@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My Experience at Antiques Roadshow](https://www.raymondcamden.com/2023/05/04/my-experience-at-antiques-roadshow)
+
 * [Updating and Supporting URL Parameters in JavaScript](https://www.raymondcamden.com/2023/04/27/updating-and-supporting-url-parameters-in-javascript)
 
 * [Creating a Web Component for Reveal.js (Follow-up)](https://www.raymondcamden.com/2023/04/24/creating-a-web-component-for-revealjs-followup)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/04/08/links-for-you)
 
 * [Working with CloudCannon and Eleventy - My Experience](https://www.raymondcamden.com/2023/04/06/working-with-cloudcannon-and-eleventy-my-experience)
-
-* [WebC Updates in Eleventy - Looping](https://www.raymondcamden.com/2023/04/04/webc-updates-in-eleventy-looping)
 
 <!-- ENDRSS -->
 
