@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/05/06/links-for-you)
+
 * [My Experience at Antiques Roadshow](https://www.raymondcamden.com/2023/05/04/my-experience-at-antiques-roadshow)
 
 * [Updating and Supporting URL Parameters in JavaScript](https://www.raymondcamden.com/2023/04/27/updating-and-supporting-url-parameters-in-javascript)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Speech Synthesis and Recognition with Alpine.js](https://www.raymondcamden.com/2023/04/10/using-speech-synthesis-and-recognition-with-alpinejs)
 
 * [Links For You](https://www.raymondcamden.com/2023/04/08/links-for-you)
-
-* [Working with CloudCannon and Eleventy - My Experience](https://www.raymondcamden.com/2023/04/06/working-with-cloudcannon-and-eleventy-my-experience)
 
 <!-- ENDRSS -->
 
