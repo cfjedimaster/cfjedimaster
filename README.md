@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My First Web Components Presentation - May 30](https://www.raymondcamden.com/2023/05/15/my-first-web-components-presentation-may-30)
+
 * [Updating and Supporting URL Parameters in Alpine.js](https://www.raymondcamden.com/2023/05/12/updating-and-supporting-url-parameters-in-alpinejs)
 
 * [Add Streaming to Your Jamstack Site in Minutes](https://www.raymondcamden.com/2023/05/08/add-streaming-to-your-jamstack-site-in-minutes)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Testing the Web Share API](https://www.raymondcamden.com/2023/04/20/testing-the-web-share-api)
 
 * [Need Help with ColdFusion?](https://www.raymondcamden.com/2023/04/14/need-help-with-coldfusion)
-
-* [Using the Cookie Store API](https://www.raymondcamden.com/2023/04/12/using-the-cookie-store-api)
 
 <!-- ENDRSS -->
 
