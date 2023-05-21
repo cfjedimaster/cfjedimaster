@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/05/21/links-for-you)
+
 * [Eleventy by Example, by Bryan Robinson](https://www.raymondcamden.com/2023/05/18/eleventy-by-example-by-bryan-robinson)
 
 * [Handling Web Component Removal with disconnectedCallback](https://www.raymondcamden.com/2023/05/17/handling-web-component-removal-with-disconnectedcallback)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Updating and Supporting URL Parameters in JavaScript](https://www.raymondcamden.com/2023/04/27/updating-and-supporting-url-parameters-in-javascript)
 
 * [Creating a Web Component for Reveal.js (Follow-up)](https://www.raymondcamden.com/2023/04/24/creating-a-web-component-for-revealjs-followup)
-
-* [Creating a Web Component for Reveal.js](https://www.raymondcamden.com/2023/04/22/creating-a-web-component-for-revealjs)
 
 <!-- ENDRSS -->
 
