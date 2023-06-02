@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Web Components in Alpine.js](https://www.raymondcamden.com/2023/06/02/using-web-components-in-alpine)
+
 * [Adding Form Participation Support to Web Components](https://www.raymondcamden.com/2023/05/24/adding-form-participation-support-to-web-components)
 
 * [Links For You](https://www.raymondcamden.com/2023/05/21/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/05/06/links-for-you)
 
 * [My Experience at Antiques Roadshow](https://www.raymondcamden.com/2023/05/04/my-experience-at-antiques-roadshow)
-
-* [Updating and Supporting URL Parameters in JavaScript](https://www.raymondcamden.com/2023/04/27/updating-and-supporting-url-parameters-in-javascript)
 
 <!-- ENDRSS -->
 
