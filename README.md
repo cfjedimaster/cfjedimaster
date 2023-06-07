@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Goodreads Data in Eleventy](https://www.raymondcamden.com/2023/06/07/using-goodreads-data-in-eleventy)
+
 * [Links For You](https://www.raymondcamden.com/2023/06/01/links-for-you)
 
 * [Using Web Components in Alpine.js](https://www.raymondcamden.com/2023/06/02/using-web-components-in-alpine)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Updating and Supporting URL Parameters in Alpine.js](https://www.raymondcamden.com/2023/05/12/updating-and-supporting-url-parameters-in-alpinejs)
 
 * [Add Streaming to Your Jamstack Site in Minutes](https://www.raymondcamden.com/2023/05/08/add-streaming-to-your-jamstack-site-in-minutes)
-
-* [Links For You](https://www.raymondcamden.com/2023/05/06/links-for-you)
 
 <!-- ENDRSS -->
 
