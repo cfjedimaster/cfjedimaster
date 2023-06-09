@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Quick example using AWS Node.js SDK V3 for Signed URLs](https://www.raymondcamden.com/2023/06/09/quick-example-using-aws-nodejs-sdk-v3-for-signed-urls)
+
 * [Using Goodreads Data in Eleventy - Update](https://www.raymondcamden.com/2023/06/08/using-goodreads-data-in-eleventy-update)
 
 * [Using Goodreads Data in Eleventy](https://www.raymondcamden.com/2023/06/07/using-goodreads-data-in-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Handling Web Component Removal with disconnectedCallback](https://www.raymondcamden.com/2023/05/17/handling-web-component-removal-with-disconnectedcallback)
 
 * [My First Web Components Presentation - May 30](https://www.raymondcamden.com/2023/05/15/my-first-web-components-presentation-may-30)
-
-* [Updating and Supporting URL Parameters in Alpine.js](https://www.raymondcamden.com/2023/05/12/updating-and-supporting-url-parameters-in-alpinejs)
 
 <!-- ENDRSS -->
 
