@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Creating Bootstrap WebC Components in Eleventy](https://www.raymondcamden.com/2023/06/19/creating-bootstrap-webc-components-in-eleventy)
+
 * [Links For You](https://www.raymondcamden.com/2023/06/17/links-for-you)
 
 * [Quick example using AWS Node.js SDK V3 for Signed URLs](https://www.raymondcamden.com/2023/06/09/quick-example-using-aws-nodejs-sdk-v3-for-signed-urls)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/05/21/links-for-you)
 
 * [Eleventy by Example, by Bryan Robinson](https://www.raymondcamden.com/2023/05/18/eleventy-by-example-by-bryan-robinson)
-
-* [Handling Web Component Removal with disconnectedCallback](https://www.raymondcamden.com/2023/05/17/handling-web-component-removal-with-disconnectedcallback)
 
 <!-- ENDRSS -->
 
