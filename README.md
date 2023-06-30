@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Algolia DevCon 2023 Videos](https://www.raymondcamden.com/2023/06/30/algolia-devcon-2023-videos)
+
 * [Creating Bootstrap WebC Components in Eleventy](https://www.raymondcamden.com/2023/06/19/creating-bootstrap-webc-components-in-eleventy)
 
 * [Links For You](https://www.raymondcamden.com/2023/06/17/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Form Participation Support to Web Components](https://www.raymondcamden.com/2023/05/24/adding-form-participation-support-to-web-components)
 
 * [Links For You](https://www.raymondcamden.com/2023/05/21/links-for-you)
-
-* [Eleventy by Example, by Bryan Robinson](https://www.raymondcamden.com/2023/05/18/eleventy-by-example-by-bryan-robinson)
 
 <!-- ENDRSS -->
 
