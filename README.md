@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/07/01/links-for-you)
+
 * [Algolia DevCon 2023 Videos](https://www.raymondcamden.com/2023/06/30/algolia-devcon-2023-videos)
 
 * [Creating Bootstrap WebC Components in Eleventy](https://www.raymondcamden.com/2023/06/19/creating-bootstrap-webc-components-in-eleventy)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Web Components in Alpine.js](https://www.raymondcamden.com/2023/06/02/using-web-components-in-alpine)
 
 * [Adding Form Participation Support to Web Components](https://www.raymondcamden.com/2023/05/24/adding-form-participation-support-to-web-components)
-
-* [Links For You](https://www.raymondcamden.com/2023/05/21/links-for-you)
 
 <!-- ENDRSS -->
 
