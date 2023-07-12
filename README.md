@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using PDFs with Algolia and Adobe PDF Extract API](https://www.raymondcamden.com/2023/07/12/using-pdfs-with-algolia-and-adobe-pdf-extract-api)
+
 * [Want to learn Alpine.js?](https://www.raymondcamden.com/2023/07/07/want-to-learn-alpinejs)
 
 * [Creating a Blackjack Game with Alpine.js and the Deck of Cards API](https://www.raymondcamden.com/2023/07/04/creating-a-blackjack-game-with-alpinejs-and-the-deck-of-cards-api)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Goodreads Data in Eleventy - Update](https://www.raymondcamden.com/2023/06/08/using-goodreads-data-in-eleventy-update)
 
 * [Using Goodreads Data in Eleventy](https://www.raymondcamden.com/2023/06/07/using-goodreads-data-in-eleventy)
-
-* [Links For You](https://www.raymondcamden.com/2023/06/01/links-for-you)
 
 <!-- ENDRSS -->
 
