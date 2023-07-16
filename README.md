@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/07/16/links-for-you)
+
 * [Using the Adobe Photoshop API with ColdFusion](https://www.raymondcamden.com/2023/07/14/using-the-adobe-photoshop-api-with-coldfusion)
 
 * [Using PDFs with Algolia and Adobe PDF Extract API](https://www.raymondcamden.com/2023/07/12/using-pdfs-with-algolia-and-adobe-pdf-extract-api)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/06/17/links-for-you)
 
 * [Quick example using AWS Node.js SDK V3 for Signed URLs](https://www.raymondcamden.com/2023/06/09/quick-example-using-aws-nodejs-sdk-v3-for-signed-urls)
-
-* [Using Goodreads Data in Eleventy - Update](https://www.raymondcamden.com/2023/06/08/using-goodreads-data-in-eleventy-update)
 
 <!-- ENDRSS -->
 
