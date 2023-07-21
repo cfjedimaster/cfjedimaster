@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Integrating Acrobat Services with ColdFusion](https://www.raymondcamden.com/2023/07/21/integrating-acrobat-services-with-coldfusion)
+
 * [Alpine.js and Form Fields](https://www.raymondcamden.com/2023/07/18/alpinejs-and-form-fields)
 
 * [Links For You](https://www.raymondcamden.com/2023/07/16/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Algolia DevCon 2023 Videos](https://www.raymondcamden.com/2023/06/30/algolia-devcon-2023-videos)
 
 * [Creating Bootstrap WebC Components in Eleventy](https://www.raymondcamden.com/2023/06/19/creating-bootstrap-webc-components-in-eleventy)
-
-* [Links For You](https://www.raymondcamden.com/2023/06/17/links-for-you)
 
 <!-- ENDRSS -->
 
