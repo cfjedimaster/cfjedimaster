@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Basic (Pirate) API Wrapper with Cloudflare Workers](https://www.raymondcamden.com/2023/08/01/building-a-basic-pirate-api-wrapper-with-cloudflare-workers)
+
 * [Update for My Subscribers](https://www.raymondcamden.com/2023/07/31/update-for-my-subscribers)
 
 * [Links For You](https://www.raymondcamden.com/2023/07/29/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Want to learn Alpine.js?](https://www.raymondcamden.com/2023/07/07/want-to-learn-alpinejs)
 
 * [Creating a Blackjack Game with Alpine.js and the Deck of Cards API](https://www.raymondcamden.com/2023/07/04/creating-a-blackjack-game-with-alpinejs-and-the-deck-of-cards-api)
-
-* [Links For You](https://www.raymondcamden.com/2023/07/01/links-for-you)
 
 <!-- ENDRSS -->
 
