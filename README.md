@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding Caching to a Cloudflare Worker](https://www.raymondcamden.com/2023/08/06/adding-caching-to-a-cloudflare-worker)
+
 * [I Know What You Did Last Summer (With Glitch and Cloudflare)](https://www.raymondcamden.com/2023/08/04/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
 
 * [Learn about the Photoshop API Next Week](https://www.raymondcamden.com/2023/08/03/learn-about-the-photoshop-api-next-week)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/07/16/links-for-you)
 
 * [Using the Adobe Photoshop API with ColdFusion](https://www.raymondcamden.com/2023/07/14/using-the-adobe-photoshop-api-with-coldfusion)
-
-* [Using PDFs with Algolia and Adobe PDF Extract API](https://www.raymondcamden.com/2023/07/12/using-pdfs-with-algolia-and-adobe-pdf-extract-api)
 
 <!-- ENDRSS -->
 
