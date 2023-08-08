@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [JavaScript Syntax Sugar for Shorter Stuff](https://www.raymondcamden.com/2023/08/08/javascript-syntax-sugar-for-shorter-stuff)
+
 * [Adding Caching to a Cloudflare Worker](https://www.raymondcamden.com/2023/08/06/adding-caching-to-a-cloudflare-worker)
 
 * [I Know What You Did Last Summer (With Glitch and Cloudflare)](https://www.raymondcamden.com/2023/08/04/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Alpine.js and Form Fields](https://www.raymondcamden.com/2023/07/18/alpinejs-and-form-fields)
 
 * [Links For You](https://www.raymondcamden.com/2023/07/16/links-for-you)
-
-* [Using the Adobe Photoshop API with ColdFusion](https://www.raymondcamden.com/2023/07/14/using-the-adobe-photoshop-api-with-coldfusion)
 
 <!-- ENDRSS -->
 
