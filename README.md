@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding Form Fields Character Counters With Alpine.js](https://www.raymondcamden.com/2023/08/09/adding-form-fields-characters-counters-with-alpinejs)
+
 * [JavaScript Syntax Sugar for Shorter Stuff](https://www.raymondcamden.com/2023/08/08/javascript-syntax-sugar-for-shorter-stuff)
 
 * [Adding Caching to a Cloudflare Worker](https://www.raymondcamden.com/2023/08/06/adding-caching-to-a-cloudflare-worker)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Integrating Acrobat Services with ColdFusion](https://www.raymondcamden.com/2023/07/21/integrating-acrobat-services-with-coldfusion)
 
 * [Alpine.js and Form Fields](https://www.raymondcamden.com/2023/07/18/alpinejs-and-form-fields)
-
-* [Links For You](https://www.raymondcamden.com/2023/07/16/links-for-you)
 
 <!-- ENDRSS -->
 
