@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Mastodon Bot with Cloudflare Workers](https://www.raymondcamden.com/2023/08/14/building-a-mastodon-bot-with-cloudflare-workers)
+
 * [Connecting Cloudflare Workers with Service Bindings](https://www.raymondcamden.com/2023/08/11/connecting-cloudflare-workers-with-service-bindings)
 
 * [Adding Form Fields Character Counters With Alpine.js](https://www.raymondcamden.com/2023/08/09/adding-form-fields-characters-counters-with-alpinejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Update for My Subscribers](https://www.raymondcamden.com/2023/07/31/update-for-my-subscribers)
 
 * [Links For You](https://www.raymondcamden.com/2023/07/29/links-for-you)
-
-* [Integrating Acrobat Services with ColdFusion](https://www.raymondcamden.com/2023/07/21/integrating-acrobat-services-with-coldfusion)
 
 <!-- ENDRSS -->
 
