@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [ColdFusion Component for Adobe Acrobat Services](https://www.raymondcamden.com/2023/08/17/coldfusion-component-for-adobe-acrobat-services)
+
 * [Building a Mastodon Bot with Cloudflare Workers](https://www.raymondcamden.com/2023/08/14/building-a-mastodon-bot-with-cloudflare-workers)
 
 * [Connecting Cloudflare Workers with Service Bindings](https://www.raymondcamden.com/2023/08/11/connecting-cloudflare-workers-with-service-bindings)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Basic (Pirate) API Wrapper with Cloudflare Workers](https://www.raymondcamden.com/2023/08/01/building-a-basic-pirate-api-wrapper-with-cloudflare-workers)
 
 * [Update for My Subscribers](https://www.raymondcamden.com/2023/07/31/update-for-my-subscribers)
-
-* [Links For You](https://www.raymondcamden.com/2023/07/29/links-for-you)
 
 <!-- ENDRSS -->
 
