@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Debugging Cloudflare Workers with Logs](https://www.raymondcamden.com/2023/08/22/debugging-cloudflare-workers-with-logs)
+
 * [Links For You](https://www.raymondcamden.com/2023/08/20/links-for-you)
 
 * [ColdFusion Component for Adobe Acrobat Services](https://www.raymondcamden.com/2023/08/17/coldfusion-component-for-adobe-acrobat-services)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [I Know What You Did Last Summer (With Glitch and Cloudflare)](https://www.raymondcamden.com/2023/08/04/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
 
 * [Learn about the Photoshop API Next Week](https://www.raymondcamden.com/2023/08/03/learn-about-the-photoshop-api-next-week)
-
-* [Building a Basic (Pirate) API Wrapper with Cloudflare Workers](https://www.raymondcamden.com/2023/08/01/building-a-basic-pirate-api-wrapper-with-cloudflare-workers)
 
 <!-- ENDRSS -->
 
