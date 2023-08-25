@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Working with the Storage API](https://www.raymondcamden.com/2023/08/25/working-with-the-storage-api)
+
 * [Debugging Cloudflare Workers with Logs](https://www.raymondcamden.com/2023/08/22/debugging-cloudflare-workers-with-logs)
 
 * [Links For You](https://www.raymondcamden.com/2023/08/20/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Caching to a Cloudflare Worker](https://www.raymondcamden.com/2023/08/06/adding-caching-to-a-cloudflare-worker)
 
 * [I Know What You Did Last Summer (With Glitch and Cloudflare)](https://www.raymondcamden.com/2023/08/04/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
-
-* [Learn about the Photoshop API Next Week](https://www.raymondcamden.com/2023/08/03/learn-about-the-photoshop-api-next-week)
 
 <!-- ENDRSS -->
 
