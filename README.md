@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Fun With Frontmatter: Part 1 - Related Posts](https://www.raymondcamden.com/2023/08/28/fun-with-frontmatter-part-1-related-posts)
+
 * [Working with the Storage API](https://www.raymondcamden.com/2023/08/25/working-with-the-storage-api)
 
 * [Debugging Cloudflare Workers with Logs](https://www.raymondcamden.com/2023/08/22/debugging-cloudflare-workers-with-logs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [JavaScript Syntax Sugar for Shorter Stuff](https://www.raymondcamden.com/2023/08/08/javascript-syntax-sugar-for-shorter-stuff)
 
 * [Adding Caching to a Cloudflare Worker](https://www.raymondcamden.com/2023/08/06/adding-caching-to-a-cloudflare-worker)
-
-* [I Know What You Did Last Summer (With Glitch and Cloudflare)](https://www.raymondcamden.com/2023/08/04/i-know-what-you-did-last-summer-with-glitch-and-cloudflare)
 
 <!-- ENDRSS -->
 
