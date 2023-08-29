@@ -15,7 +15,9 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
-* [Fun With Frontmatter: Part 1 - Related Posts](https://www.raymondcamden.com/2023/08/28/fun-with-frontmatter-part-1-related-posts)
+* [Fun With Front Matter: Part 2 - Follow-ups](https://www.raymondcamden.com/2023/08/29/fun-with-front-matter-part-2-followups)
+
+* [Fun With Front Matter: Part 1 - Related Posts](https://www.raymondcamden.com/2023/08/28/fun-with-frontmatter-part-1-related-posts)
 
 * [Working with the Storage API](https://www.raymondcamden.com/2023/08/25/working-with-the-storage-api)
 
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Form Fields Character Counters With Alpine.js](https://www.raymondcamden.com/2023/08/09/adding-form-fields-characters-counters-with-alpinejs)
 
 * [JavaScript Syntax Sugar for Shorter Stuff](https://www.raymondcamden.com/2023/08/08/javascript-syntax-sugar-for-shorter-stuff)
-
-* [Adding Caching to a Cloudflare Worker](https://www.raymondcamden.com/2023/08/06/adding-caching-to-a-cloudflare-worker)
 
 <!-- ENDRSS -->
 
