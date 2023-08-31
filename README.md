@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Fun With Front Matter: Part 3 - Handling Edits](https://www.raymondcamden.com/2023/08/31/fun-with-front-matter-part-3-handling-edits)
+
 * [Fun With Front Matter: Part 2 - Follow-ups](https://www.raymondcamden.com/2023/08/29/fun-with-front-matter-part-2-followups)
 
 * [Fun With Front Matter: Part 1 - Related Posts](https://www.raymondcamden.com/2023/08/28/fun-with-frontmatter-part-1-related-posts)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Connecting Cloudflare Workers with Service Bindings](https://www.raymondcamden.com/2023/08/11/connecting-cloudflare-workers-with-service-bindings)
 
 * [Adding Form Fields Character Counters With Alpine.js](https://www.raymondcamden.com/2023/08/09/adding-form-fields-characters-counters-with-alpinejs)
-
-* [JavaScript Syntax Sugar for Shorter Stuff](https://www.raymondcamden.com/2023/08/08/javascript-syntax-sugar-for-shorter-stuff)
 
 <!-- ENDRSS -->
 
