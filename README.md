@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Join Us at The Undefined Show!](https://www.raymondcamden.com/2023/09/01/join-us-at-the-undefined-show)
+
 * [Fun With Front Matter: Part 3 - Handling Edits](https://www.raymondcamden.com/2023/08/31/fun-with-front-matter-part-3-handling-edits)
 
 * [Fun With Front Matter: Part 2 - Follow-ups](https://www.raymondcamden.com/2023/08/29/fun-with-front-matter-part-2-followups)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Mastodon Bot with Cloudflare Workers](https://www.raymondcamden.com/2023/08/14/building-a-mastodon-bot-with-cloudflare-workers)
 
 * [Connecting Cloudflare Workers with Service Bindings](https://www.raymondcamden.com/2023/08/11/connecting-cloudflare-workers-with-service-bindings)
-
-* [Adding Form Fields Character Counters With Alpine.js](https://www.raymondcamden.com/2023/08/09/adding-form-fields-characters-counters-with-alpinejs)
 
 <!-- ENDRSS -->
 
