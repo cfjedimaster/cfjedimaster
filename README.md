@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/09/04/links-for-you)
+
 * [Join Us at The Undefined Show!](https://www.raymondcamden.com/2023/09/01/join-us-at-the-undefined-show)
 
 * [Fun With Front Matter: Part 3 - Handling Edits](https://www.raymondcamden.com/2023/08/31/fun-with-front-matter-part-3-handling-edits)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [ColdFusion Component for Adobe Acrobat Services](https://www.raymondcamden.com/2023/08/17/coldfusion-component-for-adobe-acrobat-services)
 
 * [Building a Mastodon Bot with Cloudflare Workers](https://www.raymondcamden.com/2023/08/14/building-a-mastodon-bot-with-cloudflare-workers)
-
-* [Connecting Cloudflare Workers with Service Bindings](https://www.raymondcamden.com/2023/08/11/connecting-cloudflare-workers-with-service-bindings)
 
 <!-- ENDRSS -->
 
