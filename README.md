@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a QR Coder Web Component](https://www.raymondcamden.com/2023/09/13/building-a-qr-coder-web-component)
+
 * [Fun With Front Matter: Part 4 - Featured Posts](https://www.raymondcamden.com/2023/09/12/fun-with-front-matter-part-4-featured-posts)
 
 * [Integrating Intl with Alpine.js Mask](https://www.raymondcamden.com/2023/09/06/integrating-intl-with-alpinejs-mask)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Working with the Storage API](https://www.raymondcamden.com/2023/08/25/working-with-the-storage-api)
 
 * [Debugging Cloudflare Workers with Logs](https://www.raymondcamden.com/2023/08/22/debugging-cloudflare-workers-with-logs)
-
-* [Links For You](https://www.raymondcamden.com/2023/08/20/links-for-you)
 
 <!-- ENDRSS -->
 
