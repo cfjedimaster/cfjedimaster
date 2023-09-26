@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Guess the (Marvel) Decade](https://www.raymondcamden.com/2023/09/26/guess-the-marvel-decade)
+
 * [Testing Out the Alpine.js Intersect Plugin](https://www.raymondcamden.com/2023/09/20/testing-out-the-alpinejs-intersect-plugin)
 
 * [Links For You](https://www.raymondcamden.com/2023/09/17/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Fun With Front Matter: Part 3 - Handling Edits](https://www.raymondcamden.com/2023/08/31/fun-with-front-matter-part-3-handling-edits)
 
 * [Fun With Front Matter: Part 2 - Follow-ups](https://www.raymondcamden.com/2023/08/29/fun-with-front-matter-part-2-followups)
-
-* [Fun With Front Matter: Part 1 - Related Posts](https://www.raymondcamden.com/2023/08/28/fun-with-frontmatter-part-1-related-posts)
 
 <!-- ENDRSS -->
 
