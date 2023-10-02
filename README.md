@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/10/01/links-for-you)
+
 * [Taking a Look at Pipedream's GitHub Integration](https://www.raymondcamden.com/2023/09/29/taking-a-look-at-pipedreams-github-integration)
 
 * [Guess the (Marvel) Decade](https://www.raymondcamden.com/2023/09/26/guess-the-marvel-decade)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/09/04/links-for-you)
 
 * [Join Us at The Undefined Show!](https://www.raymondcamden.com/2023/09/01/join-us-at-the-undefined-show)
-
-* [Fun With Front Matter: Part 3 - Handling Edits](https://www.raymondcamden.com/2023/08/31/fun-with-front-matter-part-3-handling-edits)
 
 <!-- ENDRSS -->
 
