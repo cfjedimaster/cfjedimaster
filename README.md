@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Automating Mastodon Postings with ColdFusion](https://www.raymondcamden.com/2023/10/05/automating-mastodon-postings-with-coldfusion)
+
 * [Links For You](https://www.raymondcamden.com/2023/10/01/links-for-you)
 
 * [Taking a Look at Pipedream's GitHub Integration](https://www.raymondcamden.com/2023/09/29/taking-a-look-at-pipedreams-github-integration)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Integrating Intl with Alpine.js Mask](https://www.raymondcamden.com/2023/09/06/integrating-intl-with-alpinejs-mask)
 
 * [Links For You](https://www.raymondcamden.com/2023/09/04/links-for-you)
-
-* [Join Us at The Undefined Show!](https://www.raymondcamden.com/2023/09/01/join-us-at-the-undefined-show)
 
 <!-- ENDRSS -->
 
