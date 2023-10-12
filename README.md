@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [A Look at Google's PaLM API](https://www.raymondcamden.com/2023/10/12/a-look-at-googles-palm-api)
+
 * [Automating Mastodon Postings with ColdFusion](https://www.raymondcamden.com/2023/10/05/automating-mastodon-postings-with-coldfusion)
 
 * [Links For You](https://www.raymondcamden.com/2023/10/01/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Fun With Front Matter: Part 4 - Featured Posts](https://www.raymondcamden.com/2023/09/12/fun-with-front-matter-part-4-featured-posts)
 
 * [Integrating Intl with Alpine.js Mask](https://www.raymondcamden.com/2023/09/06/integrating-intl-with-alpinejs-mask)
-
-* [Links For You](https://www.raymondcamden.com/2023/09/04/links-for-you)
 
 <!-- ENDRSS -->
 
