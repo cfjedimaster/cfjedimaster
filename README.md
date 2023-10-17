@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Google PaLM to Gather Sentiment Analysis on a Forum](https://www.raymondcamden.com/2023/10/16/using-google-palm-to-gather-sentiment-analysis-on-a-forum)
+
 * [Texting Email Summaries using Google PaLM AI and Twilio](https://www.raymondcamden.com/2023/10/13/texting-email-summaries-using-google-palm-ai-and-twilio)
 
 * [A Look at Google's PaLM API](https://www.raymondcamden.com/2023/10/12/a-look-at-googles-palm-api)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/09/17/links-for-you)
 
 * [Building a QR Coder Web Component](https://www.raymondcamden.com/2023/09/13/building-a-qr-coder-web-component)
-
-* [Fun With Front Matter: Part 4 - Featured Posts](https://www.raymondcamden.com/2023/09/12/fun-with-front-matter-part-4-featured-posts)
 
 <!-- ENDRSS -->
 
