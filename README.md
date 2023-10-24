@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Cloudflare's AI Workers to Add Translations to PDFs](https://www.raymondcamden.com/2023/10/24/using-cloudflare-ai-workers-to-add-translations-to-pdfs)
+
 * [Links For You](https://www.raymondcamden.com/2023/10/22/links-for-you)
 
 * [Using Google PaLM to Gather Sentiment Analysis on a Forum](https://www.raymondcamden.com/2023/10/16/using-google-palm-to-gather-sentiment-analysis-on-a-forum)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Guess the (Marvel) Decade](https://www.raymondcamden.com/2023/09/26/guess-the-marvel-decade)
 
 * [Testing Out the Alpine.js Intersect Plugin](https://www.raymondcamden.com/2023/09/20/testing-out-the-alpinejs-intersect-plugin)
-
-* [Links For You](https://www.raymondcamden.com/2023/09/17/links-for-you)
 
 <!-- ENDRSS -->
 
