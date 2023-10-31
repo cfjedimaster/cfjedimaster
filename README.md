@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Generic RSS Parser Service with Cloudflare Workers](https://www.raymondcamden.com/2023/10/31/building-a-generic-rss-parser-service-with-cloudflare-workers)
+
 * [Using Cloudflare's AI Workers to Add Translations to PDFs](https://www.raymondcamden.com/2023/10/24/using-cloudflare-ai-workers-to-add-translations-to-pdfs)
 
 * [Links For You](https://www.raymondcamden.com/2023/10/22/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Taking a Look at Pipedream's GitHub Integration](https://www.raymondcamden.com/2023/09/29/taking-a-look-at-pipedreams-github-integration)
 
 * [Guess the (Marvel) Decade](https://www.raymondcamden.com/2023/09/26/guess-the-marvel-decade)
-
-* [Testing Out the Alpine.js Intersect Plugin](https://www.raymondcamden.com/2023/09/20/testing-out-the-alpinejs-intersect-plugin)
 
 <!-- ENDRSS -->
 
