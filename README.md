@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Creating Human-Readable Summaries of Data with Google PaLM Generative AI](https://www.raymondcamden.com/2023/11/06/creating-human-readable-summaries-of-data-with-google-palm-generative-ai)
+
 * [Links For You](https://www.raymondcamden.com/2023/11/05/links-for-you)
 
 * [Building a Generic RSS Parser Service with Cloudflare Workers](https://www.raymondcamden.com/2023/10/31/building-a-generic-rss-parser-service-with-cloudflare-workers)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Automating Mastodon Postings with ColdFusion](https://www.raymondcamden.com/2023/10/05/automating-mastodon-postings-with-coldfusion)
 
 * [Links For You](https://www.raymondcamden.com/2023/10/01/links-for-you)
-
-* [Taking a Look at Pipedream's GitHub Integration](https://www.raymondcamden.com/2023/09/29/taking-a-look-at-pipedreams-github-integration)
 
 <!-- ENDRSS -->
 
