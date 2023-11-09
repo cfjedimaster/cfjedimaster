@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Can GenAI help you win in Vegas?](https://www.raymondcamden.com/2023/11/09/can-genai-help-you-win-in-vegas)
+
 * [Creating Human-Readable Summaries of Data with Google PaLM Generative AI](https://www.raymondcamden.com/2023/11/06/creating-human-readable-summaries-of-data-with-google-palm-generative-ai)
 
 * [Links For You](https://www.raymondcamden.com/2023/11/05/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [A Look at Google's PaLM API](https://www.raymondcamden.com/2023/10/12/a-look-at-googles-palm-api)
 
 * [Automating Mastodon Postings with ColdFusion](https://www.raymondcamden.com/2023/10/05/automating-mastodon-postings-with-coldfusion)
-
-* [Links For You](https://www.raymondcamden.com/2023/10/01/links-for-you)
 
 <!-- ENDRSS -->
 
