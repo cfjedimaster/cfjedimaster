@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [A Tip for Properly Handling Loading States in Web Apps](https://www.raymondcamden.com/2023/11/15/a-tip-for-properly-handling-loading-states-in-web-apps)
+
 * [Can GenAI help you win in Vegas?](https://www.raymondcamden.com/2023/11/09/can-genai-help-you-win-in-vegas)
 
 * [Creating Human-Readable Summaries of Data with Google PaLM Generative AI](https://www.raymondcamden.com/2023/11/06/creating-human-readable-summaries-of-data-with-google-palm-generative-ai)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Texting Email Summaries using Google PaLM AI and Twilio](https://www.raymondcamden.com/2023/10/13/texting-email-summaries-using-google-palm-ai-and-twilio)
 
 * [A Look at Google's PaLM API](https://www.raymondcamden.com/2023/10/12/a-look-at-googles-palm-api)
-
-* [Automating Mastodon Postings with ColdFusion](https://www.raymondcamden.com/2023/10/05/automating-mastodon-postings-with-coldfusion)
 
 <!-- ENDRSS -->
 
