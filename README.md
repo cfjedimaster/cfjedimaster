@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/11/20/links-for-you)
+
 * [Adding Simple Routing to Cloudflare Workers](https://www.raymondcamden.com/2023/11/17/adding-simple-routing-to-cloudflare-workers)
 
 * [A Tip for Properly Handling Loading States in Web Apps](https://www.raymondcamden.com/2023/11/15/a-tip-for-properly-handling-loading-states-in-web-apps)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/10/22/links-for-you)
 
 * [Using Google PaLM to Gather Sentiment Analysis on a Forum](https://www.raymondcamden.com/2023/10/16/using-google-palm-to-gather-sentiment-analysis-on-a-forum)
-
-* [Texting Email Summaries using Google PaLM AI and Twilio](https://www.raymondcamden.com/2023/10/13/texting-email-summaries-using-google-palm-ai-and-twilio)
 
 <!-- ENDRSS -->
 
