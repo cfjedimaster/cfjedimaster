@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using IndexedDB with Alpine.js](https://www.raymondcamden.com/2023/11/26/using-indexeddb-with-alpinejs)
+
 * [Links For You](https://www.raymondcamden.com/2023/11/20/links-for-you)
 
 * [Adding Simple Routing to Cloudflare Workers](https://www.raymondcamden.com/2023/11/17/adding-simple-routing-to-cloudflare-workers)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Cloudflare's AI Workers to Add Translations to PDFs](https://www.raymondcamden.com/2023/10/24/using-cloudflare-ai-workers-to-add-translations-to-pdfs)
 
 * [Links For You](https://www.raymondcamden.com/2023/10/22/links-for-you)
-
-* [Using Google PaLM to Gather Sentiment Analysis on a Forum](https://www.raymondcamden.com/2023/10/16/using-google-palm-to-gather-sentiment-analysis-on-a-forum)
 
 <!-- ENDRSS -->
 
