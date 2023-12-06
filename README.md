@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Awesome Netlify Updates](https://www.raymondcamden.com/2023/12/06/awesome-netlify-updates)
+
 * [Adding Music Previews to My Now Page](https://www.raymondcamden.com/2023/11/29/adding-music-previews-to-my-now-page)
 
 * [Using IndexedDB with Alpine.js](https://www.raymondcamden.com/2023/11/26/using-indexeddb-with-alpinejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/11/05/links-for-you)
 
 * [Building a Generic RSS Parser Service with Cloudflare Workers](https://www.raymondcamden.com/2023/10/31/building-a-generic-rss-parser-service-with-cloudflare-workers)
-
-* [Using Cloudflare's AI Workers to Add Translations to PDFs](https://www.raymondcamden.com/2023/10/24/using-cloudflare-ai-workers-to-add-translations-to-pdfs)
 
 <!-- ENDRSS -->
 
