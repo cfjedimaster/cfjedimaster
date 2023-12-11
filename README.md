@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/12/10/links-for-you)
+
 * [The Twelve (Generative) Days of Christmas](https://www.raymondcamden.com/2023/12/08/the-twelve-generative-days-of-christmas)
 
 * [Awesome Netlify Updates](https://www.raymondcamden.com/2023/12/06/awesome-netlify-updates)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Can GenAI help you win in Vegas?](https://www.raymondcamden.com/2023/11/09/can-genai-help-you-win-in-vegas)
 
 * [Creating Human-Readable Summaries of Data with Google PaLM Generative AI](https://www.raymondcamden.com/2023/11/06/creating-human-readable-summaries-of-data-with-google-palm-generative-ai)
-
-* [Links For You](https://www.raymondcamden.com/2023/11/05/links-for-you)
 
 <!-- ENDRSS -->
 
