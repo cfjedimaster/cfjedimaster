@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Google Gemini and AI Studio Launch](https://www.raymondcamden.com/2023/12/14/google-gemini-and-ai-studio-launch)
+
 * [An Image Dialog Web Component](https://www.raymondcamden.com/2023/12/13/an-image-dialog-web-component)
 
 * [Links For You](https://www.raymondcamden.com/2023/12/10/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Simple Routing to Cloudflare Workers](https://www.raymondcamden.com/2023/11/17/adding-simple-routing-to-cloudflare-workers)
 
 * [A Tip for Properly Handling Loading States in Web Apps](https://www.raymondcamden.com/2023/11/15/a-tip-for-properly-handling-loading-states-in-web-apps)
-
-* [Can GenAI help you win in Vegas?](https://www.raymondcamden.com/2023/11/09/can-genai-help-you-win-in-vegas)
 
 <!-- ENDRSS -->
 
