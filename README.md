@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2023/12/23/links-for-you)
+
 * [Using Generative AI to Detect Cat Breeds](https://www.raymondcamden.com/2023/12/18/using-generative-ai-to-detect-cat-breeds)
 
 * [Google Gemini and AI Studio Launch](https://www.raymondcamden.com/2023/12/14/google-gemini-and-ai-studio-launch)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using IndexedDB with Alpine.js](https://www.raymondcamden.com/2023/11/26/using-indexeddb-with-alpinejs)
 
 * [Links For You](https://www.raymondcamden.com/2023/11/20/links-for-you)
-
-* [Adding Simple Routing to Cloudflare Workers](https://www.raymondcamden.com/2023/11/17/adding-simple-routing-to-cloudflare-workers)
 
 <!-- ENDRSS -->
 
