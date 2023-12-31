@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My 2023](https://www.raymondcamden.com/2023/12/30/my-2023)
+
 * [Links For You](https://www.raymondcamden.com/2023/12/23/links-for-you)
 
 * [Using Generative AI to Detect Cat Breeds](https://www.raymondcamden.com/2023/12/18/using-generative-ai-to-detect-cat-breeds)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Music Previews to My Now Page](https://www.raymondcamden.com/2023/11/29/adding-music-previews-to-my-now-page)
 
 * [Using IndexedDB with Alpine.js](https://www.raymondcamden.com/2023/11/26/using-indexeddb-with-alpinejs)
-
-* [Links For You](https://www.raymondcamden.com/2023/11/20/links-for-you)
 
 <!-- ENDRSS -->
 
