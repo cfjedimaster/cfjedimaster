@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Function Calling and GenAI](https://www.raymondcamden.com/2024/01/03/function-calling-and-genai)
+
 * [The Return of the Comment(s)](https://www.raymondcamden.com/2024/01/02/the-return-of-the-comments)
 
 * [My 2023](https://www.raymondcamden.com/2023/12/30/my-2023)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [The Twelve (Generative) Days of Christmas](https://www.raymondcamden.com/2023/12/08/the-twelve-generative-days-of-christmas)
 
 * [Awesome Netlify Updates](https://www.raymondcamden.com/2023/12/06/awesome-netlify-updates)
-
-* [Adding Music Previews to My Now Page](https://www.raymondcamden.com/2023/11/29/adding-music-previews-to-my-now-page)
 
 <!-- ENDRSS -->
 
