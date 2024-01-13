@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/01/13/links-for-you)
+
 * [Using AI and PDF Services to Automate Document Summaries](https://www.raymondcamden.com/2024/01/08/using-ai-and-pdf-services-to-automate-document-summaries)
 
 * [Function Calling and GenAI](https://www.raymondcamden.com/2024/01/03/function-calling-and-genai)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [An Image Dialog Web Component](https://www.raymondcamden.com/2023/12/13/an-image-dialog-web-component)
 
 * [Links For You](https://www.raymondcamden.com/2023/12/10/links-for-you)
-
-* [The Twelve (Generative) Days of Christmas](https://www.raymondcamden.com/2023/12/08/the-twelve-generative-days-of-christmas)
 
 <!-- ENDRSS -->
 
