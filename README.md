@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Drag/Drop in Alpine.js with PDF Embed](https://www.raymondcamden.com/2024/01/16/using-dragdrop-in-alpinejs-with-pdf-embed)
+
 * [Links For You](https://www.raymondcamden.com/2024/01/13/links-for-you)
 
 * [Using AI and PDF Services to Automate Document Summaries](https://www.raymondcamden.com/2024/01/08/using-ai-and-pdf-services-to-automate-document-summaries)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Google Gemini and AI Studio Launch](https://www.raymondcamden.com/2023/12/14/google-gemini-and-ai-studio-launch)
 
 * [An Image Dialog Web Component](https://www.raymondcamden.com/2023/12/13/an-image-dialog-web-component)
-
-* [Links For You](https://www.raymondcamden.com/2023/12/10/links-for-you)
 
 <!-- ENDRSS -->
 
