@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using GenAI to Classify an Image as a Photo, Screenshot, or Meme](https://www.raymondcamden.com/2024/01/18/using-genai-to-classify-an-image-as-a-photo-screenshot-or-meme)
+
 * [You Should Attend theJam.dev 2024!](https://www.raymondcamden.com/2024/01/17/you-should-attend-thejamdev)
 
 * [Using Drag/Drop in Alpine.js with PDF Embed](https://www.raymondcamden.com/2024/01/16/using-dragdrop-in-alpinejs-with-pdf-embed)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2023/12/23/links-for-you)
 
 * [Using Generative AI to Detect Cat Breeds](https://www.raymondcamden.com/2023/12/18/using-generative-ai-to-detect-cat-breeds)
-
-* [Google Gemini and AI Studio Launch](https://www.raymondcamden.com/2023/12/14/google-gemini-and-ai-studio-launch)
 
 <!-- ENDRSS -->
 
