@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My New Show - <Code><Br>](https://www.raymondcamden.com/2024/01/22/my-new-show-codebr)
+
 * [Using GenAI to Classify an Image as a Photo, Screenshot, or Meme](https://www.raymondcamden.com/2024/01/18/using-genai-to-classify-an-image-as-a-photo-screenshot-or-meme)
 
 * [You Should Attend theJam.dev 2024!](https://www.raymondcamden.com/2024/01/17/you-should-attend-thejamdev)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [My 2023](https://www.raymondcamden.com/2023/12/30/my-2023)
 
 * [Links For You](https://www.raymondcamden.com/2023/12/23/links-for-you)
-
-* [Using Generative AI to Detect Cat Breeds](https://www.raymondcamden.com/2023/12/18/using-generative-ai-to-detect-cat-breeds)
 
 <!-- ENDRSS -->
 
