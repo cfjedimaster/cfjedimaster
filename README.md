@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Working with Google Gemini and ColdFusion](https://www.raymondcamden.com/2024/01/23/working-with-google-gemini-and-coldfusion)
+
 * [My New Show - <Code><Br>](https://www.raymondcamden.com/2024/01/22/my-new-show-codebr)
 
 * [Using GenAI to Classify an Image as a Photo, Screenshot, or Meme](https://www.raymondcamden.com/2024/01/18/using-genai-to-classify-an-image-as-a-photo-screenshot-or-meme)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [The Return of the Comment(s)](https://www.raymondcamden.com/2024/01/02/the-return-of-the-comments)
 
 * [My 2023](https://www.raymondcamden.com/2023/12/30/my-2023)
-
-* [Links For You](https://www.raymondcamden.com/2023/12/23/links-for-you)
 
 <!-- ENDRSS -->
 
