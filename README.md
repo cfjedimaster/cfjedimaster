@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/01/28/links-for-you)
+
 * [Using Generative AI to Improve Image Filenames](https://www.raymondcamden.com/2024/01/26/using-generative-ai-to-improve-image-filenames)
 
 * [Working with Google Gemini and ColdFusion](https://www.raymondcamden.com/2024/01/23/working-with-google-gemini-and-coldfusion)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using AI and PDF Services to Automate Document Summaries](https://www.raymondcamden.com/2024/01/08/using-ai-and-pdf-services-to-automate-document-summaries)
 
 * [Function Calling and GenAI](https://www.raymondcamden.com/2024/01/03/function-calling-and-genai)
-
-* [The Return of the Comment(s)](https://www.raymondcamden.com/2024/01/02/the-return-of-the-comments)
 
 <!-- ENDRSS -->
 
