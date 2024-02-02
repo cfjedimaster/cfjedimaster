@@ -15,13 +15,15 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Generative AI as Your Content Assistant](https://www.raymondcamden.com/2024/02/02/using-generative-ai-as-your-content-assistant)
+
 * [Links For You](https://www.raymondcamden.com/2024/01/28/links-for-you)
 
 * [Using Generative AI to Improve Image Filenames](https://www.raymondcamden.com/2024/01/26/using-generative-ai-to-improve-image-filenames)
 
 * [Working with Google Gemini and ColdFusion](https://www.raymondcamden.com/2024/01/23/working-with-google-gemini-and-coldfusion)
 
-* [My New Show - <Code><Br>](https://www.raymondcamden.com/2024/01/22/my-new-show-codebr)
+* [My New Show - &lt;Code&gt;&lt;Br&gt;](https://www.raymondcamden.com/2024/01/22/my-new-show-codebr)
 
 * [Using GenAI to Classify an Image as a Photo, Screenshot, or Meme](https://www.raymondcamden.com/2024/01/18/using-genai-to-classify-an-image-as-a-photo-screenshot-or-meme)
 
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2024/01/13/links-for-you)
 
 * [Using AI and PDF Services to Automate Document Summaries](https://www.raymondcamden.com/2024/01/08/using-ai-and-pdf-services-to-automate-document-summaries)
-
-* [Function Calling and GenAI](https://www.raymondcamden.com/2024/01/03/function-calling-and-genai)
 
 <!-- ENDRSS -->
 
