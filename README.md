@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [&lt;Code&gt;&lt;Br&gt; - First Episode](https://www.raymondcamden.com/2024/02/06/codebr-first-episode)
+
 * [Using Generative AI as Your Content Assistant](https://www.raymondcamden.com/2024/02/02/using-generative-ai-as-your-content-assistant)
 
 * [Links For You](https://www.raymondcamden.com/2024/01/28/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Drag/Drop in Alpine.js with PDF Embed](https://www.raymondcamden.com/2024/01/16/using-dragdrop-in-alpinejs-with-pdf-embed)
 
 * [Links For You](https://www.raymondcamden.com/2024/01/13/links-for-you)
-
-* [Using AI and PDF Services to Automate Document Summaries](https://www.raymondcamden.com/2024/01/08/using-ai-and-pdf-services-to-automate-document-summaries)
 
 <!-- ENDRSS -->
 
