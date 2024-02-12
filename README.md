@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Looking at the JavaScript Promise Collection Methods](https://www.raymondcamden.com/2024/02/12/looking-at-the-javascript-promise-collection-methods)
+
 * [Links For You](https://www.raymondcamden.com/2024/02/11/links-for-you)
 
 * [Using the Bluesky API](https://www.raymondcamden.com/2024/02/09/using-the-bluesky-api)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [My New Show - &lt;Code&gt;&lt;Br&gt;](https://www.raymondcamden.com/2024/01/22/my-new-show-codebr)
 
 * [Using GenAI to Classify an Image as a Photo, Screenshot, or Meme](https://www.raymondcamden.com/2024/01/18/using-genai-to-classify-an-image-as-a-photo-screenshot-or-meme)
-
-* [You Should Attend theJam.dev 2024!](https://www.raymondcamden.com/2024/01/17/you-should-attend-thejamdev)
 
 <!-- ENDRSS -->
 
