@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing Temperature Settings with Generative AI](https://www.raymondcamden.com/2024/02/14/testing-temperature-settings-with-generative-ai)
+
 * [Come Build/Play a Game with Me Next Week](https://www.raymondcamden.com/2024/02/13/come-buildplay-a-game-with-me-next-week)
 
 * [Looking at the JavaScript Promise Collection Methods](https://www.raymondcamden.com/2024/02/12/looking-at-the-javascript-promise-collection-methods)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Generative AI to Improve Image Filenames](https://www.raymondcamden.com/2024/01/26/using-generative-ai-to-improve-image-filenames)
 
 * [Working with Google Gemini and ColdFusion](https://www.raymondcamden.com/2024/01/23/working-with-google-gemini-and-coldfusion)
-
-* [My New Show - &lt;Code&gt;&lt;Br&gt;](https://www.raymondcamden.com/2024/01/22/my-new-show-codebr)
 
 <!-- ENDRSS -->
 
