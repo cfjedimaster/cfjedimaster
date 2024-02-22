@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding a Guestbook to Your Jamstack Site (Yes, Seriously)](https://www.raymondcamden.com/2024/02/22/adding-a-guestbook-to-your-jamstack-site-yes-seriously)
+
 * [Using Generative AI to Organize Video Game Screenshots](https://www.raymondcamden.com/2024/02/19/using-generative-ai-to-organize-video-game-screenshots)
 
 * [Google Gemini as Your Dungeon Master](https://www.raymondcamden.com/2024/02/16/google-gemini-as-your-dungeon-master)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using the Bluesky API](https://www.raymondcamden.com/2024/02/09/using-the-bluesky-api)
 
 * [&lt;Code&gt;&lt;Br&gt; - First Episode](https://www.raymondcamden.com/2024/02/06/codebr-first-episode)
-
-* [Using Generative AI as Your Content Assistant](https://www.raymondcamden.com/2024/02/02/using-generative-ai-as-your-content-assistant)
 
 <!-- ENDRSS -->
 
