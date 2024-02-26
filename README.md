@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing Multiple Variations of Generative AI Prompts](https://www.raymondcamden.com/2024/02/26/testing-multiple-variations-of-generative-ai-prompts)
+
 * [Links For You](https://www.raymondcamden.com/2024/02/25/links-for-you)
 
 * [Adding a Guestbook to Your Jamstack Site (Yes, Seriously)](https://www.raymondcamden.com/2024/02/22/adding-a-guestbook-to-your-jamstack-site-yes-seriously)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Looking at the JavaScript Promise Collection Methods](https://www.raymondcamden.com/2024/02/12/looking-at-the-javascript-promise-collection-methods)
 
 * [Links For You](https://www.raymondcamden.com/2024/02/11/links-for-you)
-
-* [Using the Bluesky API](https://www.raymondcamden.com/2024/02/09/using-the-bluesky-api)
 
 <!-- ENDRSS -->
 
