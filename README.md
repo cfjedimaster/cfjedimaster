@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [TIL - submit() versus requestSubmit()](https://www.raymondcamden.com/2024/03/01/til-submit-versus-requestsubmit)
+
 * [Testing Multiple Variations of Generative AI Prompts](https://www.raymondcamden.com/2024/02/26/testing-multiple-variations-of-generative-ai-prompts)
 
 * [Links For You](https://www.raymondcamden.com/2024/02/25/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Come Build/Play a Game with Me Next Week](https://www.raymondcamden.com/2024/02/13/come-buildplay-a-game-with-me-next-week)
 
 * [Looking at the JavaScript Promise Collection Methods](https://www.raymondcamden.com/2024/02/12/looking-at-the-javascript-promise-collection-methods)
-
-* [Links For You](https://www.raymondcamden.com/2024/02/11/links-for-you)
 
 <!-- ENDRSS -->
 
