@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Intl.RelativeTimeFormat for Localized Relative Timings](https://www.raymondcamden.com/2024/03/07/using-intlrelativetimeformat-for-localized-relative-timings)
+
 * [Converting a Vue 2 App to Alpine.js](https://www.raymondcamden.com/2024/03/04/converting-a-vue-2-app-to-alpinejs)
 
 * [TIL - submit() versus requestSubmit()](https://www.raymondcamden.com/2024/03/01/til-submit-versus-requestsubmit)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Google Gemini 1.5 Announced (and more new features)](https://www.raymondcamden.com/2024/02/15/google-gemini-15-announced-but-not-yet-released)
 
 * [Testing Temperature Settings with Generative AI](https://www.raymondcamden.com/2024/02/14/testing-temperature-settings-with-generative-ai)
-
-* [Come Build/Play a Game with Me Next Week](https://www.raymondcamden.com/2024/02/13/come-buildplay-a-game-with-me-next-week)
 
 <!-- ENDRSS -->
 
