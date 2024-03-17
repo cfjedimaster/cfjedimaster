@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/03/17/links-for-you)
+
 * [Responding to HTML Changes in a Web Component](https://www.raymondcamden.com/2024/03/13/responding-to-html-changes-in-a-web-component)
 
 * [Using Intl.RelativeTimeFormat for Localized Relative Timings](https://www.raymondcamden.com/2024/03/07/using-intlrelativetimeformat-for-localized-relative-timings)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Generative AI to Organize Video Game Screenshots](https://www.raymondcamden.com/2024/02/19/using-generative-ai-to-organize-video-game-screenshots)
 
 * [Google Gemini as Your Dungeon Master](https://www.raymondcamden.com/2024/02/16/google-gemini-as-your-dungeon-master)
-
-* [Google Gemini 1.5 Announced (and more new features)](https://www.raymondcamden.com/2024/02/15/google-gemini-15-announced-but-not-yet-released)
 
 <!-- ENDRSS -->
 
