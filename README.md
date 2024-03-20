@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Three Cool (to me) Node.js Features](https://www.raymondcamden.com/2024/03/20/three-cool-to-me-nodejs-features)
+
 * [Alpine.js Workshop this Friday](https://www.raymondcamden.com/2024/03/19/alpinejs-workshop-this-friday)
 
 * [Links For You](https://www.raymondcamden.com/2024/03/17/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2024/02/25/links-for-you)
 
 * [Adding a Guestbook to Your Jamstack Site (Yes, Seriously)](https://www.raymondcamden.com/2024/02/22/adding-a-guestbook-to-your-jamstack-site-yes-seriously)
-
-* [Using Generative AI to Organize Video Game Screenshots](https://www.raymondcamden.com/2024/02/19/using-generative-ai-to-organize-video-game-screenshots)
 
 <!-- ENDRSS -->
 
