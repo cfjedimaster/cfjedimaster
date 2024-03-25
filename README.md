@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Spam APIs in 2024](https://www.raymondcamden.com/2024/03/25/spam-apis-in-2024)
+
 * [Using PDF Content with Google Gemini](https://www.raymondcamden.com/2024/03/22/using-pdf-content-with-google-gemini)
 
 * [Three Cool (to me) Node.js Features](https://www.raymondcamden.com/2024/03/20/three-cool-to-me-nodejs-features)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [TIL - submit() versus requestSubmit()](https://www.raymondcamden.com/2024/03/01/til-submit-versus-requestsubmit)
 
 * [Testing Multiple Variations of Generative AI Prompts](https://www.raymondcamden.com/2024/02/26/testing-multiple-variations-of-generative-ai-prompts)
-
-* [Links For You](https://www.raymondcamden.com/2024/02/25/links-for-you)
 
 <!-- ENDRSS -->
 
