@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Automate Generative Image APIs with Firefly Services](https://www.raymondcamden.com/2024/03/26/automate-generative-image-apis-with-firefly-services)
+
 * [Spam APIs in 2024](https://www.raymondcamden.com/2024/03/25/spam-apis-in-2024)
 
 * [Using PDF Content with Google Gemini](https://www.raymondcamden.com/2024/03/22/using-pdf-content-with-google-gemini)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Converting a Vue 2 App to Alpine.js](https://www.raymondcamden.com/2024/03/04/converting-a-vue-2-app-to-alpinejs)
 
 * [TIL - submit() versus requestSubmit()](https://www.raymondcamden.com/2024/03/01/til-submit-versus-requestsubmit)
-
-* [Testing Multiple Variations of Generative AI Prompts](https://www.raymondcamden.com/2024/02/26/testing-multiple-variations-of-generative-ai-prompts)
 
 <!-- ENDRSS -->
 
