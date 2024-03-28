@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Generative AI to Check for Spam](https://www.raymondcamden.com/2024/03/28/using-generative-ai-to-check-for-spam)
+
 * [Automating Blog Post Headers with Firefly Services](https://www.raymondcamden.com/2024/03/27/automating-blog-post-headers-with-firefly-services)
 
 * [Automate Generative Image APIs with Firefly Services](https://www.raymondcamden.com/2024/03/26/automate-generative-image-apis-with-firefly-services)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Responding to HTML Changes in a Web Component](https://www.raymondcamden.com/2024/03/13/responding-to-html-changes-in-a-web-component)
 
 * [Using Intl.RelativeTimeFormat for Localized Relative Timings](https://www.raymondcamden.com/2024/03/07/using-intlrelativetimeformat-for-localized-relative-timings)
-
-* [Converting a Vue 2 App to Alpine.js](https://www.raymondcamden.com/2024/03/04/converting-a-vue-2-app-to-alpinejs)
 
 <!-- ENDRSS -->
 
