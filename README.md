@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/03/31/links-for-you)
+
 * [Using Generative AI to Check for Spam](https://www.raymondcamden.com/2024/03/28/using-generative-ai-to-check-for-spam)
 
 * [Automating Blog Post Headers with Firefly Services](https://www.raymondcamden.com/2024/03/27/automating-blog-post-headers-with-firefly-services)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2024/03/17/links-for-you)
 
 * [Responding to HTML Changes in a Web Component](https://www.raymondcamden.com/2024/03/13/responding-to-html-changes-in-a-web-component)
-
-* [Using Intl.RelativeTimeFormat for Localized Relative Timings](https://www.raymondcamden.com/2024/03/07/using-intlrelativetimeformat-for-localized-relative-timings)
 
 <!-- ENDRSS -->
 
