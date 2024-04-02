@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [All Your Dragons Are Belong To Us](https://www.raymondcamden.com/2024/04/02/all-your-dragons-are-belong-to-us)
+
 * [Links For You](https://www.raymondcamden.com/2024/03/31/links-for-you)
 
 * [Using Generative AI to Check for Spam](https://www.raymondcamden.com/2024/03/28/using-generative-ai-to-check-for-spam)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Alpine.js Workshop this Friday](https://www.raymondcamden.com/2024/03/19/alpinejs-workshop-this-friday)
 
 * [Links For You](https://www.raymondcamden.com/2024/03/17/links-for-you)
-
-* [Responding to HTML Changes in a Web Component](https://www.raymondcamden.com/2024/03/13/responding-to-html-changes-in-a-web-component)
 
 <!-- ENDRSS -->
 
