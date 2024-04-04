@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [A Quick First Look at Amazon Bedrock (with Node.js)](https://www.raymondcamden.com/2024/04/04/a-quick-first-look-at-amazon-bedrock-with-nodejs)
+
 * [All Your Dragons Are Belong To Us](https://www.raymondcamden.com/2024/04/02/all-your-dragons-are-belong-to-us)
 
 * [Links For You](https://www.raymondcamden.com/2024/03/31/links-for-you)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Three Cool (to me) Node.js Features](https://www.raymondcamden.com/2024/03/20/three-cool-to-me-nodejs-features)
 
 * [Alpine.js Workshop this Friday](https://www.raymondcamden.com/2024/03/19/alpinejs-workshop-this-friday)
-
-* [Links For You](https://www.raymondcamden.com/2024/03/17/links-for-you)
 
 <!-- ENDRSS -->
 
