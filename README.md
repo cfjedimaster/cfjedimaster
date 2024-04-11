@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using GenAI to Help Pick Your D & D Class](https://www.raymondcamden.com/2024/04/11/using-genai-to-help-pick-your-d--d-class)
+
 * [Using Netlify Edge and Blob Support to Investigate Website Traffic](https://www.raymondcamden.com/2024/04/06/using-netlify-edge-and-blob-support-to-investigate-website-traffic)
 
 * [A Quick First Look at Amazon Bedrock (with Node.js)](https://www.raymondcamden.com/2024/04/04/a-quick-first-look-at-amazon-bedrock-with-nodejs)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Spam APIs in 2024](https://www.raymondcamden.com/2024/03/25/spam-apis-in-2024)
 
 * [Using PDF Content with Google Gemini](https://www.raymondcamden.com/2024/03/22/using-pdf-content-with-google-gemini)
-
-* [Three Cool (to me) Node.js Features](https://www.raymondcamden.com/2024/03/20/three-cool-to-me-nodejs-features)
 
 <!-- ENDRSS -->
 
