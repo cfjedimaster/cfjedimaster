@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/04/14/links-for-you)
+
 * [Using GenAI to Help Pick Your D & D Class](https://www.raymondcamden.com/2024/04/11/using-genai-to-help-pick-your-d--d-class)
 
 * [Using Netlify Edge and Blob Support to Investigate Website Traffic](https://www.raymondcamden.com/2024/04/06/using-netlify-edge-and-blob-support-to-investigate-website-traffic)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Automate Generative Image APIs with Firefly Services](https://www.raymondcamden.com/2024/03/26/automate-generative-image-apis-with-firefly-services)
 
 * [Spam APIs in 2024](https://www.raymondcamden.com/2024/03/25/spam-apis-in-2024)
-
-* [Using PDF Content with Google Gemini](https://www.raymondcamden.com/2024/03/22/using-pdf-content-with-google-gemini)
 
 <!-- ENDRSS -->
 
