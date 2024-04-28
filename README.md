@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/04/28/links-for-you)
+
 * [Automating Movie Recommendations with Generative AI and Pipedream](https://www.raymondcamden.com/2024/04/26/automating-movie-recommendations-with-generative-ai-and-pipedream)
 
 * [JSON Results with Google Gemini Generative AI API Calls](https://www.raymondcamden.com/2024/04/17/json-results-with-google-gemini-generative-ai-api-calls)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2024/03/31/links-for-you)
 
 * [Using Generative AI to Check for Spam](https://www.raymondcamden.com/2024/03/28/using-generative-ai-to-check-for-spam)
-
-* [Automating Blog Post Headers with Firefly Services](https://www.raymondcamden.com/2024/03/27/automating-blog-post-headers-with-firefly-services)
 
 <!-- ENDRSS -->
 
