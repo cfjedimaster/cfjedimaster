@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [ColdFusion's CFOAUTH Tag](https://www.raymondcamden.com/2024/05/10/coldfusions-cfoauth-tag)
+
 * [Upcoming Generative AI Talk by... Me!](https://www.raymondcamden.com/2024/05/08/upcoming-generative-ai-talk-by-me)
 
 * [Super Useful NPM Module - Open](https://www.raymondcamden.com/2024/05/03/super-useful-npm-module-open)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using GenAI to Help Pick Your D & D Class](https://www.raymondcamden.com/2024/04/11/using-genai-to-help-pick-your-d--d-class)
 
 * [Using Netlify Edge and Blob Support to Investigate Website Traffic](https://www.raymondcamden.com/2024/04/06/using-netlify-edge-and-blob-support-to-investigate-website-traffic)
-
-* [A Quick First Look at Amazon Bedrock (with Node.js)](https://www.raymondcamden.com/2024/04/04/a-quick-first-look-at-amazon-bedrock-with-nodejs)
 
 <!-- ENDRSS -->
 
