@@ -15,6 +15,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing Google's New Gemini Flash Model](https://www.raymondcamden.com/2024/05/15/test-googles-new-gemini-flash-model)
+
 * [Links For You](https://www.raymondcamden.com/2024/05/13/links-for-you)
 
 * [ColdFusion's CFOAUTH Tag](https://www.raymondcamden.com/2024/05/10/coldfusions-cfoauth-tag)
@@ -32,8 +34,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [JSON Results with Google Gemini Generative AI API Calls](https://www.raymondcamden.com/2024/04/17/json-results-with-google-gemini-generative-ai-api-calls)
 
 * [Links For You](https://www.raymondcamden.com/2024/04/14/links-for-you)
-
-* [Using GenAI to Help Pick Your D & D Class](https://www.raymondcamden.com/2024/04/11/using-genai-to-help-pick-your-d--d-class)
 
 <!-- ENDRSS -->
 
