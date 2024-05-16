@@ -12,7 +12,11 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 
 ![Star Wars cat](https://raw.githubusercontent.com/cfjedimaster/cfjedimaster/master/cat.jpg)
 
-![Metrics](/github-metrics.svg)
+## Metrics
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 <!-- RSS -->
 ## My Latest Blog Entries
