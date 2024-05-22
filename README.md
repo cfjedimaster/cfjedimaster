@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Dynamically Creating Variables in Postman](https://www.raymondcamden.com/2024/05/22/dynamically-creating-variables-in-postman)
+
 * [Using the Gemini File API for Prompts with Media](https://www.raymondcamden.com/2024/05/21/using-the-gemini-file-api-for-prompts-with-media)
 
 * [Testing Google's New Gemini Flash Model](https://www.raymondcamden.com/2024/05/15/test-googles-new-gemini-flash-model)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2024/04/28/links-for-you)
 
 * [Automating Movie Recommendations with Generative AI and Pipedream](https://www.raymondcamden.com/2024/04/26/automating-movie-recommendations-with-generative-ai-and-pipedream)
-
-* [JSON Results with Google Gemini Generative AI API Calls](https://www.raymondcamden.com/2024/04/17/json-results-with-google-gemini-generative-ai-api-calls)
 
 <!-- ENDRSS -->
 
