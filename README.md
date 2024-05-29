@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Update to My Table Sorting Web Component](https://www.raymondcamden.com/2024/05/29/update-to-my-table-sorting-web-component)
+
 * [Adding Recommendations to my Blog with Algolia](https://www.raymondcamden.com/2024/05/27/adding-recommendations-to-my-blog-with-algolia)
 
 * [Creating Visualizations in Postman](https://www.raymondcamden.com/2024/05/24/creating-visualizations-in-postman)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Upcoming Generative AI Talk by... Me!](https://www.raymondcamden.com/2024/05/08/upcoming-generative-ai-talk-by-me)
 
 * [Super Useful NPM Module - Open](https://www.raymondcamden.com/2024/05/03/super-useful-npm-module-open)
-
-* [Building a Chat Integration with Google Gemini](https://www.raymondcamden.com/2024/04/30/building-a-chat-integration-with-google-gemini)
 
 <!-- ENDRSS -->
 
