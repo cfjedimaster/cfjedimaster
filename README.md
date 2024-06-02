@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/06/02/links-for-you)
+
 * [Tracking Gemini Models with Pipedream](https://www.raymondcamden.com/2024/05/31/tracking-gemini-models-with-pipedream)
 
 * [Update to My Table Sorting Web Component](https://www.raymondcamden.com/2024/05/29/update-to-my-table-sorting-web-component)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2024/05/13/links-for-you)
 
 * [ColdFusion's CFOAUTH Tag](https://www.raymondcamden.com/2024/05/10/coldfusions-cfoauth-tag)
-
-* [Upcoming Generative AI Talk by... Me!](https://www.raymondcamden.com/2024/05/08/upcoming-generative-ai-talk-by-me)
 
 <!-- ENDRSS -->
 
