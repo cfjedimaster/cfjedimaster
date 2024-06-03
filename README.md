@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Game Dev Diary - Cat Herder - Part 1](https://www.raymondcamden.com/2024/06/03/game-dev-diary-cat-herder---part-1)
+
 * [Links For You](https://www.raymondcamden.com/2024/06/02/links-for-you)
 
 * [Tracking Gemini Models with Pipedream](https://www.raymondcamden.com/2024/05/31/tracking-gemini-models-with-pipedream)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Testing Google's New Gemini Flash Model](https://www.raymondcamden.com/2024/05/15/test-googles-new-gemini-flash-model)
 
 * [Links For You](https://www.raymondcamden.com/2024/05/13/links-for-you)
-
-* [ColdFusion's CFOAUTH Tag](https://www.raymondcamden.com/2024/05/10/coldfusions-cfoauth-tag)
 
 <!-- ENDRSS -->
 
