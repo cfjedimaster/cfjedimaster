@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Table-Sorter Available Via NPM](https://www.raymondcamden.com/2024/06/10/table-sorter-available-via-npm)
+
 * [Game Dev Diary - Cat Herder - Part 2](https://www.raymondcamden.com/2024/06/07/game-dev-diary-cat-herder---part-2)
 
 * [Game Dev Diary - Cat Herder - Part 1](https://www.raymondcamden.com/2024/06/03/game-dev-diary-cat-herder---part-1)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Dynamically Creating Variables in Postman](https://www.raymondcamden.com/2024/05/22/dynamically-creating-variables-in-postman)
 
 * [Using the Gemini File API for Prompts with Media](https://www.raymondcamden.com/2024/05/21/using-the-gemini-file-api-for-prompts-with-media)
-
-* [Testing Google's New Gemini Flash Model](https://www.raymondcamden.com/2024/05/15/test-googles-new-gemini-flash-model)
 
 <!-- ENDRSS -->
 
