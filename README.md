@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Scraping Recipes Using Node.js, Pipedream, and JSON-LD](https://www.raymondcamden.com/2024/06/12/scraping-recipes-using-nodejs-pipedream-and-json-ld)
+
 * [Using JSON Schema with Google Gemini](https://www.raymondcamden.com/2024/06/11/using-json-schema-with-google-gemini)
 
 * [Table-Sorter Available Via NPM](https://www.raymondcamden.com/2024/06/10/table-sorter-available-via-npm)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Recommendations to my Blog with Algolia](https://www.raymondcamden.com/2024/05/27/adding-recommendations-to-my-blog-with-algolia)
 
 * [Creating Visualizations in Postman](https://www.raymondcamden.com/2024/05/24/creating-visualizations-in-postman)
-
-* [Dynamically Creating Variables in Postman](https://www.raymondcamden.com/2024/05/22/dynamically-creating-variables-in-postman)
 
 <!-- ENDRSS -->
 
