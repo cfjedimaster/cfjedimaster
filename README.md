@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [PDF Embed Web Component Available Via NPM](https://www.raymondcamden.com/2024/06/19/pdf-embed-web-component-available-via-npm)
+
 * [Adding Your Buttondown Email Stats to Your Website](https://www.raymondcamden.com/2024/06/17/adding-your-buttondown-email-stats-to-your-website)
 
 * [Links For You](https://www.raymondcamden.com/2024/06/15/links-for-you)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2024/06/02/links-for-you)
 
 * [Tracking Gemini Models with Pipedream](https://www.raymondcamden.com/2024/05/31/tracking-gemini-models-with-pipedream)
-
-* [Update to My Table Sorting Web Component](https://www.raymondcamden.com/2024/05/29/update-to-my-table-sorting-web-component)
 
 <!-- ENDRSS -->
 
