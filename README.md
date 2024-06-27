@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Storing Recipes in IndexedDB](https://www.raymondcamden.com/2024/06/27/storing-recipes-in-indexeddb)
+
 * [Creating a Content Assistant with Gemini and GenAI](https://www.raymondcamden.com/2024/06/24/creating-a-content-assistant-with-gemini-and-genai)
 
 * [PDF Embed Web Component Available Via NPM](https://www.raymondcamden.com/2024/06/19/pdf-embed-web-component-available-via-npm)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Game Dev Diary - Cat Herder - Part 2](https://www.raymondcamden.com/2024/06/07/game-dev-diary-cat-herder---part-2)
 
 * [Game Dev Diary - Cat Herder - Part 1](https://www.raymondcamden.com/2024/06/03/game-dev-diary-cat-herder---part-1)
-
-* [Links For You](https://www.raymondcamden.com/2024/06/02/links-for-you)
 
 <!-- ENDRSS -->
 
