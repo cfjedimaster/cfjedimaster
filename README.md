@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/06/29/links-for-you)
+
 * [CodeBr Break](https://www.raymondcamden.com/2024/06/28/codebr-break)
 
 * [Storing Recipes in IndexedDB](https://www.raymondcamden.com/2024/06/27/storing-recipes-in-indexeddb)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using JSON Schema with Google Gemini](https://www.raymondcamden.com/2024/06/11/using-json-schema-with-google-gemini)
 
 * [Table-Sorter Available Via NPM](https://www.raymondcamden.com/2024/06/10/table-sorter-available-via-npm)
-
-* [Game Dev Diary - Cat Herder - Part 2](https://www.raymondcamden.com/2024/06/07/game-dev-diary-cat-herder---part-2)
 
 <!-- ENDRSS -->
 
