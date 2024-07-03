@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Working with Pasted Content in JavaScript](https://www.raymondcamden.com/2024/07/03/working-with-pasted-content-in-javascript)
+
 * [Links For You](https://www.raymondcamden.com/2024/06/29/links-for-you)
 
 * [CodeBr Break](https://www.raymondcamden.com/2024/06/28/codebr-break)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Scraping Recipes Using Node.js, Pipedream, and JSON-LD](https://www.raymondcamden.com/2024/06/12/scraping-recipes-using-nodejs-pipedream-and-json-ld)
 
 * [Using JSON Schema with Google Gemini](https://www.raymondcamden.com/2024/06/11/using-json-schema-with-google-gemini)
-
-* [Table-Sorter Available Via NPM](https://www.raymondcamden.com/2024/06/10/table-sorter-available-via-npm)
 
 <!-- ENDRSS -->
 
