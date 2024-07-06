@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Add Squirrelly Support to Eleventy](https://www.raymondcamden.com/2024/07/06/add-squirrelly-support-to-eleventy)
+
 * [Building a Web Version of Your Mastodon Archive with Eleventy](https://www.raymondcamden.com/2024/07/04/building-a-web-version-of-your-mastodon-archive-with-eleventy)
 
 * [Working with Pasted Content in JavaScript](https://www.raymondcamden.com/2024/07/03/working-with-pasted-content-in-javascript)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Your Buttondown Email Stats to Your Website](https://www.raymondcamden.com/2024/06/17/adding-your-buttondown-email-stats-to-your-website)
 
 * [Links For You](https://www.raymondcamden.com/2024/06/15/links-for-you)
-
-* [Scraping Recipes Using Node.js, Pipedream, and JSON-LD](https://www.raymondcamden.com/2024/06/12/scraping-recipes-using-nodejs-pipedream-and-json-ld)
 
 <!-- ENDRSS -->
 
