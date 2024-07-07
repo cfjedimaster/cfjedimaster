@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [(Don't) Add BASIC Support to Eleventy](https://www.raymondcamden.com/2024/07/07/dont-add-basic-support-to-eleventy)
+
 * [Add Squirrelly Support to Eleventy](https://www.raymondcamden.com/2024/07/06/add-squirrelly-support-to-eleventy)
 
 * [Building a Web Version of Your Mastodon Archive with Eleventy](https://www.raymondcamden.com/2024/07/04/building-a-web-version-of-your-mastodon-archive-with-eleventy)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [PDF Embed Web Component Available Via NPM](https://www.raymondcamden.com/2024/06/19/pdf-embed-web-component-available-via-npm)
 
 * [Adding Your Buttondown Email Stats to Your Website](https://www.raymondcamden.com/2024/06/17/adding-your-buttondown-email-stats-to-your-website)
-
-* [Links For You](https://www.raymondcamden.com/2024/06/15/links-for-you)
 
 <!-- ENDRSS -->
 
