@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Creating a Generic Generative Template Language in Google Gemini](https://www.raymondcamden.com/2024/07/10/creating-a-generic-generative-template-language-in-google-gemini)
+
 * [Cat Herder V1 Released!](https://www.raymondcamden.com/2024/07/09/cat-herder-v1-released)
 
 * [(Don't) Add BASIC Support to Eleventy](https://www.raymondcamden.com/2024/07/07/dont-add-basic-support-to-eleventy)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Storing Recipes in IndexedDB](https://www.raymondcamden.com/2024/06/27/storing-recipes-in-indexeddb)
 
 * [Creating a Content Assistant with Gemini and GenAI](https://www.raymondcamden.com/2024/06/24/creating-a-content-assistant-with-gemini-and-genai)
-
-* [PDF Embed Web Component Available Via NPM](https://www.raymondcamden.com/2024/06/19/pdf-embed-web-component-available-via-npm)
 
 <!-- ENDRSS -->
 
