@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You](https://www.raymondcamden.com/2024/07/13/links-for-you)
+
 * [Scraping Recipes on the Web - Now with Display and Print](https://www.raymondcamden.com/2024/07/12/scraping-recipes-on-the-web-now-with-display-and-print)
 
 * [Creating a Generic Generative Template Language in Google Gemini](https://www.raymondcamden.com/2024/07/10/creating-a-generic-generative-template-language-in-google-gemini)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You](https://www.raymondcamden.com/2024/06/29/links-for-you)
 
 * [CodeBr Break](https://www.raymondcamden.com/2024/06/28/codebr-break)
-
-* [Storing Recipes in IndexedDB](https://www.raymondcamden.com/2024/06/27/storing-recipes-in-indexeddb)
 
 <!-- ENDRSS -->
 
