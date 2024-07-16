@@ -21,7 +21,9 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
-* [Links For You](https://www.raymondcamden.com/2024/07/13/links-for-you)
+* [Web Component to Generate Image Color Palettes](https://www.raymondcamden.com/2024/07/16/web-component-to-generate-image-color-palettes)
+
+* [Links For You (7/13/2024)](https://www.raymondcamden.com/2024/07/13/links-for-you)
 
 * [Scraping Recipes on the Web - Now with Display and Print](https://www.raymondcamden.com/2024/07/12/scraping-recipes-on-the-web-now-with-display-and-print)
 
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Working with Pasted Content in JavaScript](https://www.raymondcamden.com/2024/07/03/working-with-pasted-content-in-javascript)
 
 * [Links For You](https://www.raymondcamden.com/2024/06/29/links-for-you)
-
-* [CodeBr Break](https://www.raymondcamden.com/2024/06/28/codebr-break)
 
 <!-- ENDRSS -->
 
