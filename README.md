@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [An Online Mastodon Archive Viewer](https://www.raymondcamden.com/2024/07/21/an-online-mastodon-archive-viewer)
+
 * [Caching Input with Google Gemini](https://www.raymondcamden.com/2024/07/19/caching-input-with-google-gemini)
 
 * [Web Component to Generate Image Color Palettes](https://www.raymondcamden.com/2024/07/16/web-component-to-generate-image-color-palettes)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Add Squirrelly Support to Eleventy](https://www.raymondcamden.com/2024/07/06/add-squirrelly-support-to-eleventy)
 
 * [Building a Web Version of Your Mastodon Archive with Eleventy](https://www.raymondcamden.com/2024/07/04/building-a-web-version-of-your-mastodon-archive-with-eleventy)
-
-* [Working with Pasted Content in JavaScript](https://www.raymondcamden.com/2024/07/03/working-with-pasted-content-in-javascript)
 
 <!-- ENDRSS -->
 
