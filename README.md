@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Next Code Break - August 6](https://www.raymondcamden.com/2024/07/30/next-code-break-august-6)
+
 * [An Online Mastodon Archive Viewer](https://www.raymondcamden.com/2024/07/21/an-online-mastodon-archive-viewer)
 
 * [Caching Input with Google Gemini](https://www.raymondcamden.com/2024/07/19/caching-input-with-google-gemini)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [(Don't) Add BASIC Support to Eleventy](https://www.raymondcamden.com/2024/07/07/dont-add-basic-support-to-eleventy)
 
 * [Add Squirrelly Support to Eleventy](https://www.raymondcamden.com/2024/07/06/add-squirrelly-support-to-eleventy)
-
-* [Building a Web Version of Your Mastodon Archive with Eleventy](https://www.raymondcamden.com/2024/07/04/building-a-web-version-of-your-mastodon-archive-with-eleventy)
 
 <!-- ENDRSS -->
 
