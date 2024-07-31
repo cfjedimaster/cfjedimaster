@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a CRUD Web App with Alpine.js](https://www.raymondcamden.com/2024/07/31/building-a-crud-web-app-with-alpinejs)
+
 * [Next Code Break - August 6](https://www.raymondcamden.com/2024/07/30/next-code-break-august-6)
 
 * [An Online Mastodon Archive Viewer](https://www.raymondcamden.com/2024/07/21/an-online-mastodon-archive-viewer)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Cat Herder V1 Released!](https://www.raymondcamden.com/2024/07/09/cat-herder-v1-released)
 
 * [(Don't) Add BASIC Support to Eleventy](https://www.raymondcamden.com/2024/07/07/dont-add-basic-support-to-eleventy)
-
-* [Add Squirrelly Support to Eleventy](https://www.raymondcamden.com/2024/07/06/add-squirrelly-support-to-eleventy)
 
 <!-- ENDRSS -->
 
