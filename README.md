@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (8/3/2024)](https://www.raymondcamden.com/2024/08/03/links-for-you)
+
 * [Help Me Solve an Alpine.js Mystery](https://www.raymondcamden.com/2024/08/01/help-me-solve-an-alpinejs-mystery)
 
 * [Building a CRUD Web App with Alpine.js](https://www.raymondcamden.com/2024/07/31/building-a-crud-web-app-with-alpinejs)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Scraping Recipes on the Web - Now with Display and Print](https://www.raymondcamden.com/2024/07/12/scraping-recipes-on-the-web-now-with-display-and-print)
 
 * [Creating a Generic Generative Template Language in Google Gemini](https://www.raymondcamden.com/2024/07/10/creating-a-generic-generative-template-language-in-google-gemini)
-
-* [Cat Herder V1 Released!](https://www.raymondcamden.com/2024/07/09/cat-herder-v1-released)
 
 <!-- ENDRSS -->
 
