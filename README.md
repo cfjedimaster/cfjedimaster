@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Automating Background Removal with Firefly Services](https://www.raymondcamden.com/2024/08/08/automating-background-removal-with-firefly-services)
+
 * [Upgraded to Eleventy 3.0 (Beta)](https://www.raymondcamden.com/2024/08/05/upgraded-to-eleventy-30-beta)
 
 * [Links For You (8/3/2024)](https://www.raymondcamden.com/2024/08/03/links-for-you)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Web Component to Generate Image Color Palettes](https://www.raymondcamden.com/2024/07/16/web-component-to-generate-image-color-palettes)
 
 * [Links For You (7/13/2024)](https://www.raymondcamden.com/2024/07/13/links-for-you)
-
-* [Scraping Recipes on the Web - Now with Display and Print](https://www.raymondcamden.com/2024/07/12/scraping-recipes-on-the-web-now-with-display-and-print)
 
 <!-- ENDRSS -->
 
