@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [A Quick Look at AI in Chrome](https://www.raymondcamden.com/2024/08/13/a-quick-look-at-ai-in-chrome)
+
 * [Automating Background Removal with Firefly Services](https://www.raymondcamden.com/2024/08/08/automating-background-removal-with-firefly-services)
 
 * [Upgraded to Eleventy 3.0 (Beta)](https://www.raymondcamden.com/2024/08/05/upgraded-to-eleventy-30-beta)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Caching Input with Google Gemini](https://www.raymondcamden.com/2024/07/19/caching-input-with-google-gemini)
 
 * [Web Component to Generate Image Color Palettes](https://www.raymondcamden.com/2024/07/16/web-component-to-generate-image-color-palettes)
-
-* [Links For You (7/13/2024)](https://www.raymondcamden.com/2024/07/13/links-for-you)
 
 <!-- ENDRSS -->
 
