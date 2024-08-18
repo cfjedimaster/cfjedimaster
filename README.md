@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (8/18/2024)](https://www.raymondcamden.com/2024/08/18/links-for-you)
+
 * [Setting Dynamic Objects Keys in JavaScript](https://www.raymondcamden.com/2024/08/16/setting-dynamic-objects-keys-in-javascript)
 
 * [A Quick Look at AI in Chrome](https://www.raymondcamden.com/2024/08/13/a-quick-look-at-ai-in-chrome)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Next Code Break - August 6](https://www.raymondcamden.com/2024/07/30/next-code-break-august-6)
 
 * [An Online Mastodon Archive Viewer](https://www.raymondcamden.com/2024/07/21/an-online-mastodon-archive-viewer)
-
-* [Caching Input with Google Gemini](https://www.raymondcamden.com/2024/07/19/caching-input-with-google-gemini)
 
 <!-- ENDRSS -->
 
