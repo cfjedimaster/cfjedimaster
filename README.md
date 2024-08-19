@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Real-Time Sentiment Analysis on Device with AI in Chrome](https://www.raymondcamden.com/2024/08/19/sentiment-analysis-on-device-with-ai-in-chrome)
+
 * [Links For You (8/18/2024)](https://www.raymondcamden.com/2024/08/18/links-for-you)
 
 * [Setting Dynamic Objects Keys in JavaScript](https://www.raymondcamden.com/2024/08/16/setting-dynamic-objects-keys-in-javascript)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a CRUD Web App with Alpine.js](https://www.raymondcamden.com/2024/07/31/building-a-crud-web-app-with-alpinejs)
 
 * [Next Code Break - August 6](https://www.raymondcamden.com/2024/07/30/next-code-break-august-6)
-
-* [An Online Mastodon Archive Viewer](https://www.raymondcamden.com/2024/07/21/an-online-mastodon-archive-viewer)
 
 <!-- ENDRSS -->
 
