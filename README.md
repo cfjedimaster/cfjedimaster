@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Mapping with Leaflet](https://www.raymondcamden.com/2024/08/23/mapping-with-leaflet)
+
 * [Another Web Component - Table Compressor](https://www.raymondcamden.com/2024/08/20/another-web-component-table-compressor)
 
 * [Real-Time Sentiment Analysis on Device with AI in Chrome](https://www.raymondcamden.com/2024/08/19/sentiment-analysis-on-device-with-ai-in-chrome)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (8/3/2024)](https://www.raymondcamden.com/2024/08/03/links-for-you)
 
 * [Help Me Solve an Alpine.js Mystery](https://www.raymondcamden.com/2024/08/01/help-me-solve-an-alpinejs-mystery)
-
-* [Building a CRUD Web App with Alpine.js](https://www.raymondcamden.com/2024/07/31/building-a-crud-web-app-with-alpinejs)
 
 <!-- ENDRSS -->
 
