@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Next &lt;Code&gt;&lt;Br&gt;, and Vote For My AI Demo!](https://www.raymondcamden.com/2024/09/04/next-codebr-and-vote-for-my-ai-demo)
+
 * [Using CSV Data with Leaflet](https://www.raymondcamden.com/2024/09/02/using-csv-data-with-leaflet)
 
 * [Links For You (8/31/2024)](https://www.raymondcamden.com/2024/08/31/links-for-you-8312024)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (8/18/2024)](https://www.raymondcamden.com/2024/08/18/links-for-you)
 
 * [Setting Dynamic Objects Keys in JavaScript](https://www.raymondcamden.com/2024/08/16/setting-dynamic-objects-keys-in-javascript)
-
-* [A Quick Look at AI in Chrome](https://www.raymondcamden.com/2024/08/13/a-quick-look-at-ai-in-chrome)
 
 <!-- ENDRSS -->
 
