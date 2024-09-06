@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Let's Map Traffic Incidents... Again](https://www.raymondcamden.com/2024/09/06/lets-map-traffic-incidents-again)
+
 * [Using PDF Content with Google Gemini - An Update](https://www.raymondcamden.com/2024/09/05/using-pdf-content-with-google-gemini-an-update)
 
 * [Next &lt;Code&gt;&lt;Br&gt;, and Vote For My AI Demo!](https://www.raymondcamden.com/2024/09/04/next-codebr-and-vote-for-my-ai-demo)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Another Web Component - Table Compressor](https://www.raymondcamden.com/2024/08/20/another-web-component-table-compressor)
 
 * [Real-Time Sentiment Analysis on Device with AI in Chrome](https://www.raymondcamden.com/2024/08/19/sentiment-analysis-on-device-with-ai-in-chrome)
-
-* [Links For You (8/18/2024)](https://www.raymondcamden.com/2024/08/18/links-for-you)
 
 <!-- ENDRSS -->
 
