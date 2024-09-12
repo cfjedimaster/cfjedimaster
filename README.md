@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using AI to Roast Your Photos](https://www.raymondcamden.com/2024/09/12/using-ai-to-roast-your-photos)
+
 * [Using the Chrome AI Summarizer (Early Look)](https://www.raymondcamden.com/2024/09/10/using-the-chrome-ai-summarizer-early-look)
 
 * [Let's Map Traffic Incidents... Again](https://www.raymondcamden.com/2024/09/06/lets-map-traffic-incidents-again)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Quick Example using Azure's Node.js SDK for Signed URLs](https://www.raymondcamden.com/2024/08/28/quick-example-using-azures-nodejs-sdk-for-signed-urls)
 
 * [Mapping with Leaflet](https://www.raymondcamden.com/2024/08/23/mapping-with-leaflet)
-
-* [Another Web Component - Table Compressor](https://www.raymondcamden.com/2024/08/20/another-web-component-table-compressor)
 
 <!-- ENDRSS -->
 
