@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Asynchronous Content in Leaflet Popups](https://www.raymondcamden.com/2024/09/17/using-asynchronous-content-in-leaflet-popups)
+
 * [Parsing Markdown in ColdFusion](https://www.raymondcamden.com/2024/09/16/parsing-markdown-in-coldfusion)
 
 * [Links For You (9/15/2024)](https://www.raymondcamden.com/2024/09/15/links-for-you)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using CSV Data with Leaflet](https://www.raymondcamden.com/2024/09/02/using-csv-data-with-leaflet)
 
 * [Links For You (8/31/2024)](https://www.raymondcamden.com/2024/08/31/links-for-you-8312024)
-
-* [Building a General Purpose GeoJSON Viewer with Leaflet](https://www.raymondcamden.com/2024/08/30/building-a-general-purpose-geojson-viewer-with-leaflet)
 
 <!-- ENDRSS -->
 
