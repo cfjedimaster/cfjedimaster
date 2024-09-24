@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Dynamically Showing and Hiding Markers in Leaflet](https://www.raymondcamden.com/2024/09/24/dynamically-showing-and-hiding-markers-in-leaflet)
+
 * [Using Google Gemini's File API with ColdFusion](https://www.raymondcamden.com/2024/09/23/using-google-geminis-file-api-with-coldfusion)
 
 * [Using Asynchronous Content in Leaflet Popups](https://www.raymondcamden.com/2024/09/17/using-asynchronous-content-in-leaflet-popups)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using PDF Content with Google Gemini - An Update](https://www.raymondcamden.com/2024/09/05/using-pdf-content-with-google-gemini-an-update)
 
 * [Next &lt;Code&gt;&lt;Br&gt;, and Vote For My AI Demo!](https://www.raymondcamden.com/2024/09/04/next-codebr-and-vote-for-my-ai-demo)
-
-* [Using CSV Data with Leaflet](https://www.raymondcamden.com/2024/09/02/using-csv-data-with-leaflet)
 
 <!-- ENDRSS -->
 
