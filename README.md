@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Chrome AI to Rewrite Text](https://www.raymondcamden.com/2024/09/26/using-chrome-ai-to-rewrite-text)
+
 * [Dynamically Showing and Hiding Markers in Leaflet](https://www.raymondcamden.com/2024/09/24/dynamically-showing-and-hiding-markers-in-leaflet)
 
 * [Using Google Gemini's File API with ColdFusion](https://www.raymondcamden.com/2024/09/23/using-google-geminis-file-api-with-coldfusion)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Let's Map Traffic Incidents... Again](https://www.raymondcamden.com/2024/09/06/lets-map-traffic-incidents-again)
 
 * [Using PDF Content with Google Gemini - An Update](https://www.raymondcamden.com/2024/09/05/using-pdf-content-with-google-gemini-an-update)
-
-* [Next &lt;Code&gt;&lt;Br&gt;, and Vote For My AI Demo!](https://www.raymondcamden.com/2024/09/04/next-codebr-and-vote-for-my-ai-demo)
 
 <!-- ENDRSS -->
 
