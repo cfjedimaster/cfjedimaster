@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Eleventy 3.0 Released (and in use here!)](https://www.raymondcamden.com/2024/10/02/eleventy-30-released-and-in-use-here)
+
 * [Links For You (9/28/24)](https://www.raymondcamden.com/2024/09/28/links-for-you)
 
 * [Using Chrome AI to Rewrite Text](https://www.raymondcamden.com/2024/09/26/using-chrome-ai-to-rewrite-text)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using AI to Roast Your Photos](https://www.raymondcamden.com/2024/09/12/using-ai-to-roast-your-photos)
 
 * [Using the Chrome AI Summarizer (Early Look)](https://www.raymondcamden.com/2024/09/10/using-the-chrome-ai-summarizer-early-look)
-
-* [Let's Map Traffic Incidents... Again](https://www.raymondcamden.com/2024/09/06/lets-map-traffic-incidents-again)
 
 <!-- ENDRSS -->
 
