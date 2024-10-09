@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Custom Markers with Leaflet](https://www.raymondcamden.com/2024/10/09/custom-markers-with-leaflet)
+
 * [Using Geocoding with Leaflet](https://www.raymondcamden.com/2024/10/04/using-geocoding-with-leaflet)
 
 * [ColdFusion Component for Google Gemini](https://www.raymondcamden.com/2024/10/03/coldfusion-component-for-google-gemini)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Asynchronous Content in Leaflet Popups](https://www.raymondcamden.com/2024/09/17/using-asynchronous-content-in-leaflet-popups)
 
 * [Parsing Markdown in ColdFusion](https://www.raymondcamden.com/2024/09/16/parsing-markdown-in-coldfusion)
-
-* [Links For You (9/15/2024)](https://www.raymondcamden.com/2024/09/15/links-for-you)
 
 <!-- ENDRSS -->
 
