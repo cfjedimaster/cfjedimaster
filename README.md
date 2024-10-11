@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Generating Illustrated Stories with AI](https://www.raymondcamden.com/2024/10/11/generating-illustrated-stories-with-ai)
+
 * [Custom Markers with Leaflet](https://www.raymondcamden.com/2024/10/09/custom-markers-with-leaflet)
 
 * [Using Geocoding with Leaflet](https://www.raymondcamden.com/2024/10/04/using-geocoding-with-leaflet)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Google Gemini's File API with ColdFusion](https://www.raymondcamden.com/2024/09/23/using-google-geminis-file-api-with-coldfusion)
 
 * [Using Asynchronous Content in Leaflet Popups](https://www.raymondcamden.com/2024/09/17/using-asynchronous-content-in-leaflet-popups)
-
-* [Parsing Markdown in ColdFusion](https://www.raymondcamden.com/2024/09/16/parsing-markdown-in-coldfusion)
 
 <!-- ENDRSS -->
 
