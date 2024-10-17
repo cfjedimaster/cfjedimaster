@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding AI Insights to Data with Google Gemini](https://www.raymondcamden.com/2024/10/17/adding-ai-insights-to-data-with-google-gemini)
+
 * [JavaScript Clipboard Stuff](https://www.raymondcamden.com/2024/10/14/javascript-clipboard-stuff)
 
 * [Links For You (10/13/2024)](https://www.raymondcamden.com/2024/10/13/links-for-you-10132024)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (9/28/24)](https://www.raymondcamden.com/2024/09/28/links-for-you)
 
 * [Using Chrome AI to Rewrite Text](https://www.raymondcamden.com/2024/09/26/using-chrome-ai-to-rewrite-text)
-
-* [Dynamically Showing and Hiding Markers in Leaflet](https://www.raymondcamden.com/2024/09/24/dynamically-showing-and-hiding-markers-in-leaflet)
 
 <!-- ENDRSS -->
 
