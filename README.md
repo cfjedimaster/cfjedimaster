@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Take a Code Break Tomorrow](https://www.raymondcamden.com/2024/10/21/take-a-code-break-tomorrow)
+
 * [Adding AI Insights to Data with Google Gemini](https://www.raymondcamden.com/2024/10/17/adding-ai-insights-to-data-with-google-gemini)
 
 * [JavaScript Clipboard Stuff](https://www.raymondcamden.com/2024/10/14/javascript-clipboard-stuff)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Eleventy 3.0 Released (and in use here!)](https://www.raymondcamden.com/2024/10/02/eleventy-30-released-and-in-use-here)
 
 * [Links For You (9/28/24)](https://www.raymondcamden.com/2024/09/28/links-for-you)
-
-* [Using Chrome AI to Rewrite Text](https://www.raymondcamden.com/2024/09/26/using-chrome-ai-to-rewrite-text)
 
 <!-- ENDRSS -->
 
