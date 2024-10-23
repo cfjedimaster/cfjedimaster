@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Getting and Displaying a Mastodon Post in Client-Side JavaScript](https://www.raymondcamden.com/2024/10/23/getting-and-displaying-a-mastodon-post-in-client-side-javascript)
+
 * [Take a Code Break Tomorrow](https://www.raymondcamden.com/2024/10/21/take-a-code-break-tomorrow)
 
 * [Adding AI Insights to Data with Google Gemini](https://www.raymondcamden.com/2024/10/17/adding-ai-insights-to-data-with-google-gemini)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [ColdFusion Component for Google Gemini](https://www.raymondcamden.com/2024/10/03/coldfusion-component-for-google-gemini)
 
 * [Eleventy 3.0 Released (and in use here!)](https://www.raymondcamden.com/2024/10/02/eleventy-30-released-and-in-use-here)
-
-* [Links For You (9/28/24)](https://www.raymondcamden.com/2024/09/28/links-for-you)
 
 <!-- ENDRSS -->
 
