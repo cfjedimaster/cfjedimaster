@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (10/28/2024)](https://www.raymondcamden.com/2024/10/28/links-for-you-10282024)
+
 * [Using Parallel Requests to Improve Web Performance](https://www.raymondcamden.com/2024/10/25/using-parallel-requests-to-improve-web-performance)
 
 * [Getting and Displaying a Mastodon Post in Client-Side JavaScript](https://www.raymondcamden.com/2024/10/23/getting-and-displaying-a-mastodon-post-in-client-side-javascript)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Custom Markers with Leaflet](https://www.raymondcamden.com/2024/10/09/custom-markers-with-leaflet)
 
 * [Using Geocoding with Leaflet](https://www.raymondcamden.com/2024/10/04/using-geocoding-with-leaflet)
-
-* [ColdFusion Component for Google Gemini](https://www.raymondcamden.com/2024/10/03/coldfusion-component-for-google-gemini)
 
 <!-- ENDRSS -->
 
