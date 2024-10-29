@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Chrome AI for Translation](https://www.raymondcamden.com/2024/10/29/using-chrome-ai-for-translation)
+
 * [Links For You (10/28/2024)](https://www.raymondcamden.com/2024/10/28/links-for-you-10282024)
 
 * [Using Parallel Requests to Improve Web Performance](https://www.raymondcamden.com/2024/10/25/using-parallel-requests-to-improve-web-performance)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Generating Illustrated Stories with AI](https://www.raymondcamden.com/2024/10/11/generating-illustrated-stories-with-ai)
 
 * [Custom Markers with Leaflet](https://www.raymondcamden.com/2024/10/09/custom-markers-with-leaflet)
-
-* [Using Geocoding with Leaflet](https://www.raymondcamden.com/2024/10/04/using-geocoding-with-leaflet)
 
 <!-- ENDRSS -->
 
