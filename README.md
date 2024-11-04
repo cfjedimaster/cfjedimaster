@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Next Code Break - Blogging with Eleventy](https://www.raymondcamden.com/2024/11/04/next-code-break-blogging-with-eleventy)
+
 * [Using Chrome AI for Translation](https://www.raymondcamden.com/2024/10/29/using-chrome-ai-for-translation)
 
 * [Links For You (10/28/2024)](https://www.raymondcamden.com/2024/10/28/links-for-you-10282024)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (10/13/2024)](https://www.raymondcamden.com/2024/10/13/links-for-you-10132024)
 
 * [Generating Illustrated Stories with AI](https://www.raymondcamden.com/2024/10/11/generating-illustrated-stories-with-ai)
-
-* [Custom Markers with Leaflet](https://www.raymondcamden.com/2024/10/09/custom-markers-with-leaflet)
 
 <!-- ENDRSS -->
 
