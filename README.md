@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Executing Dynamic Code in a Reveal.js Presentation](https://www.raymondcamden.com/2024/11/12/executing-dynamic-code-in-a-revealjs-presentation)
+
 * [Links For You (11/11/2024)](https://www.raymondcamden.com/2024/11/11/links-for-you)
 
 * [Adding Translation with a Web Component and Chrome AI](https://www.raymondcamden.com/2024/11/07/adding-translation-with-a-web-component-and-chrome-ai)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Getting and Displaying a Mastodon Post in Client-Side JavaScript](https://www.raymondcamden.com/2024/10/23/getting-and-displaying-a-mastodon-post-in-client-side-javascript)
 
 * [Take a Code Break Tomorrow](https://www.raymondcamden.com/2024/10/21/take-a-code-break-tomorrow)
-
-* [Adding AI Insights to Data with Google Gemini](https://www.raymondcamden.com/2024/10/17/adding-ai-insights-to-data-with-google-gemini)
 
 <!-- ENDRSS -->
 
