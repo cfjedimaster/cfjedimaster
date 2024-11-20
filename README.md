@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Counting Words with Intl.Segmenter](https://www.raymondcamden.com/2024/11/20/counting-words-with-intlsegmenter)
+
 * [Executing Dynamic Code in a Reveal.js Presentation](https://www.raymondcamden.com/2024/11/12/executing-dynamic-code-in-a-revealjs-presentation)
 
 * [Links For You (11/11/2024)](https://www.raymondcamden.com/2024/11/11/links-for-you)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Parallel Requests to Improve Web Performance](https://www.raymondcamden.com/2024/10/25/using-parallel-requests-to-improve-web-performance)
 
 * [Getting and Displaying a Mastodon Post in Client-Side JavaScript](https://www.raymondcamden.com/2024/10/23/getting-and-displaying-a-mastodon-post-in-client-side-javascript)
-
-* [Take a Code Break Tomorrow](https://www.raymondcamden.com/2024/10/21/take-a-code-break-tomorrow)
 
 <!-- ENDRSS -->
 
