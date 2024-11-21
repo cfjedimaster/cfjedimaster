@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Intl is your Superhero](https://www.raymondcamden.com/2024/11/21/intl-is-your-superhero)
+
 * [Counting Words with Intl.Segmenter](https://www.raymondcamden.com/2024/11/20/counting-words-with-intlsegmenter)
 
 * [Executing Dynamic Code in a Reveal.js Presentation](https://www.raymondcamden.com/2024/11/12/executing-dynamic-code-in-a-revealjs-presentation)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (10/28/2024)](https://www.raymondcamden.com/2024/10/28/links-for-you-10282024)
 
 * [Using Parallel Requests to Improve Web Performance](https://www.raymondcamden.com/2024/10/25/using-parallel-requests-to-improve-web-performance)
-
-* [Getting and Displaying a Mastodon Post in Client-Side JavaScript](https://www.raymondcamden.com/2024/10/23/getting-and-displaying-a-mastodon-post-in-client-side-javascript)
 
 <!-- ENDRSS -->
 
