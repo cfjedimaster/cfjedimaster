@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Your Favicon for Monitoring Long Processes](https://www.raymondcamden.com/2024/11/25/using-your-favicon-for-monitoring-long-processes)
+
 * [Intl is your Superhero](https://www.raymondcamden.com/2024/11/21/intl-is-your-superhero)
 
 * [Counting Words with Intl.Segmenter](https://www.raymondcamden.com/2024/11/20/counting-words-with-intlsegmenter)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Chrome AI for Translation](https://www.raymondcamden.com/2024/10/29/using-chrome-ai-for-translation)
 
 * [Links For You (10/28/2024)](https://www.raymondcamden.com/2024/10/28/links-for-you-10282024)
-
-* [Using Parallel Requests to Improve Web Performance](https://www.raymondcamden.com/2024/10/25/using-parallel-requests-to-improve-web-performance)
 
 <!-- ENDRSS -->
 
