@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Transformers.js for AI in the Browser](https://www.raymondcamden.com/2024/12/03/using-transformersjs-for-ai-in-the-browser)
+
 * [Next Code Break - December 5th](https://www.raymondcamden.com/2024/12/02/next-code-break-december-5th)
 
 * [Links For You (11/30/24)](https://www.raymondcamden.com/2024/11/30/links-for-you)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (11/11/2024)](https://www.raymondcamden.com/2024/11/11/links-for-you)
 
 * [Adding Translation with a Web Component and Chrome AI](https://www.raymondcamden.com/2024/11/07/adding-translation-with-a-web-component-and-chrome-ai)
-
-* [Automatically Posting to Bluesky on New RSS Items](https://www.raymondcamden.com/2024/11/05/automatically-posting-to-bluesky-on-new-rss-items)
 
 <!-- ENDRSS -->
 
