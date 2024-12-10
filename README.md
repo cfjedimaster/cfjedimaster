@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Christmas Code Break - Next Tuesday](https://www.raymondcamden.com/2024/12/10/christmas-code-break-next-tuesday)
+
 * [Classifying Documents with Generative AI](https://www.raymondcamden.com/2024/12/09/classifying-documents-with-generative-ai)
 
 * [Using Transformers.js for AI in the Browser](https://www.raymondcamden.com/2024/12/03/using-transformersjs-for-ai-in-the-browser)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Counting Words with Intl.Segmenter](https://www.raymondcamden.com/2024/11/20/counting-words-with-intlsegmenter)
 
 * [Executing Dynamic Code in a Reveal.js Presentation](https://www.raymondcamden.com/2024/11/12/executing-dynamic-code-in-a-revealjs-presentation)
-
-* [Links For You (11/11/2024)](https://www.raymondcamden.com/2024/11/11/links-for-you)
 
 <!-- ENDRSS -->
 
