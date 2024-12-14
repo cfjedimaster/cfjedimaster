@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (12/14/24)](https://www.raymondcamden.com/2024/12/14/links-for-you-121424)
+
 * [In Search of My Next Role](https://www.raymondcamden.com/2024/12/13/in-search-of-my-next-role)
 
 * [Christmas Code Break - Next Tuesday](https://www.raymondcamden.com/2024/12/10/christmas-code-break-next-tuesday)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Your Favicon for Monitoring Long Processes](https://www.raymondcamden.com/2024/11/25/using-your-favicon-for-monitoring-long-processes)
 
 * [Intl is your Superhero](https://www.raymondcamden.com/2024/11/21/intl-is-your-superhero)
-
-* [Counting Words with Intl.Segmenter](https://www.raymondcamden.com/2024/11/20/counting-words-with-intlsegmenter)
 
 <!-- ENDRSS -->
 
