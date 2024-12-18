@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Summarizing with Transformers.js](https://www.raymondcamden.com/2024/12/18/summarizing-with-transformersjs)
+
 * [Adding PDFs to Your Webpage without JavaScript](https://www.raymondcamden.com/2024/12/17/adding-pdfs-to-your-webpage-without-javascript)
 
 * [The Twelve (Generative) Days of Christmas - 2024 Edition](https://www.raymondcamden.com/2024/12/16/the-twelve-generative-days-of-christmas-2024-edition)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Next Code Break - December 5th](https://www.raymondcamden.com/2024/12/02/next-code-break-december-5th)
 
 * [Links For You (11/30/24)](https://www.raymondcamden.com/2024/11/30/links-for-you)
-
-* [Using Generative AI to Parse Web Pages into Data](https://www.raymondcamden.com/2024/11/27/using-generative-ai-to-parse-web-pages-into-data)
 
 <!-- ENDRSS -->
 
