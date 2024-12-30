@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Onwards to 2025...](https://www.raymondcamden.com/2024/12/30/onwards-to-2025)
+
 * [Links For You (12/28/24)](https://www.raymondcamden.com/2024/12/28/links-for-you-122824)
 
 * [Automating Object Detection with Google Gemini GenAI and Pipedream](https://www.raymondcamden.com/2024/12/23/automating-object-detection-with-google-gemini-genai-and-pipedream)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Christmas Code Break - Next Tuesday](https://www.raymondcamden.com/2024/12/10/christmas-code-break-next-tuesday)
 
 * [Classifying Documents with Generative AI](https://www.raymondcamden.com/2024/12/09/classifying-documents-with-generative-ai)
-
-* [Using Transformers.js for AI in the Browser](https://www.raymondcamden.com/2024/12/03/using-transformersjs-for-ai-in-the-browser)
 
 <!-- ENDRSS -->
 
