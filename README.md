@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Bluesky AI Sentiment Analysis Dashboard](https://www.raymondcamden.com/2025/01/03/building-a-bluesky-ai-sentiment-analysis-dashboard)
+
 * [Onwards to 2025...](https://www.raymondcamden.com/2024/12/30/onwards-to-2025)
 
 * [Links For You (12/28/24)](https://www.raymondcamden.com/2024/12/28/links-for-you-122824)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [In Search of My Next Role](https://www.raymondcamden.com/2024/12/13/in-search-of-my-next-role)
 
 * [Christmas Code Break - Next Tuesday](https://www.raymondcamden.com/2024/12/10/christmas-code-break-next-tuesday)
-
-* [Classifying Documents with Generative AI](https://www.raymondcamden.com/2024/12/09/classifying-documents-with-generative-ai)
 
 <!-- ENDRSS -->
 
