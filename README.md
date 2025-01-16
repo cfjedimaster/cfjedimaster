@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Turn Your Weather into Poetry with GenAI](https://www.raymondcamden.com/2025/01/16/turn-your-weather-into-poetry-with-genai)
+
 * [Next CodeBreak - Let's AI!](https://www.raymondcamden.com/2025/01/15/next-codebreak-lets-ai)
 
 * [Simple Blog Example in Flask](https://www.raymondcamden.com/2025/01/13/simple-blog-example-in-flask)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Summarizing with Transformers.js](https://www.raymondcamden.com/2024/12/18/summarizing-with-transformersjs)
 
 * [Adding PDFs to Your Webpage without JavaScript](https://www.raymondcamden.com/2024/12/17/adding-pdfs-to-your-webpage-without-javascript)
-
-* [The Twelve (Generative) Days of Christmas - 2024 Edition](https://www.raymondcamden.com/2024/12/16/the-twelve-generative-days-of-christmas-2024-edition)
 
 <!-- ENDRSS -->
 
