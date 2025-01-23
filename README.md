@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Let's Build a Web App for Pinecone](https://www.raymondcamden.com/2025/01/23/lets-build-a-web-app-for-pinecone)
+
 * [Checkout Pinecone for Serverless RAG](https://www.raymondcamden.com/2025/01/22/checkout-pinecone-for-serverless-rag)
 
 * [Turn Your Weather into Poetry with GenAI](https://www.raymondcamden.com/2025/01/16/turn-your-weather-into-poetry-with-genai)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (12/28/24)](https://www.raymondcamden.com/2024/12/28/links-for-you-122824)
 
 * [Automating Object Detection with Google Gemini GenAI and Pipedream](https://www.raymondcamden.com/2024/12/23/automating-object-detection-with-google-gemini-genai-and-pipedream)
-
-* [Summarizing with Transformers.js](https://www.raymondcamden.com/2024/12/18/summarizing-with-transformersjs)
 
 <!-- ENDRSS -->
 
