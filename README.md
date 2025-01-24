@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Automating Media Asset Creation with Cloudinary's GenAI Transformations](https://www.raymondcamden.com/2025/01/24/automating-media-asset-creation-with-cloudinarys-genai-transformations)
+
 * [Let's Build a Web App for Pinecone](https://www.raymondcamden.com/2025/01/23/lets-build-a-web-app-for-pinecone)
 
 * [Checkout Pinecone for Serverless RAG](https://www.raymondcamden.com/2025/01/22/checkout-pinecone-for-serverless-rag)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Onwards to 2025...](https://www.raymondcamden.com/2024/12/30/onwards-to-2025)
 
 * [Links For You (12/28/24)](https://www.raymondcamden.com/2024/12/28/links-for-you-122824)
-
-* [Automating Object Detection with Google Gemini GenAI and Pipedream](https://www.raymondcamden.com/2024/12/23/automating-object-detection-with-google-gemini-genai-and-pipedream)
 
 <!-- ENDRSS -->
 
