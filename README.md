@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing Cloudinary Image Enhancements](https://www.raymondcamden.com/2025/01/27/testing-cloudinary-image-enhancements)
+
 * [Links For You (1/25/25)](https://www.raymondcamden.com/2025/01/25/links-for-you-12525)
 
 * [Automating Media Asset Creation with Cloudinary's GenAI Transformations](https://www.raymondcamden.com/2025/01/24/automating-media-asset-creation-with-cloudinarys-genai-transformations)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (1/11/25)](https://www.raymondcamden.com/2025/01/11/links-for-you-11125)
 
 * [Building a Bluesky AI Sentiment Analysis Dashboard](https://www.raymondcamden.com/2025/01/03/building-a-bluesky-ai-sentiment-analysis-dashboard)
-
-* [Onwards to 2025...](https://www.raymondcamden.com/2024/12/30/onwards-to-2025)
 
 <!-- ENDRSS -->
 
