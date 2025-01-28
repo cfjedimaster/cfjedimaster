@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Generative AI to Help in Customer Service](https://www.raymondcamden.com/2025/01/28/using-generative-ai-to-help-in-customer-service)
+
 * [Testing Cloudinary Image Enhancements](https://www.raymondcamden.com/2025/01/27/testing-cloudinary-image-enhancements)
 
 * [Links For You (1/25/25)](https://www.raymondcamden.com/2025/01/25/links-for-you-12525)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Simple Blog Example in Flask](https://www.raymondcamden.com/2025/01/13/simple-blog-example-in-flask)
 
 * [Links For You (1/11/25)](https://www.raymondcamden.com/2025/01/11/links-for-you-11125)
-
-* [Building a Bluesky AI Sentiment Analysis Dashboard](https://www.raymondcamden.com/2025/01/03/building-a-bluesky-ai-sentiment-analysis-dashboard)
 
 <!-- ENDRSS -->
 
