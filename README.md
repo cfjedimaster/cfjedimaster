@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Generative AI Images with Gemini and Imagen - an Introduction](https://www.raymondcamden.com/2025/01/30/generative-ai-images-with-gemini-and-imagen-an-introduction)
+
 * [Using Generative AI to Help in Customer Service](https://www.raymondcamden.com/2025/01/28/using-generative-ai-to-help-in-customer-service)
 
 * [Testing Cloudinary Image Enhancements](https://www.raymondcamden.com/2025/01/27/testing-cloudinary-image-enhancements)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Next CodeBreak - Let's AI!](https://www.raymondcamden.com/2025/01/15/next-codebreak-lets-ai)
 
 * [Simple Blog Example in Flask](https://www.raymondcamden.com/2025/01/13/simple-blog-example-in-flask)
-
-* [Links For You (1/11/25)](https://www.raymondcamden.com/2025/01/11/links-for-you-11125)
 
 <!-- ENDRSS -->
 
