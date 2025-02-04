@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Automating Image Improvement with Cloudinary](https://www.raymondcamden.com/2025/02/04/automating-image-improvement-with-cloudinary)
+
 * [Join Me for a Code Break Tomorrow](https://www.raymondcamden.com/2025/02/03/join-me-for-a-code-break-tomorrow)
 
 * [Generative AI Images with Gemini and Imagen - an Introduction](https://www.raymondcamden.com/2025/01/30/generative-ai-images-with-gemini-and-imagen-an-introduction)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Checkout Pinecone for Serverless RAG](https://www.raymondcamden.com/2025/01/22/checkout-pinecone-for-serverless-rag)
 
 * [Turn Your Weather into Poetry with GenAI](https://www.raymondcamden.com/2025/01/16/turn-your-weather-into-poetry-with-genai)
-
-* [Next CodeBreak - Let's AI!](https://www.raymondcamden.com/2025/01/15/next-codebreak-lets-ai)
 
 <!-- ENDRSS -->
 
