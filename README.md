@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Introducing BoxLang - Scripting for the JVM](https://www.raymondcamden.com/2025/02/11/introducing-boxlang-scripting-for-the-jvm)
+
 * [Links For You (2/8/25)](https://www.raymondcamden.com/2025/02/08/links-for-you)
 
 * [Doing Evil Things with Generative AI and Recipes](https://www.raymondcamden.com/2025/02/06/doing-evil-things-with-generative-ai-and-recipes)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Testing Cloudinary Image Enhancements](https://www.raymondcamden.com/2025/01/27/testing-cloudinary-image-enhancements)
 
 * [Links For You (1/25/25)](https://www.raymondcamden.com/2025/01/25/links-for-you-12525)
-
-* [Automating Media Asset Creation with Cloudinary's GenAI Transformations](https://www.raymondcamden.com/2025/01/24/automating-media-asset-creation-with-cloudinarys-genai-transformations)
 
 <!-- ENDRSS -->
 
