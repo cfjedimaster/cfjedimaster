@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Web App with BoxLang](https://www.raymondcamden.com/2025/02/18/building-a-web-app-with-boxlang)
+
 * [Building Serverless Lambda Functions with BoxLang](https://www.raymondcamden.com/2025/02/14/building-serverless-lambda-functions-with-boxlang)
 
 * [Using Intl.DurationFormat for Localized Durations](https://www.raymondcamden.com/2025/02/13/using-intldurationformat-for-localized-durations)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Join Me for a Code Break Tomorrow](https://www.raymondcamden.com/2025/02/03/join-me-for-a-code-break-tomorrow)
 
 * [Generative AI Images with Gemini and Imagen - an Introduction](https://www.raymondcamden.com/2025/01/30/generative-ai-images-with-gemini-and-imagen-an-introduction)
-
-* [Using Generative AI to Help in Customer Service](https://www.raymondcamden.com/2025/01/28/using-generative-ai-to-help-in-customer-service)
 
 <!-- ENDRSS -->
 
