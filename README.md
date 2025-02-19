@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Quick Demo of Chrome's Summarization GenAI (Upcoming) API](https://www.raymondcamden.com/2025/02/19/quick-demo-of-chromes-summarization-genai-upcoming-api)
+
 * [Building a Web App with BoxLang](https://www.raymondcamden.com/2025/02/18/building-a-web-app-with-boxlang)
 
 * [Building Serverless Lambda Functions with BoxLang](https://www.raymondcamden.com/2025/02/14/building-serverless-lambda-functions-with-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Automating Image Improvement with Cloudinary](https://www.raymondcamden.com/2025/02/04/automating-image-improvement-with-cloudinary)
 
 * [Join Me for a Code Break Tomorrow](https://www.raymondcamden.com/2025/02/03/join-me-for-a-code-break-tomorrow)
-
-* [Generative AI Images with Gemini and Imagen - an Introduction](https://www.raymondcamden.com/2025/01/30/generative-ai-images-with-gemini-and-imagen-an-introduction)
 
 <!-- ENDRSS -->
 
