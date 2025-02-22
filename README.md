@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (2/22/25)](https://www.raymondcamden.com/2025/02/22/links-for-you-22225)
+
 * [Building a File Search Script in BoxLang](https://www.raymondcamden.com/2025/02/20/building-a-file-search-script-in-boxlang)
 
 * [Quick Demo of Chrome's Summarization GenAI (Upcoming) API](https://www.raymondcamden.com/2025/02/19/quick-demo-of-chromes-summarization-genai-upcoming-api)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Doing Evil Things with Generative AI and Recipes](https://www.raymondcamden.com/2025/02/06/doing-evil-things-with-generative-ai-and-recipes)
 
 * [Building a Resume Review and Revise System with Generative AI and Flask](https://www.raymondcamden.com/2025/02/05/building-a-resume-review-and-revise-system-with-generative-ai-and-flask)
-
-* [Automating Image Improvement with Cloudinary](https://www.raymondcamden.com/2025/02/04/automating-image-improvement-with-cloudinary)
 
 <!-- ENDRSS -->
 
