@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Parallel Looping in BoxLang](https://www.raymondcamden.com/2025/02/24/using-parallel-looping-in-boxlang)
+
 * [Links For You (2/22/25)](https://www.raymondcamden.com/2025/02/22/links-for-you-22225)
 
 * [Building a File Search Script in BoxLang](https://www.raymondcamden.com/2025/02/20/building-a-file-search-script-in-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (2/8/25)](https://www.raymondcamden.com/2025/02/08/links-for-you)
 
 * [Doing Evil Things with Generative AI and Recipes](https://www.raymondcamden.com/2025/02/06/doing-evil-things-with-generative-ai-and-recipes)
-
-* [Building a Resume Review and Revise System with Generative AI and Flask](https://www.raymondcamden.com/2025/02/05/building-a-resume-review-and-revise-system-with-generative-ai-and-flask)
 
 <!-- ENDRSS -->
 
