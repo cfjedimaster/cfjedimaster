@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using AI in the Browser for Typo Rewriting](https://www.raymondcamden.com/2025/02/27/using-ai-in-the-browser-for-typo-rewriting)
+
 * [Using Java Libraries in BoxLang](https://www.raymondcamden.com/2025/02/26/using-java-libraries-in-boxlang)
 
 * [Using Parallel Looping in BoxLang](https://www.raymondcamden.com/2025/02/24/using-parallel-looping-in-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Intl.DurationFormat for Localized Durations](https://www.raymondcamden.com/2025/02/13/using-intldurationformat-for-localized-durations)
 
 * [Introducing BoxLang - Scripting for the JVM](https://www.raymondcamden.com/2025/02/11/introducing-boxlang-scripting-for-the-jvm)
-
-* [Links For You (2/8/25)](https://www.raymondcamden.com/2025/02/08/links-for-you)
 
 <!-- ENDRSS -->
 
