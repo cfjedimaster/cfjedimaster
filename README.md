@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Parsing Uploaded Resumes into Form Fields with Google Gemini](https://www.raymondcamden.com/2025/03/04/parsing-uploaded-resumes-into-form-fields-with-google-gemini)
+
 * [Code Break this Thursday - Ray Finally Learns React](https://www.raymondcamden.com/2025/03/03/codebreak-this-thursday-ray-finally-learns-react)
 
 * [Using AI in the Browser for Typo Rewriting](https://www.raymondcamden.com/2025/02/27/using-ai-in-the-browser-for-typo-rewriting)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Web App with BoxLang](https://www.raymondcamden.com/2025/02/18/building-a-web-app-with-boxlang)
 
 * [Building Serverless Lambda Functions with BoxLang](https://www.raymondcamden.com/2025/02/14/building-serverless-lambda-functions-with-boxlang)
-
-* [Using Intl.DurationFormat for Localized Durations](https://www.raymondcamden.com/2025/02/13/using-intldurationformat-for-localized-durations)
 
 <!-- ENDRSS -->
 
