@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (3/8/25)](https://www.raymondcamden.com/2025/03/08/links-for-you)
+
 * [Parsing Uploaded Resumes into Form Fields with Google Gemini](https://www.raymondcamden.com/2025/03/04/parsing-uploaded-resumes-into-form-fields-with-google-gemini)
 
 * [Code Break this Thursday - Ray Finally Learns React](https://www.raymondcamden.com/2025/03/03/codebreak-this-thursday-ray-finally-learns-react)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Quick Demo of Chrome's Summarization GenAI (Upcoming) API](https://www.raymondcamden.com/2025/02/19/quick-demo-of-chromes-summarization-genai-upcoming-api)
 
 * [Building a Web App with BoxLang](https://www.raymondcamden.com/2025/02/18/building-a-web-app-with-boxlang)
-
-* [Building Serverless Lambda Functions with BoxLang](https://www.raymondcamden.com/2025/02/14/building-serverless-lambda-functions-with-boxlang)
 
 <!-- ENDRSS -->
 
