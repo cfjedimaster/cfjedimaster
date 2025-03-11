@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [BoxLang Quick Tips - Database Access](https://www.raymondcamden.com/2025/03/11/boxlang-quick-tips-database-access)
+
 * [Automating and Responding to Sentiment Analysis with Diffbot's Knowledge Graph](https://www.raymondcamden.com/2025/03/10/automating-and-responding-to-sentiment-analysis-with-diffbots-knowledge-graph)
 
 * [Links For You (3/8/25)](https://www.raymondcamden.com/2025/03/08/links-for-you)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (2/22/25)](https://www.raymondcamden.com/2025/02/22/links-for-you-22225)
 
 * [Building a File Search Script in BoxLang](https://www.raymondcamden.com/2025/02/20/building-a-file-search-script-in-boxlang)
-
-* [Quick Demo of Chrome's Summarization GenAI (Upcoming) API](https://www.raymondcamden.com/2025/02/19/quick-demo-of-chromes-summarization-genai-upcoming-api)
 
 <!-- ENDRSS -->
 
