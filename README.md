@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Jira Search Tool in BoxLang](https://www.raymondcamden.com/2025/03/13/building-a-jira-search-tool-in-boxlang)
+
 * [BoxLang Quick Tips - Database Access](https://www.raymondcamden.com/2025/03/11/boxlang-quick-tips-database-access)
 
 * [Automating and Responding to Sentiment Analysis with Diffbot's Knowledge Graph](https://www.raymondcamden.com/2025/03/10/automating-and-responding-to-sentiment-analysis-with-diffbots-knowledge-graph)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Parallel Looping in BoxLang](https://www.raymondcamden.com/2025/02/24/using-parallel-looping-in-boxlang)
 
 * [Links For You (2/22/25)](https://www.raymondcamden.com/2025/02/22/links-for-you-22225)
-
-* [Building a File Search Script in BoxLang](https://www.raymondcamden.com/2025/02/20/building-a-file-search-script-in-boxlang)
 
 <!-- ENDRSS -->
 
