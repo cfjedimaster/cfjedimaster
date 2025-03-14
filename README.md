@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Generative Images with Gemini (New Updates)](https://www.raymondcamden.com/2025/03/14/generative-images-with-gemini-new-updates)
+
 * [Building a Jira Search Tool in BoxLang](https://www.raymondcamden.com/2025/03/13/building-a-jira-search-tool-in-boxlang)
 
 * [BoxLang Quick Tips - Database Access](https://www.raymondcamden.com/2025/03/11/boxlang-quick-tips-database-access)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Java Libraries in BoxLang](https://www.raymondcamden.com/2025/02/26/using-java-libraries-in-boxlang)
 
 * [Using Parallel Looping in BoxLang](https://www.raymondcamden.com/2025/02/24/using-parallel-looping-in-boxlang)
-
-* [Links For You (2/22/25)](https://www.raymondcamden.com/2025/02/22/links-for-you-22225)
 
 <!-- ENDRSS -->
 
