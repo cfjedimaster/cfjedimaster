@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [BoxLang Quick Tips - PDF Generation](https://www.raymondcamden.com/2025/03/18/boxlang-quick-tips-pdf-generation)
+
 * [Watch me suffer with React more in tomorrow's Code Break!](https://www.raymondcamden.com/2025/03/17/watch-me-suffer-with-react-more-in-tomorrows-code-break)
 
 * [Generative Images with Gemini (New Updates)](https://www.raymondcamden.com/2025/03/14/generative-images-with-gemini-new-updates)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Code Break this Thursday - Ray Finally Learns React](https://www.raymondcamden.com/2025/03/03/codebreak-this-thursday-ray-finally-learns-react)
 
 * [Using AI in the Browser for Typo Rewriting](https://www.raymondcamden.com/2025/02/27/using-ai-in-the-browser-for-typo-rewriting)
-
-* [Using Java Libraries in BoxLang](https://www.raymondcamden.com/2025/02/26/using-java-libraries-in-boxlang)
 
 <!-- ENDRSS -->
 
