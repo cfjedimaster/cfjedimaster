@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (3/22/25)](https://www.raymondcamden.com/2025/03/22/links-for-you-32225)
+
 * [Geolocating a Folder of Images with Python](https://www.raymondcamden.com/2025/03/20/geolocating-a-folder-of-images-with-python)
 
 * [Creating Images with Generative AI via Conversation](https://www.raymondcamden.com/2025/03/19/creating-images-with-generative-ai-via-conversation)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Automating and Responding to Sentiment Analysis with Diffbot's Knowledge Graph](https://www.raymondcamden.com/2025/03/10/automating-and-responding-to-sentiment-analysis-with-diffbots-knowledge-graph)
 
 * [Links For You (3/8/25)](https://www.raymondcamden.com/2025/03/08/links-for-you)
-
-* [Parsing Uploaded Resumes into Form Fields with Google Gemini](https://www.raymondcamden.com/2025/03/04/parsing-uploaded-resumes-into-form-fields-with-google-gemini)
 
 <!-- ENDRSS -->
 
