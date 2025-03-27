@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [BoxLang Quick Tips - Sending Email](https://www.raymondcamden.com/2025/03/27/boxlang-quick-tips-sending-email)
+
 * [Links For You (3/22/25)](https://www.raymondcamden.com/2025/03/22/links-for-you-32225)
 
 * [Geolocating a Folder of Images with Python](https://www.raymondcamden.com/2025/03/20/geolocating-a-folder-of-images-with-python)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [BoxLang Quick Tips - Database Access](https://www.raymondcamden.com/2025/03/11/boxlang-quick-tips-database-access)
 
 * [Automating and Responding to Sentiment Analysis with Diffbot's Knowledge Graph](https://www.raymondcamden.com/2025/03/10/automating-and-responding-to-sentiment-analysis-with-diffbots-knowledge-graph)
-
-* [Links For You (3/8/25)](https://www.raymondcamden.com/2025/03/08/links-for-you)
 
 <!-- ENDRSS -->
 
