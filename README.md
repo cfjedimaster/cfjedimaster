@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Scheduling Code in BoxLang](https://www.raymondcamden.com/2025/04/04/scheduling-code-in-boxlang)
+
 * [BoxLang Quick Tips - Sending Email](https://www.raymondcamden.com/2025/03/27/boxlang-quick-tips-sending-email)
 
 * [Links For You (3/22/25)](https://www.raymondcamden.com/2025/03/22/links-for-you-32225)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Jira Search Tool in BoxLang](https://www.raymondcamden.com/2025/03/13/building-a-jira-search-tool-in-boxlang)
 
 * [BoxLang Quick Tips - Database Access](https://www.raymondcamden.com/2025/03/11/boxlang-quick-tips-database-access)
-
-* [Automating and Responding to Sentiment Analysis with Diffbot's Knowledge Graph](https://www.raymondcamden.com/2025/03/10/automating-and-responding-to-sentiment-analysis-with-diffbots-knowledge-graph)
 
 <!-- ENDRSS -->
 
