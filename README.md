@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Comparing Google's Image Generation Models](https://www.raymondcamden.com/2025/04/08/comparing-googles-image-generation-models)
+
 * [Links For You (4/5/25)](https://www.raymondcamden.com/2025/04/04/links-for-you-4525)
 
 * [Scheduling Code in BoxLang](https://www.raymondcamden.com/2025/04/04/scheduling-code-in-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Watch me suffer with React more in tomorrow's Code Break!](https://www.raymondcamden.com/2025/03/17/watch-me-suffer-with-react-more-in-tomorrows-code-break)
 
 * [Generative Images with Gemini (New Updates)](https://www.raymondcamden.com/2025/03/14/generative-images-with-gemini-new-updates)
-
-* [Building a Jira Search Tool in BoxLang](https://www.raymondcamden.com/2025/03/13/building-a-jira-search-tool-in-boxlang)
 
 <!-- ENDRSS -->
 
