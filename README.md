@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Chrome's (Preview) Prompt API for Data Summarization](https://www.raymondcamden.com/2025/04/10/using-chromes-preview-prompt-api-for-data-summarization)
+
 * [Come Learn about BoxLang at Into the Box 2025](https://www.raymondcamden.com/2025/04/09/come-learn-about-boxlang-at-into-the-box-2025)
 
 * [Comparing Google's Image Generation Models](https://www.raymondcamden.com/2025/04/08/comparing-googles-image-generation-models)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Creating Images with Generative AI via Conversation](https://www.raymondcamden.com/2025/03/19/creating-images-with-generative-ai-via-conversation)
 
 * [BoxLang Quick Tips - PDF Generation](https://www.raymondcamden.com/2025/03/18/boxlang-quick-tips-pdf-generation)
-
-* [Watch me suffer with React more in tomorrow's Code Break!](https://www.raymondcamden.com/2025/03/17/watch-me-suffer-with-react-more-in-tomorrows-code-break)
 
 <!-- ENDRSS -->
 
