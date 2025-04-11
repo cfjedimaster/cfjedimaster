@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My First (and Last) Spotify Web App - Music Snob](https://www.raymondcamden.com/2025/04/11/my-first-and-last-spotify-web-app-music-snob)
+
 * [Using Chrome's (Preview) Prompt API for Data Summarization](https://www.raymondcamden.com/2025/04/10/using-chromes-preview-prompt-api-for-data-summarization)
 
 * [Come Learn about BoxLang at Into the Box 2025](https://www.raymondcamden.com/2025/04/09/come-learn-about-boxlang-at-into-the-box-2025)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Geolocating a Folder of Images with Python](https://www.raymondcamden.com/2025/03/20/geolocating-a-folder-of-images-with-python)
 
 * [Creating Images with Generative AI via Conversation](https://www.raymondcamden.com/2025/03/19/creating-images-with-generative-ai-via-conversation)
-
-* [BoxLang Quick Tips - PDF Generation](https://www.raymondcamden.com/2025/03/18/boxlang-quick-tips-pdf-generation)
 
 <!-- ENDRSS -->
 
