@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (4/19/25)](https://www.raymondcamden.com/2025/04/19/links-for-you-41925)
+
 * [Parsing Markdown in BoxLang](https://www.raymondcamden.com/2025/04/18/parsing-markdown-in-boxlang)
 
 * [BoxLang Quick Tips - Working with JSON](https://www.raymondcamden.com/2025/04/15/boxlang-quick-tips-working-with-json)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (4/5/25)](https://www.raymondcamden.com/2025/04/04/links-for-you-4525)
 
 * [Scheduling Code in BoxLang](https://www.raymondcamden.com/2025/04/04/scheduling-code-in-boxlang)
-
-* [BoxLang Quick Tips - Sending Email](https://www.raymondcamden.com/2025/03/27/boxlang-quick-tips-sending-email)
 
 <!-- ENDRSS -->
 
