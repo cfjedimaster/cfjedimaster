@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Creating a PDF Book from Markdown with BoxLang](https://www.raymondcamden.com/2025/04/24/creating-a-pdf-book-from-markdown-with-boxlang)
+
 * [Adding CORS to Your BoxLang APIs](https://www.raymondcamden.com/2025/04/23/adding-cors-to-your-boxlang-apis)
 
 * [Parsing Markdown in BoxLang - Take 2](https://www.raymondcamden.com/2025/04/21/parsing-markdown-in-boxlang-take-2)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Chrome's (Preview) Prompt API for Data Summarization](https://www.raymondcamden.com/2025/04/10/using-chromes-preview-prompt-api-for-data-summarization)
 
 * [Come Learn about BoxLang at Into the Box 2025](https://www.raymondcamden.com/2025/04/09/come-learn-about-boxlang-at-into-the-box-2025)
-
-* [Comparing Google's Image Generation Models](https://www.raymondcamden.com/2025/04/08/comparing-googles-image-generation-models)
 
 <!-- ENDRSS -->
 
