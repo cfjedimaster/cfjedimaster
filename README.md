@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Cloudflare's Browser Rendering APIs for Screenshots](https://www.raymondcamden.com/2025/04/25/using-cloudflares-browser-rendering-apis-for-screenshots)
+
 * [Creating a PDF Book from Markdown with BoxLang](https://www.raymondcamden.com/2025/04/24/creating-a-pdf-book-from-markdown-with-boxlang)
 
 * [Adding CORS to Your BoxLang APIs](https://www.raymondcamden.com/2025/04/23/adding-cors-to-your-boxlang-apis)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [My First (and Last) Spotify Web App - Music Snob](https://www.raymondcamden.com/2025/04/11/my-first-and-last-spotify-web-app-music-snob)
 
 * [Using Chrome's (Preview) Prompt API for Data Summarization](https://www.raymondcamden.com/2025/04/10/using-chromes-preview-prompt-api-for-data-summarization)
-
-* [Come Learn about BoxLang at Into the Box 2025](https://www.raymondcamden.com/2025/04/09/come-learn-about-boxlang-at-into-the-box-2025)
 
 <!-- ENDRSS -->
 
