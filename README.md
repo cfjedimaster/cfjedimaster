@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [BoxLang Quick Tips - Working with Zip Files](https://www.raymondcamden.com/2025/04/28/boxlang-quick-tips-working-with-zip-files)
+
 * [Using Cloudflare's Browser Rendering APIs for Screenshots](https://www.raymondcamden.com/2025/04/25/using-cloudflares-browser-rendering-apis-for-screenshots)
 
 * [Creating a PDF Book from Markdown with BoxLang](https://www.raymondcamden.com/2025/04/24/creating-a-pdf-book-from-markdown-with-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Build Your Own Localized Events Calendar using Diffbot's Knowledge Graph](https://www.raymondcamden.com/2025/04/14/build-your-own-localized-events-calendar-using-diffbots-knowledge-graph)
 
 * [My First (and Last) Spotify Web App - Music Snob](https://www.raymondcamden.com/2025/04/11/my-first-and-last-spotify-web-app-music-snob)
-
-* [Using Chrome's (Preview) Prompt API for Data Summarization](https://www.raymondcamden.com/2025/04/10/using-chromes-preview-prompt-api-for-data-summarization)
 
 <!-- ENDRSS -->
 
