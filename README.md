@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [A Test of Eleventy Fetch](https://www.raymondcamden.com/2025/04/30/a-test-of-eleventy-fetch)
+
 * [BoxLang Quick Tips - Working with Zip Files](https://www.raymondcamden.com/2025/04/28/boxlang-quick-tips-working-with-zip-files)
 
 * [Using Cloudflare's Browser Rendering APIs for Screenshots](https://www.raymondcamden.com/2025/04/25/using-cloudflares-browser-rendering-apis-for-screenshots)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [BoxLang Quick Tips - Working with JSON](https://www.raymondcamden.com/2025/04/15/boxlang-quick-tips-working-with-json)
 
 * [Build Your Own Localized Events Calendar using Diffbot's Knowledge Graph](https://www.raymondcamden.com/2025/04/14/build-your-own-localized-events-calendar-using-diffbots-knowledge-graph)
-
-* [My First (and Last) Spotify Web App - Music Snob](https://www.raymondcamden.com/2025/04/11/my-first-and-last-spotify-web-app-music-snob)
 
 <!-- ENDRSS -->
 
