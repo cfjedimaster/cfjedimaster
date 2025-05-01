@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Code Break Back for May](https://www.raymondcamden.com/2025/05/01/codebreak-back-for-may)
+
 * [A Test of Eleventy Fetch](https://www.raymondcamden.com/2025/04/30/a-test-of-eleventy-fetch)
 
 * [BoxLang Quick Tips - Working with Zip Files](https://www.raymondcamden.com/2025/04/28/boxlang-quick-tips-working-with-zip-files)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Parsing Markdown in BoxLang](https://www.raymondcamden.com/2025/04/18/parsing-markdown-in-boxlang)
 
 * [BoxLang Quick Tips - Working with JSON](https://www.raymondcamden.com/2025/04/15/boxlang-quick-tips-working-with-json)
-
-* [Build Your Own Localized Events Calendar using Diffbot's Knowledge Graph](https://www.raymondcamden.com/2025/04/14/build-your-own-localized-events-calendar-using-diffbots-knowledge-graph)
 
 <!-- ENDRSS -->
 
