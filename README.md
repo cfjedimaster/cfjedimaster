@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (5/3/25)](https://www.raymondcamden.com/2025/05/03/links-for-you-5325)
+
 * [Pixel Art via Vibe Coding](https://www.raymondcamden.com/2025/05/02/pixel-art-via-vibe-coding)
 
 * [Code Break Back for May](https://www.raymondcamden.com/2025/05/01/codebreak-back-for-may)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Parsing Markdown in BoxLang - Take 2](https://www.raymondcamden.com/2025/04/21/parsing-markdown-in-boxlang-take-2)
 
 * [Links For You (4/19/25)](https://www.raymondcamden.com/2025/04/19/links-for-you-41925)
-
-* [Parsing Markdown in BoxLang](https://www.raymondcamden.com/2025/04/18/parsing-markdown-in-boxlang)
 
 <!-- ENDRSS -->
 
