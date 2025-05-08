@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adventures in Vibe Coding - Really, Really Big Numbers](https://www.raymondcamden.com/2025/05/08/adventures-in-vibe-coding-really-really-big-numbers)
+
 * [A Sneak Peek at BoxLang's Module Feature](https://www.raymondcamden.com/2025/05/07/a-sneak-peek-at-boxlangs-module-feature)
 
 * [Using AI to Analyze Chart Images](https://www.raymondcamden.com/2025/05/05/using-ai-to-analyze-chart-images)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Cloudflare's Browser Rendering APIs for Screenshots](https://www.raymondcamden.com/2025/04/25/using-cloudflares-browser-rendering-apis-for-screenshots)
 
 * [Creating a PDF Book from Markdown with BoxLang](https://www.raymondcamden.com/2025/04/24/creating-a-pdf-book-from-markdown-with-boxlang)
-
-* [Adding CORS to Your BoxLang APIs](https://www.raymondcamden.com/2025/04/23/adding-cors-to-your-boxlang-apis)
 
 <!-- ENDRSS -->
 
