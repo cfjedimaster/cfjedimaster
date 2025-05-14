@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Parsing Markdown in BoxLang - Take 3](https://www.raymondcamden.com/2025/05/14/parsing-markdown-in-boxlang-take-3)
+
 * [Adventures in Vibe Coding - Really, Really Big Numbers](https://www.raymondcamden.com/2025/05/08/adventures-in-vibe-coding-really-really-big-numbers)
 
 * [A Sneak Peek at BoxLang's Module Feature](https://www.raymondcamden.com/2025/05/07/a-sneak-peek-at-boxlangs-module-feature)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [BoxLang Quick Tips - Working with Zip Files](https://www.raymondcamden.com/2025/04/28/boxlang-quick-tips-working-with-zip-files)
 
 * [Using Cloudflare's Browser Rendering APIs for Screenshots](https://www.raymondcamden.com/2025/04/25/using-cloudflares-browser-rendering-apis-for-screenshots)
-
-* [Creating a PDF Book from Markdown with BoxLang](https://www.raymondcamden.com/2025/04/24/creating-a-pdf-book-from-markdown-with-boxlang)
 
 <!-- ENDRSS -->
 
