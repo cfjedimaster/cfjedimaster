@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Finding Your Next Amusement Park Ride with APIs](https://www.raymondcamden.com/2025/05/15/finding-your-next-amusement-park-ride-with-apis)
+
 * [Parsing Markdown in BoxLang - Take 3](https://www.raymondcamden.com/2025/05/14/parsing-markdown-in-boxlang-take-3)
 
 * [Adventures in Vibe Coding - Really, Really Big Numbers](https://www.raymondcamden.com/2025/05/08/adventures-in-vibe-coding-really-really-big-numbers)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [A Test of Eleventy Fetch](https://www.raymondcamden.com/2025/04/30/a-test-of-eleventy-fetch)
 
 * [BoxLang Quick Tips - Working with Zip Files](https://www.raymondcamden.com/2025/04/28/boxlang-quick-tips-working-with-zip-files)
-
-* [Using Cloudflare's Browser Rendering APIs for Screenshots](https://www.raymondcamden.com/2025/04/25/using-cloudflares-browser-rendering-apis-for-screenshots)
 
 <!-- ENDRSS -->
 
