@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Sending an Alert for Short Wait Time at Disney](https://www.raymondcamden.com/2025/05/16/sending-an-alert-for-short-wait-time-at-disney)
+
 * [Finding Your Next Amusement Park Ride with APIs](https://www.raymondcamden.com/2025/05/15/finding-your-next-amusement-park-ride-with-apis)
 
 * [Parsing Markdown in BoxLang - Take 3](https://www.raymondcamden.com/2025/05/14/parsing-markdown-in-boxlang-take-3)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Code Break Back for May](https://www.raymondcamden.com/2025/05/01/codebreak-back-for-may)
 
 * [A Test of Eleventy Fetch](https://www.raymondcamden.com/2025/04/30/a-test-of-eleventy-fetch)
-
-* [BoxLang Quick Tips - Working with Zip Files](https://www.raymondcamden.com/2025/04/28/boxlang-quick-tips-working-with-zip-files)
 
 <!-- ENDRSS -->
 
