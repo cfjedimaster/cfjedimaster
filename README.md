@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [JavaScript in the morning, JavaScript in the evening...](https://www.raymondcamden.com/2025/05/19/javascript-in-the-morning-javascript-in-the-evening)
+
 * [Code Break Tomorrow](https://www.raymondcamden.com/2025/05/18/code-break-tomorrow)
 
 * [Sending an Alert for Short Wait Time at Disney](https://www.raymondcamden.com/2025/05/16/sending-an-alert-for-short-wait-time-at-disney)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (5/3/25)](https://www.raymondcamden.com/2025/05/03/links-for-you-5325)
 
 * [Pixel Art via Vibe Coding](https://www.raymondcamden.com/2025/05/02/pixel-art-via-vibe-coding)
-
-* [Code Break Back for May](https://www.raymondcamden.com/2025/05/01/codebreak-back-for-may)
 
 <!-- ENDRSS -->
 
