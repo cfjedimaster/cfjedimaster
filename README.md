@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Multimodal Support in Chrome's Built-in AI](https://www.raymondcamden.com/2025/05/22/multimodal-support-in-chromes-built-in-ai)
+
 * [My New Role - API Evangelist at Foxit](https://www.raymondcamden.com/2025/05/20/my-new-role-api-evangelist-at-foxit)
 
 * [JavaScript in the morning, JavaScript in the evening...](https://www.raymondcamden.com/2025/05/19/javascript-in-the-morning-javascript-in-the-evening)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [A Sneak Peek at BoxLang's Module Feature](https://www.raymondcamden.com/2025/05/07/a-sneak-peek-at-boxlangs-module-feature)
 
 * [Using AI to Analyze Chart Images](https://www.raymondcamden.com/2025/05/05/using-ai-to-analyze-chart-images)
-
-* [Links For You (5/3/25)](https://www.raymondcamden.com/2025/05/03/links-for-you-5325)
 
 <!-- ENDRSS -->
 
