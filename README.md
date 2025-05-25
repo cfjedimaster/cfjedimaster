@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (5/25/25)](https://www.raymondcamden.com/2025/05/25/links-for-you-52525)
+
 * [Multimodal Support in Chrome's Built-in AI](https://www.raymondcamden.com/2025/05/22/multimodal-support-in-chromes-built-in-ai)
 
 * [My New Role - API Evangelist at Foxit](https://www.raymondcamden.com/2025/05/20/my-new-role-api-evangelist-at-foxit)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adventures in Vibe Coding - Really, Really Big Numbers](https://www.raymondcamden.com/2025/05/08/adventures-in-vibe-coding-really-really-big-numbers)
 
 * [A Sneak Peek at BoxLang's Module Feature](https://www.raymondcamden.com/2025/05/07/a-sneak-peek-at-boxlangs-module-feature)
-
-* [Using AI to Analyze Chart Images](https://www.raymondcamden.com/2025/05/05/using-ai-to-analyze-chart-images)
 
 <!-- ENDRSS -->
 
