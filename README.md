@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Working with the Mastodon API in BoxLang](https://www.raymondcamden.com/2025/06/06/working-with-the-mastodon-api-in-boxlang)
+
 * [Working with the Bluesky API in BoxLang](https://www.raymondcamden.com/2025/06/03/working-with-the-bluesky-api-in-boxlang)
 
 * [Links For You (5/25/25)](https://www.raymondcamden.com/2025/05/25/links-for-you-52525)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Finding Your Next Amusement Park Ride with APIs](https://www.raymondcamden.com/2025/05/15/finding-your-next-amusement-park-ride-with-apis)
 
 * [Parsing Markdown in BoxLang - Take 3](https://www.raymondcamden.com/2025/05/14/parsing-markdown-in-boxlang-take-3)
-
-* [Adventures in Vibe Coding - Really, Really Big Numbers](https://www.raymondcamden.com/2025/05/08/adventures-in-vibe-coding-really-really-big-numbers)
 
 <!-- ENDRSS -->
 
