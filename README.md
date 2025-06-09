@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Code Break Tomorrow - Desktop Apps with Python](https://www.raymondcamden.com/2025/06/09/code-break-tomorrow-desktop-apps-with-python)
+
 * [Links For You (6/8/25)](https://www.raymondcamden.com/2025/06/08/links-for-you-6825)
 
 * [Working with the Mastodon API in BoxLang](https://www.raymondcamden.com/2025/06/06/working-with-the-mastodon-api-in-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Code Break Tomorrow](https://www.raymondcamden.com/2025/05/18/code-break-tomorrow)
 
 * [Sending an Alert for Short Wait Time at Disney](https://www.raymondcamden.com/2025/05/16/sending-an-alert-for-short-wait-time-at-disney)
-
-* [Finding Your Next Amusement Park Ride with APIs](https://www.raymondcamden.com/2025/05/15/finding-your-next-amusement-park-ride-with-apis)
 
 <!-- ENDRSS -->
 
