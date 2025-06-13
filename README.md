@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My ColdFusion 2025 Hackathon Submission - QuickTracker](https://www.raymondcamden.com/2025/06/13/my-coldfusion-2025-hackathon-submission-quicktracker)
+
 * [Using BoxLang's Cache Services](https://www.raymondcamden.com/2025/06/11/using-boxlangs-cache-services)
 
 * [Code Break Tomorrow - Desktop Apps with Python](https://www.raymondcamden.com/2025/06/09/code-break-tomorrow-desktop-apps-with-python)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [My New Role - API Evangelist at Foxit](https://www.raymondcamden.com/2025/05/20/my-new-role-api-evangelist-at-foxit)
 
 * [JavaScript in the morning, JavaScript in the evening...](https://www.raymondcamden.com/2025/05/19/javascript-in-the-morning-javascript-in-the-evening)
-
-* [Code Break Tomorrow](https://www.raymondcamden.com/2025/05/18/code-break-tomorrow)
 
 <!-- ENDRSS -->
 
