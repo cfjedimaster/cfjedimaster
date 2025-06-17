@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Sorting Out Your Monarchs with BoxLang](https://www.raymondcamden.com/2025/06/17/sorting-out-your-monarchs-with-boxlang)
+
 * [My ColdFusion 2025 Hackathon Submission - QuickTracker](https://www.raymondcamden.com/2025/06/13/my-coldfusion-2025-hackathon-submission-quicktracker)
 
 * [Using BoxLang's Cache Services](https://www.raymondcamden.com/2025/06/11/using-boxlangs-cache-services)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Multimodal Support in Chrome's Built-in AI](https://www.raymondcamden.com/2025/05/22/multimodal-support-in-chromes-built-in-ai)
 
 * [My New Role - API Evangelist at Foxit](https://www.raymondcamden.com/2025/05/20/my-new-role-api-evangelist-at-foxit)
-
-* [JavaScript in the morning, JavaScript in the evening...](https://www.raymondcamden.com/2025/05/19/javascript-in-the-morning-javascript-in-the-evening)
 
 <!-- ENDRSS -->
 
