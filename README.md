@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Updates to my Table Sorting Web Component](https://www.raymondcamden.com/2025/06/26/updates-to-my-table-sorting-web-component)
+
 * [Links For You (6/22/25)](https://www.raymondcamden.com/2025/06/22/links-for-you-62225)
 
 * [Upcoming Webinars](https://www.raymondcamden.com/2025/06/19/upcoming-webinars)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Working with the Mastodon API in BoxLang](https://www.raymondcamden.com/2025/06/06/working-with-the-mastodon-api-in-boxlang)
 
 * [Working with the Bluesky API in BoxLang](https://www.raymondcamden.com/2025/06/03/working-with-the-bluesky-api-in-boxlang)
-
-* [Links For You (5/25/25)](https://www.raymondcamden.com/2025/05/25/links-for-you-52525)
 
 <!-- ENDRSS -->
 
