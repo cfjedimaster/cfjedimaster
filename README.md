@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a CSV Report CLI Tool in BoxLang](https://www.raymondcamden.com/2025/07/03/building-a-csv-report-cli-tool-in-boxlang)
+
 * [Parsing CSV in BoxLang - Maven Style](https://www.raymondcamden.com/2025/07/02/parsing-csv-in-boxlang-maven-style)
 
 * [Take Foxit's New PDF APIs for a Spin](https://www.raymondcamden.com/2025/07/01/take-foxits-new-pdf-apis-for-a-spin)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [My ColdFusion 2025 Hackathon Submission - QuickTracker](https://www.raymondcamden.com/2025/06/13/my-coldfusion-2025-hackathon-submission-quicktracker)
 
 * [Using BoxLang's Cache Services](https://www.raymondcamden.com/2025/06/11/using-boxlangs-cache-services)
-
-* [Code Break Tomorrow - Desktop Apps with Python](https://www.raymondcamden.com/2025/06/09/code-break-tomorrow-desktop-apps-with-python)
 
 <!-- ENDRSS -->
 
