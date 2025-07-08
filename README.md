@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Results from My Vibe Coding Live Stream](https://www.raymondcamden.com/2025/07/08/results-from-my-vibe-coding-live-stream)
+
 * [Creating a Calendar with BoxLang](https://www.raymondcamden.com/2025/07/07/creating-a-calendar-with-boxlang)
 
 * [Upcoming Code Break and Live Streams Next Week](https://www.raymondcamden.com/2025/07/04/upcoming-code-break-and-live-streams-next-week)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (6/22/25)](https://www.raymondcamden.com/2025/06/22/links-for-you-62225)
 
 * [Upcoming Webinars](https://www.raymondcamden.com/2025/06/19/upcoming-webinars)
-
-* [Sorting Out Your Monarchs with BoxLang](https://www.raymondcamden.com/2025/06/17/sorting-out-your-monarchs-with-boxlang)
 
 <!-- ENDRSS -->
 
