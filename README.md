@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Creating a Calendar with BoxLang - Part Deux](https://www.raymondcamden.com/2025/07/10/creating-a-calendar-with-boxlang-part-deux)
+
 * [Results from My Vibe Coding Live Stream](https://www.raymondcamden.com/2025/07/08/results-from-my-vibe-coding-live-stream)
 
 * [Creating a Calendar with BoxLang](https://www.raymondcamden.com/2025/07/07/creating-a-calendar-with-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Updates to my Table Sorting Web Component](https://www.raymondcamden.com/2025/06/26/updates-to-my-table-sorting-web-component)
 
 * [Links For You (6/22/25)](https://www.raymondcamden.com/2025/06/22/links-for-you-62225)
-
-* [Upcoming Webinars](https://www.raymondcamden.com/2025/06/19/upcoming-webinars)
 
 <!-- ENDRSS -->
 
