@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using GenAI to Create a SDK from Sample Code](https://www.raymondcamden.com/2025/07/11/using-genai-to-create-a-sdk-from-sample-code)
+
 * [Creating a Calendar with BoxLang - Part Deux](https://www.raymondcamden.com/2025/07/10/creating-a-calendar-with-boxlang-part-deux)
 
 * [Results from My Vibe Coding Live Stream](https://www.raymondcamden.com/2025/07/08/results-from-my-vibe-coding-live-stream)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [AI with BL](https://www.raymondcamden.com/2025/06/27/ai-with-bl)
 
 * [Updates to my Table Sorting Web Component](https://www.raymondcamden.com/2025/06/26/updates-to-my-table-sorting-web-component)
-
-* [Links For You (6/22/25)](https://www.raymondcamden.com/2025/06/22/links-for-you-62225)
 
 <!-- ENDRSS -->
 
