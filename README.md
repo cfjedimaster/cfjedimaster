@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (7/13/25)](https://www.raymondcamden.com/2025/07/13/links-for-you-71325)
+
 * [Using GenAI to Create a SDK from Sample Code](https://www.raymondcamden.com/2025/07/11/using-genai-to-create-a-sdk-from-sample-code)
 
 * [Creating a Calendar with BoxLang - Part Deux](https://www.raymondcamden.com/2025/07/10/creating-a-calendar-with-boxlang-part-deux)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Take Foxit's New PDF APIs for a Spin](https://www.raymondcamden.com/2025/07/01/take-foxits-new-pdf-apis-for-a-spin)
 
 * [AI with BL](https://www.raymondcamden.com/2025/06/27/ai-with-bl)
-
-* [Updates to my Table Sorting Web Component](https://www.raymondcamden.com/2025/06/26/updates-to-my-table-sorting-web-component)
 
 <!-- ENDRSS -->
 
