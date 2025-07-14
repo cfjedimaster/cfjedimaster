@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Cleaning Up My Print View with CSS Media Queries](https://www.raymondcamden.com/2025/07/14/cleaning-up-my-print-view-with-css-media-queries)
+
 * [Links For You (7/13/25)](https://www.raymondcamden.com/2025/07/13/links-for-you-71325)
 
 * [Using GenAI to Create a SDK from Sample Code](https://www.raymondcamden.com/2025/07/11/using-genai-to-create-a-sdk-from-sample-code)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Parsing CSV in BoxLang - Maven Style](https://www.raymondcamden.com/2025/07/02/parsing-csv-in-boxlang-maven-style)
 
 * [Take Foxit's New PDF APIs for a Spin](https://www.raymondcamden.com/2025/07/01/take-foxits-new-pdf-apis-for-a-spin)
-
-* [AI with BL](https://www.raymondcamden.com/2025/06/27/ai-with-bl)
 
 <!-- ENDRSS -->
 
