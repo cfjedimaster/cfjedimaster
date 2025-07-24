@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using AgentQL and Pipedream to Fix Missing RSS Feeds](https://www.raymondcamden.com/2025/07/23/using-agentql-and-pipedream-to-fix-missing-rss-feeds)
+
 * [Simple Charting with BoxLang](https://www.raymondcamden.com/2025/07/18/simple-charting-with-boxlang)
 
 * [Extracting Data from Web Pages with AgentQL and BoxLang](https://www.raymondcamden.com/2025/07/16/extracting-data-from-web-pages-with-agentql-and-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Creating a Calendar with BoxLang](https://www.raymondcamden.com/2025/07/07/creating-a-calendar-with-boxlang)
 
 * [Upcoming Code Break and Live Streams Next Week](https://www.raymondcamden.com/2025/07/04/upcoming-code-break-and-live-streams-next-week)
-
-* [Building a CSV Report CLI Tool in BoxLang](https://www.raymondcamden.com/2025/07/03/building-a-csv-report-cli-tool-in-boxlang)
 
 <!-- ENDRSS -->
 
