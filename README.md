@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (7/27/25)](https://www.raymondcamden.com/2025/07/27/links-for-you-72725)
+
 * [Getting Image Insights with Built-in Chrome AI and EXIF Data](https://www.raymondcamden.com/2025/07/25/getting-image-insights-with-built-in-chrome-ai-and-exif-data)
 
 * [Using AgentQL and Pipedream to Fix Missing RSS Feeds](https://www.raymondcamden.com/2025/07/23/using-agentql-and-pipedream-to-fix-missing-rss-feeds)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Creating a Calendar with BoxLang - Part Deux](https://www.raymondcamden.com/2025/07/10/creating-a-calendar-with-boxlang-part-deux)
 
 * [Results from My Vibe Coding Live Stream](https://www.raymondcamden.com/2025/07/08/results-from-my-vibe-coding-live-stream)
-
-* [Creating a Calendar with BoxLang](https://www.raymondcamden.com/2025/07/07/creating-a-calendar-with-boxlang)
 
 <!-- ENDRSS -->
 
