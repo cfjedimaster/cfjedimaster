@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Chrome AI for Sentiment Analysis (Again)](https://www.raymondcamden.com/2025/07/29/using-chrome-ai-for-sentiment-analysis)
+
 * [Links For You (7/27/25)](https://www.raymondcamden.com/2025/07/27/links-for-you-72725)
 
 * [Getting Image Insights with Built-in Chrome AI and EXIF Data](https://www.raymondcamden.com/2025/07/25/getting-image-insights-with-built-in-chrome-ai-and-exif-data)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using GenAI to Create a SDK from Sample Code](https://www.raymondcamden.com/2025/07/11/using-genai-to-create-a-sdk-from-sample-code)
 
 * [Creating a Calendar with BoxLang - Part Deux](https://www.raymondcamden.com/2025/07/10/creating-a-calendar-with-boxlang-part-deux)
-
-* [Results from My Vibe Coding Live Stream](https://www.raymondcamden.com/2025/07/08/results-from-my-vibe-coding-live-stream)
 
 <!-- ENDRSS -->
 
