@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (8/9/25)](https://www.raymondcamden.com/2025/08/09/links-for-you-8925)
+
 * [Integrating Location Data with Built-in Chrome AI for Better Image Insights](https://www.raymondcamden.com/2025/08/07/integrating-location-data-with-built-in-chrome-ai-for-better-image-insights)
 
 * [Building a Comic Book Reader in BoxLang](https://www.raymondcamden.com/2025/08/05/building-a-comic-book-reader-in-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using AgentQL and Pipedream to Fix Missing RSS Feeds](https://www.raymondcamden.com/2025/07/23/using-agentql-and-pipedream-to-fix-missing-rss-feeds)
 
 * [Simple Charting with BoxLang](https://www.raymondcamden.com/2025/07/18/simple-charting-with-boxlang)
-
-* [Extracting Data from Web Pages with AgentQL and BoxLang](https://www.raymondcamden.com/2025/07/16/extracting-data-from-web-pages-with-agentql-and-boxlang)
 
 <!-- ENDRSS -->
 
