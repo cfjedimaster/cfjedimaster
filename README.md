@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [URL Rewriting with BoxLang MiniServer](https://www.raymondcamden.com/2025/08/11/url-rewriting-with-boxlang-miniserver)
+
 * [Links For You (8/9/25)](https://www.raymondcamden.com/2025/08/09/links-for-you-8925)
 
 * [Integrating Location Data with Built-in Chrome AI for Better Image Insights](https://www.raymondcamden.com/2025/08/07/integrating-location-data-with-built-in-chrome-ai-for-better-image-insights)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Getting Image Insights with Built-in Chrome AI and EXIF Data](https://www.raymondcamden.com/2025/07/25/getting-image-insights-with-built-in-chrome-ai-and-exif-data)
 
 * [Using AgentQL and Pipedream to Fix Missing RSS Feeds](https://www.raymondcamden.com/2025/07/23/using-agentql-and-pipedream-to-fix-missing-rss-feeds)
-
-* [Simple Charting with BoxLang](https://www.raymondcamden.com/2025/07/18/simple-charting-with-boxlang)
 
 <!-- ENDRSS -->
 
