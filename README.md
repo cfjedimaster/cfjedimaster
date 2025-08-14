@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a File-Based Router in BoxLang](https://www.raymondcamden.com/2025/08/14/building-a-file-based-router-in-boxlang)
+
 * [Adding Programming Language Detection with Built-in Chrome AI](https://www.raymondcamden.com/2025/08/13/adding-programming-language-detection-with-built-in-chrome-ai)
 
 * [URL Rewriting with BoxLang MiniServer](https://www.raymondcamden.com/2025/08/11/url-rewriting-with-boxlang-miniserver)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Using Chrome AI for Sentiment Analysis (Again)](https://www.raymondcamden.com/2025/07/29/using-chrome-ai-for-sentiment-analysis)
 
 * [Links For You (7/27/25)](https://www.raymondcamden.com/2025/07/27/links-for-you-72725)
-
-* [Getting Image Insights with Built-in Chrome AI and EXIF Data](https://www.raymondcamden.com/2025/07/25/getting-image-insights-with-built-in-chrome-ai-and-exif-data)
 
 <!-- ENDRSS -->
 
