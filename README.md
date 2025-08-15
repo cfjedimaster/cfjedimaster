@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [On the Market... again (Hire me!)](https://www.raymondcamden.com/2025/08/15/on-the-market-again)
+
 * [Building a File-Based Router in BoxLang](https://www.raymondcamden.com/2025/08/14/building-a-file-based-router-in-boxlang)
 
 * [Adding Programming Language Detection with Built-in Chrome AI](https://www.raymondcamden.com/2025/08/13/adding-programming-language-detection-with-built-in-chrome-ai)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Progressively Enhancing Product Reviews with Chrome AI](https://www.raymondcamden.com/2025/07/31/progressively-enhancing-product-reviews-with-chrome-ai)
 
 * [Using Chrome AI for Sentiment Analysis (Again)](https://www.raymondcamden.com/2025/07/29/using-chrome-ai-for-sentiment-analysis)
-
-* [Links For You (7/27/25)](https://www.raymondcamden.com/2025/07/27/links-for-you-72725)
 
 <!-- ENDRSS -->
 
