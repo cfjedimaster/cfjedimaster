@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [First Stab at a BoxLang Log Viewer](https://www.raymondcamden.com/2025/08/20/first-stab-at-a-boxlang-log-viewer)
+
 * [Using StringBind in BoxLang](https://www.raymondcamden.com/2025/08/18/using-stringbind-in-boxlang)
 
 * [On the Market... again (Hire me!)](https://www.raymondcamden.com/2025/08/15/on-the-market-again)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Building a Comic Book Reader in BoxLang](https://www.raymondcamden.com/2025/08/05/building-a-comic-book-reader-in-boxlang)
 
 * [Creating a Calendar with BoxLang - Part JavaScript](https://www.raymondcamden.com/2025/08/04/creating-a-calendar-with-boxlang-part-javascript)
-
-* [Progressively Enhancing Product Reviews with Chrome AI](https://www.raymondcamden.com/2025/07/31/progressively-enhancing-product-reviews-with-chrome-ai)
 
 <!-- ENDRSS -->
 
