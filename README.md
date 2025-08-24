@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (8/24/25)](https://www.raymondcamden.com/2025/08/24/links-for-you-82425)
+
 * [Unit Formatting with Intl in JavaScript](https://www.raymondcamden.com/2025/08/22/unit-formatting-with-intl-in-javascript)
 
 * [First Stab at a BoxLang Log Viewer](https://www.raymondcamden.com/2025/08/20/first-stab-at-a-boxlang-log-viewer)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Links For You (8/9/25)](https://www.raymondcamden.com/2025/08/09/links-for-you-8925)
 
 * [Integrating Location Data with Built-in Chrome AI for Better Image Insights](https://www.raymondcamden.com/2025/08/07/integrating-location-data-with-built-in-chrome-ai-for-better-image-insights)
-
-* [Building a Comic Book Reader in BoxLang](https://www.raymondcamden.com/2025/08/05/building-a-comic-book-reader-in-boxlang)
 
 <!-- ENDRSS -->
 
