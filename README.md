@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Connecting Comic Books to Generative AI](https://www.raymondcamden.com/2025/08/26/connecting-comic-books-to-generative-ai)
+
 * [Links For You (8/24/25)](https://www.raymondcamden.com/2025/08/24/links-for-you-82425)
 
 * [Unit Formatting with Intl in JavaScript](https://www.raymondcamden.com/2025/08/22/unit-formatting-with-intl-in-javascript)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [URL Rewriting with BoxLang MiniServer](https://www.raymondcamden.com/2025/08/11/url-rewriting-with-boxlang-miniserver)
 
 * [Links For You (8/9/25)](https://www.raymondcamden.com/2025/08/09/links-for-you-8925)
-
-* [Integrating Location Data with Built-in Chrome AI for Better Image Insights](https://www.raymondcamden.com/2025/08/07/integrating-location-data-with-built-in-chrome-ai-for-better-image-insights)
 
 <!-- ENDRSS -->
 
