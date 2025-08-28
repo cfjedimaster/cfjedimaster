@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Web Based Comic Book Reader](https://www.raymondcamden.com/2025/08/28/building-a-web-based-comic-book-reader)
+
 * [Connecting Comic Books to Generative AI](https://www.raymondcamden.com/2025/08/26/connecting-comic-books-to-generative-ai)
 
 * [Links For You (8/24/25)](https://www.raymondcamden.com/2025/08/24/links-for-you-82425)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [Adding Programming Language Detection with Built-in Chrome AI](https://www.raymondcamden.com/2025/08/13/adding-programming-language-detection-with-built-in-chrome-ai)
 
 * [URL Rewriting with BoxLang MiniServer](https://www.raymondcamden.com/2025/08/11/url-rewriting-with-boxlang-miniserver)
-
-* [Links For You (8/9/25)](https://www.raymondcamden.com/2025/08/09/links-for-you-8925)
 
 <!-- ENDRSS -->
 
