@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Chrome's Built-in AI to Improve AI Prompts](https://www.raymondcamden.com/2025/09/05/using-chromes-built-in-ai-to-improve-ai-prompts)
+
 * [Adding a Web Debugger to BoxLang (First Version)](https://www.raymondcamden.com/2025/09/01/adding-a-web-debugger-to-boxlang-first-version)
 
 * [Building a Web Based Comic Book Reader](https://www.raymondcamden.com/2025/08/28/building-a-web-based-comic-book-reader)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. My DMs are ope
 * [On the Market... again (Hire me!)](https://www.raymondcamden.com/2025/08/15/on-the-market-again)
 
 * [Building a File-Based Router in BoxLang](https://www.raymondcamden.com/2025/08/14/building-a-file-based-router-in-boxlang)
-
-* [Adding Programming Language Detection with Built-in Chrome AI](https://www.raymondcamden.com/2025/08/13/adding-programming-language-detection-with-built-in-chrome-ai)
 
 <!-- ENDRSS -->
 
