@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Time for something new...](https://www.raymondcamden.com/2025/09/10/time-for-something-new)
+
 * [Using Chrome's Built-in AI to Improve AI Prompts](https://www.raymondcamden.com/2025/09/05/using-chromes-built-in-ai-to-improve-ai-prompts)
 
 * [Adding a Web Debugger to BoxLang (First Version)](https://www.raymondcamden.com/2025/09/01/adding-a-web-debugger-to-boxlang-first-version)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Using StringBind in BoxLang](https://www.raymondcamden.com/2025/08/18/using-stringbind-in-boxlang)
 
 * [On the Market... again (Hire me!)](https://www.raymondcamden.com/2025/08/15/on-the-market-again)
-
-* [Building a File-Based Router in BoxLang](https://www.raymondcamden.com/2025/08/14/building-a-file-based-router-in-boxlang)
 
 <!-- ENDRSS -->
 
