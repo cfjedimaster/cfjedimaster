@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Recognizing Abundant, Deficient, and Perfect Numbers](https://www.raymondcamden.com/2025/09/11/recognizing-abundant-deficient-and-perfect-numbers)
+
 * [Time for something new...](https://www.raymondcamden.com/2025/09/10/time-for-something-new)
 
 * [Using Chrome's Built-in AI to Improve AI Prompts](https://www.raymondcamden.com/2025/09/05/using-chromes-built-in-ai-to-improve-ai-prompts)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [First Stab at a BoxLang Log Viewer](https://www.raymondcamden.com/2025/08/20/first-stab-at-a-boxlang-log-viewer)
 
 * [Using StringBind in BoxLang](https://www.raymondcamden.com/2025/08/18/using-stringbind-in-boxlang)
-
-* [On the Market... again (Hire me!)](https://www.raymondcamden.com/2025/08/15/on-the-market-again)
 
 <!-- ENDRSS -->
 
