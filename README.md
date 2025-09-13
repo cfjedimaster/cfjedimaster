@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (9/13/25)](https://www.raymondcamden.com/2025/09/13/links-for-you-91325)
+
 * [Using Chrome AI to Summarize Comic Books](https://www.raymondcamden.com/2025/09/12/using-chrome-ai-to-summarize-comic-books)
 
 * [Recognizing Abundant, Deficient, and Perfect Numbers](https://www.raymondcamden.com/2025/09/11/recognizing-abundant-deficient-and-perfect-numbers)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (8/24/25)](https://www.raymondcamden.com/2025/08/24/links-for-you-82425)
 
 * [Unit Formatting with Intl in JavaScript](https://www.raymondcamden.com/2025/08/22/unit-formatting-with-intl-in-javascript)
-
-* [First Stab at a BoxLang Log Viewer](https://www.raymondcamden.com/2025/08/20/first-stab-at-a-boxlang-log-viewer)
 
 <!-- ENDRSS -->
 
