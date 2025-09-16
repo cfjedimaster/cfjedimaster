@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My Experience Asking GenAI to Design My Blog](https://www.raymondcamden.com/2025/09/16/my-experience-asking-genai-to-design-my-blog)
+
 * [Integrating Algolia with BoxLang](https://www.raymondcamden.com/2025/09/15/integrating-algolia-with-boxlang)
 
 * [Links For You (9/13/25)](https://www.raymondcamden.com/2025/09/13/links-for-you-91325)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building a Web Based Comic Book Reader](https://www.raymondcamden.com/2025/08/28/building-a-web-based-comic-book-reader)
 
 * [Connecting Comic Books to Generative AI](https://www.raymondcamden.com/2025/08/26/connecting-comic-books-to-generative-ai)
-
-* [Links For You (8/24/25)](https://www.raymondcamden.com/2025/08/24/links-for-you-82425)
 
 <!-- ENDRSS -->
 
