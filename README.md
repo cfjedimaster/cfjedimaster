@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [ColdFusion (2025)'s CFOAUTH Tag](https://www.raymondcamden.com/2025/09/30/coldfusion-2025s-cfoauth-tag)
+
 * [New Web Thing - Wander](https://www.raymondcamden.com/2025/09/26/new-web-thing-wander)
 
 * [Testing with BoxLang](https://www.raymondcamden.com/2025/09/20/testing-with-boxlang)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Time for something new...](https://www.raymondcamden.com/2025/09/10/time-for-something-new)
 
 * [Using Chrome's Built-in AI to Improve AI Prompts](https://www.raymondcamden.com/2025/09/05/using-chromes-built-in-ai-to-improve-ai-prompts)
-
-* [Adding a Web Debugger to BoxLang (First Version)](https://www.raymondcamden.com/2025/09/01/adding-a-web-debugger-to-boxlang-first-version)
 
 <!-- ENDRSS -->
 
