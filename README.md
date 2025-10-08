@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [I Know What You Did Last Summer (with val town)](https://www.raymondcamden.com/2025/10/08/i-know-what-you-did-last-summer-with-val-town)
+
 * [Building a Document Q&A System with Google Gemini](https://www.raymondcamden.com/2025/10/02/building-a-document-qa-system-with-google-gemini)
 
 * [Creating a GenAI Document Summarization Workflow in ColdFusion](https://www.raymondcamden.com/2025/10/01/creating-a-genai-document-summarization-workflow-in-coldfusion)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (9/13/25)](https://www.raymondcamden.com/2025/09/13/links-for-you-91325)
 
 * [Using Chrome AI to Summarize Comic Books](https://www.raymondcamden.com/2025/09/12/using-chrome-ai-to-summarize-comic-books)
-
-* [Recognizing Abundant, Deficient, and Perfect Numbers](https://www.raymondcamden.com/2025/09/11/recognizing-abundant-deficient-and-perfect-numbers)
 
 <!-- ENDRSS -->
 
