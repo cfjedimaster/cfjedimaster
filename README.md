@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Upcoming Speaking Engagements, and Code Break](https://www.raymondcamden.com/2025/10/13/upcoming-speaking-engagements-and-code-break)
+
 * [Links For You (10/12/25)](https://www.raymondcamden.com/2025/10/12/links-for-you-101225)
 
 * [I Know What You Did Last Summer (with val town)](https://www.raymondcamden.com/2025/10/08/i-know-what-you-did-last-summer-with-val-town)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [My Experience Asking GenAI to Design My Blog](https://www.raymondcamden.com/2025/09/16/my-experience-asking-genai-to-design-my-blog)
 
 * [Integrating Algolia with BoxLang](https://www.raymondcamden.com/2025/09/15/integrating-algolia-with-boxlang)
-
-* [Links For You (9/13/25)](https://www.raymondcamden.com/2025/09/13/links-for-you-91325)
 
 <!-- ENDRSS -->
 
