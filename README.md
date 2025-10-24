@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding Generative Summaries with Chrome AI](https://www.raymondcamden.com/2025/10/24/adding-generative-summaries-with-chrome-ai)
+
 * [BoxLang Quick Tips - Better Web Debugging](https://www.raymondcamden.com/2025/10/14/boxlang-quick-tips-better-web-debugging)
 
 * [Upcoming Speaking Engagements, and Code Break](https://www.raymondcamden.com/2025/10/13/upcoming-speaking-engagements-and-code-break)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [New Web Thing - Wander](https://www.raymondcamden.com/2025/09/26/new-web-thing-wander)
 
 * [Testing with BoxLang](https://www.raymondcamden.com/2025/09/20/testing-with-boxlang)
-
-* [My Experience Asking GenAI to Design My Blog](https://www.raymondcamden.com/2025/09/16/my-experience-asking-genai-to-design-my-blog)
 
 <!-- ENDRSS -->
 
