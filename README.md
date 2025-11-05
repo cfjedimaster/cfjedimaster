@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [BoxLang's Improved PDF Handling](https://www.raymondcamden.com/2025/11/05/boxlangs-improved-pdf-handling)
+
 * [Creating a Generic Generative Language with Chrome AI](https://www.raymondcamden.com/2025/11/03/creating-a-generic-generative-language-with-chrome-ai)
 
 * [Links For You (10/25/25)](https://www.raymondcamden.com/2025/10/25/links-for-you-102525)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building a Document Q&A System with Google Gemini](https://www.raymondcamden.com/2025/10/02/building-a-document-qa-system-with-google-gemini)
 
 * [Creating a GenAI Document Summarization Workflow in ColdFusion](https://www.raymondcamden.com/2025/10/01/creating-a-genai-document-summarization-workflow-in-coldfusion)
-
-* [ColdFusion (2025)'s CFOAUTH Tag](https://www.raymondcamden.com/2025/09/30/coldfusion-2025s-cfoauth-tag)
 
 <!-- ENDRSS -->
 
