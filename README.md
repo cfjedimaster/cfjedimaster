@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Gemini File Search and File Stores for Easy RAG](https://www.raymondcamden.com/2025/11/17/gemini-file-search-file-stores-for-easy-rag)
+
 * [Links For You (11/16/25)](https://www.raymondcamden.com/2025/11/16/links-for-you-111625)
 
 * [Checking for Spam Content with Chrome AI](https://www.raymondcamden.com/2025/11/07/checking-for-spam-content-with-chrome-ai)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Upcoming Speaking Engagements, and Code Break](https://www.raymondcamden.com/2025/10/13/upcoming-speaking-engagements-and-code-break)
 
 * [Links For You (10/12/25)](https://www.raymondcamden.com/2025/10/12/links-for-you-101225)
-
-* [I Know What You Did Last Summer (with val town)](https://www.raymondcamden.com/2025/10/08/i-know-what-you-did-last-summer-with-val-town)
 
 <!-- ENDRSS -->
 
