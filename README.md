@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Google Static Maps in Your Print View](https://www.raymondcamden.com/2025/11/20/using-google-static-maps-in-your-print-view)
+
 * [Gemini File Search and File Stores for Easy RAG](https://www.raymondcamden.com/2025/11/17/gemini-file-search-file-stores-for-easy-rag)
 
 * [Links For You (11/16/25)](https://www.raymondcamden.com/2025/11/16/links-for-you-111625)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [BoxLang Quick Tips - Better Web Debugging](https://www.raymondcamden.com/2025/10/14/boxlang-quick-tips-better-web-debugging)
 
 * [Upcoming Speaking Engagements, and Code Break](https://www.raymondcamden.com/2025/10/13/upcoming-speaking-engagements-and-code-break)
-
-* [Links For You (10/12/25)](https://www.raymondcamden.com/2025/10/12/links-for-you-101225)
 
 <!-- ENDRSS -->
 
