@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Make Your Own Spotify Unwrapped](https://www.raymondcamden.com/2025/12/04/make-your-own-spotify-unwrapped)
+
 * [Links For You (11/30/25)](https://www.raymondcamden.com/2025/11/30/links-for-you-113025)
 
 * [Using Google Static Maps in Your Print View](https://www.raymondcamden.com/2025/11/20/using-google-static-maps-in-your-print-view)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (10/25/25)](https://www.raymondcamden.com/2025/10/25/links-for-you-102525)
 
 * [Adding Generative Summaries with Chrome AI](https://www.raymondcamden.com/2025/10/24/adding-generative-summaries-with-chrome-ai)
-
-* [BoxLang Quick Tips - Better Web Debugging](https://www.raymondcamden.com/2025/10/14/boxlang-quick-tips-better-web-debugging)
 
 <!-- ENDRSS -->
 
