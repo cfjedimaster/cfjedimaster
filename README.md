@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Generating Relevant Random JSON with Chrome AI](https://www.raymondcamden.com/2025/12/07/generating-relevant-random-json-with-chrome-ai)
+
 * [Make Your Own Spotify Unwrapped](https://www.raymondcamden.com/2025/12/04/make-your-own-spotify-unwrapped)
 
 * [Links For You (11/30/25)](https://www.raymondcamden.com/2025/11/30/links-for-you-113025)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Creating a Generic Generative Language with Chrome AI](https://www.raymondcamden.com/2025/11/03/creating-a-generic-generative-language-with-chrome-ai)
 
 * [Links For You (10/25/25)](https://www.raymondcamden.com/2025/10/25/links-for-you-102525)
-
-* [Adding Generative Summaries with Chrome AI](https://www.raymondcamden.com/2025/10/24/adding-generative-summaries-with-chrome-ai)
 
 <!-- ENDRSS -->
 
