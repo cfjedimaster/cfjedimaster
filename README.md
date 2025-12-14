@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (12/14/25)](https://www.raymondcamden.com/2025/12/14/links-for-you-121425)
+
 * [My Last Spotify Demo (this time I mean it - honest)](https://www.raymondcamden.com/2025/12/10/my-last-spotify-demo-this-time-i-mean-it-honest)
 
 * [Generating Relevant Random JSON with Chrome AI](https://www.raymondcamden.com/2025/12/07/generating-relevant-random-json-with-chrome-ai)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Checking for Spam Content with Chrome AI](https://www.raymondcamden.com/2025/11/07/checking-for-spam-content-with-chrome-ai)
 
 * [BoxLang's Improved PDF Handling](https://www.raymondcamden.com/2025/11/05/boxlangs-improved-pdf-handling)
-
-* [Creating a Generic Generative Language with Chrome AI](https://www.raymondcamden.com/2025/11/03/creating-a-generic-generative-language-with-chrome-ai)
 
 <!-- ENDRSS -->
 
