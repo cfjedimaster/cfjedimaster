@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Chrome AI for Color Suggestions](https://www.raymondcamden.com/2025/12/18/using-chrome-ai-for-color-suggestions)
+
 * [Links For You (12/14/25)](https://www.raymondcamden.com/2025/12/14/links-for-you-121425)
 
 * [My Last Spotify Demo (this time I mean it - honest)](https://www.raymondcamden.com/2025/12/10/my-last-spotify-demo-this-time-i-mean-it-honest)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (11/16/25)](https://www.raymondcamden.com/2025/11/16/links-for-you-111625)
 
 * [Checking for Spam Content with Chrome AI](https://www.raymondcamden.com/2025/11/07/checking-for-spam-content-with-chrome-ai)
-
-* [BoxLang's Improved PDF Handling](https://www.raymondcamden.com/2025/11/05/boxlangs-improved-pdf-handling)
 
 <!-- ENDRSS -->
 
