@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My Tech Stack (2025)](https://www.raymondcamden.com/2025/12/22/my-tech-stack-2025)
+
 * [The Twelve (Generative) Days of Christmas - 2025 Edition](https://www.raymondcamden.com/2025/12/19/the-twelve-generative-days-of-christmas-2025-edition)
 
 * [Using Chrome AI for Color Suggestions](https://www.raymondcamden.com/2025/12/18/using-chrome-ai-for-color-suggestions)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Using Google Static Maps in Your Print View](https://www.raymondcamden.com/2025/11/20/using-google-static-maps-in-your-print-view)
 
 * [Gemini File Search and File Stores for Easy RAG](https://www.raymondcamden.com/2025/11/17/gemini-file-search-file-stores-for-easy-rag)
-
-* [Links For You (11/16/25)](https://www.raymondcamden.com/2025/11/16/links-for-you-111625)
 
 <!-- ENDRSS -->
 
