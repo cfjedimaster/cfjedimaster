@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [An Astro site for my CSS Snippets](https://www.raymondcamden.com/2026/01/02/an-astro-site-for-my-css-snippets)
+
 * [year plus plus...](https://www.raymondcamden.com/2025/12/29/year-plus-plus)
 
 * [My Tech Stack (2025)](https://www.raymondcamden.com/2025/12/22/my-tech-stack-2025)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Make Your Own Spotify Unwrapped](https://www.raymondcamden.com/2025/12/04/make-your-own-spotify-unwrapped)
 
 * [Links For You (11/30/25)](https://www.raymondcamden.com/2025/11/30/links-for-you-113025)
-
-* [Using Google Static Maps in Your Print View](https://www.raymondcamden.com/2025/11/20/using-google-static-maps-in-your-print-view)
 
 <!-- ENDRSS -->
 
