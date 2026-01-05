@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Turning Recipe Data into an Astro Content Collection](https://www.raymondcamden.com/2026/01/05/turning-recipe-data-into-an-astro-content-collection)
+
 * [An Astro site for my CSS Snippets](https://www.raymondcamden.com/2026/01/02/an-astro-site-for-my-css-snippets)
 
 * [year plus plus...](https://www.raymondcamden.com/2025/12/29/year-plus-plus)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Generating Relevant Random JSON with Chrome AI](https://www.raymondcamden.com/2025/12/07/generating-relevant-random-json-with-chrome-ai)
 
 * [Make Your Own Spotify Unwrapped](https://www.raymondcamden.com/2025/12/04/make-your-own-spotify-unwrapped)
-
-* [Links For You (11/30/25)](https://www.raymondcamden.com/2025/11/30/links-for-you-113025)
 
 <!-- ENDRSS -->
 
