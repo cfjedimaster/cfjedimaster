@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Adding Hardcover.app Data to Eleventy](https://www.raymondcamden.com/2026/01/07/adding-hardcoverapp-data-to-eleventy)
+
 * [Turning Recipe Data into an Astro Content Collection](https://www.raymondcamden.com/2026/01/05/turning-recipe-data-into-an-astro-content-collection)
 
 * [An Astro site for my CSS Snippets](https://www.raymondcamden.com/2026/01/02/an-astro-site-for-my-css-snippets)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [My Last Spotify Demo (this time I mean it - honest)](https://www.raymondcamden.com/2025/12/10/my-last-spotify-demo-this-time-i-mean-it-honest)
 
 * [Generating Relevant Random JSON with Chrome AI](https://www.raymondcamden.com/2025/12/07/generating-relevant-random-json-with-chrome-ai)
-
-* [Make Your Own Spotify Unwrapped](https://www.raymondcamden.com/2025/12/04/make-your-own-spotify-unwrapped)
 
 <!-- ENDRSS -->
 
