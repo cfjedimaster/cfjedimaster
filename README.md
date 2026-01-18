@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Chrome AI to Rewrite Monstrous JSON](https://www.raymondcamden.com/2026/01/17/using-chrome-ai-to-rewrite-monstrous-json)
+
 * [Links For You (1/10/26)](https://www.raymondcamden.com/2026/01/10/links-for-you-11026)
 
 * [Adding Hardcover.app Data to Eleventy](https://www.raymondcamden.com/2026/01/07/adding-hardcoverapp-data-to-eleventy)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Using Chrome AI for Color Suggestions](https://www.raymondcamden.com/2025/12/18/using-chrome-ai-for-color-suggestions)
 
 * [Links For You (12/14/25)](https://www.raymondcamden.com/2025/12/14/links-for-you-121425)
-
-* [My Last Spotify Demo (this time I mean it - honest)](https://www.raymondcamden.com/2025/12/10/my-last-spotify-demo-this-time-i-mean-it-honest)
 
 <!-- ENDRSS -->
 
