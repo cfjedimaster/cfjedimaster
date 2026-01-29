@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Interrogate Your PDFs with Chrome AI](https://www.raymondcamden.com/2026/01/29/interrogate-your-pdfs-with-chrome-ai)
+
 * [Summarizing PDFs with On-Device AI](https://www.raymondcamden.com/2026/01/28/summarizing-pdfs-with-on-device-ai)
 
 * [Links For You (1/25/26)](https://www.raymondcamden.com/2026/01/25/links-for-you-12526)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [An Astro site for my CSS Snippets](https://www.raymondcamden.com/2026/01/02/an-astro-site-for-my-css-snippets)
 
 * [year plus plus...](https://www.raymondcamden.com/2025/12/29/year-plus-plus)
-
-* [My Tech Stack (2025)](https://www.raymondcamden.com/2025/12/22/my-tech-stack-2025)
 
 <!-- ENDRSS -->
 
