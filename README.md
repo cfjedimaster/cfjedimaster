@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Bluesky Sentiment Dashboard with Alpine and Chrome AI](https://www.raymondcamden.com/2026/02/05/building-a-bluesky-sentiment-dashboard-with-alpine-and-chrome-ai)
+
 * [Building an RSS Aggregator with Astro](https://www.raymondcamden.com/2026/02/02/building-an-rss-aggregator-with-astro)
 
 * [Interrogate Your PDFs with Chrome AI](https://www.raymondcamden.com/2026/01/29/interrogate-your-pdfs-with-chrome-ai)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Adding Hardcover.app Data to Eleventy](https://www.raymondcamden.com/2026/01/07/adding-hardcoverapp-data-to-eleventy)
 
 * [Turning Recipe Data into an Astro Content Collection](https://www.raymondcamden.com/2026/01/05/turning-recipe-data-into-an-astro-content-collection)
-
-* [An Astro site for my CSS Snippets](https://www.raymondcamden.com/2026/01/02/an-astro-site-for-my-css-snippets)
 
 <!-- ENDRSS -->
 
