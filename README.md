@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Creating Reddit Summaries with URL Context and Gemini](https://www.raymondcamden.com/2026/02/09/creating-reddit-summaries-with-url-context-and-gemini)
+
 * [Links For You (2/8/26)](https://www.raymondcamden.com/2026/02/08/links-for-you-2826)
 
 * [Building a Bluesky Sentiment Dashboard with Alpine and Chrome AI](https://www.raymondcamden.com/2026/02/05/building-a-bluesky-sentiment-dashboard-with-alpine-and-chrome-ai)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Using Chrome AI to Rewrite Monstrous JSON](https://www.raymondcamden.com/2026/01/17/using-chrome-ai-to-rewrite-monstrous-json)
 
 * [Links For You (1/10/26)](https://www.raymondcamden.com/2026/01/10/links-for-you-11026)
-
-* [Adding Hardcover.app Data to Eleventy](https://www.raymondcamden.com/2026/01/07/adding-hardcoverapp-data-to-eleventy)
 
 <!-- ENDRSS -->
 
