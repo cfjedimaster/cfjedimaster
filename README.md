@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [I threw thousands of files at Astro and you won't believe what happened next...](https://www.raymondcamden.com/2026/02/13/i-threw-thousands-of-files-at-astro-and-you-wont-believe-what-happened-next)
+
 * [Creating Reddit Summaries with URL Context and Gemini](https://www.raymondcamden.com/2026/02/09/creating-reddit-summaries-with-url-context-and-gemini)
 
 * [Links For You (2/8/26)](https://www.raymondcamden.com/2026/02/08/links-for-you-2826)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building a UI for Gemini File Stores](https://www.raymondcamden.com/2026/01/22/building-a-ui-for-gemini-file-stores)
 
 * [Using Chrome AI to Rewrite Monstrous JSON](https://www.raymondcamden.com/2026/01/17/using-chrome-ai-to-rewrite-monstrous-json)
-
-* [Links For You (1/10/26)](https://www.raymondcamden.com/2026/01/10/links-for-you-11026)
 
 <!-- ENDRSS -->
 
