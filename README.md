@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (2/22/26)](https://www.raymondcamden.com/2026/02/22/links-for-you-22226)
+
 * [Three Plug-N-Play CSS Libraries](https://www.raymondcamden.com/2026/02/16/three-plug-n-play-css-libraries)
 
 * [I threw thousands of files at Astro and you won't believe what happened next...](https://www.raymondcamden.com/2026/02/13/i-threw-thousands-of-files-at-astro-and-you-wont-believe-what-happened-next)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Summarizing PDFs with On-Device AI](https://www.raymondcamden.com/2026/01/28/summarizing-pdfs-with-on-device-ai)
 
 * [Links For You (1/25/26)](https://www.raymondcamden.com/2026/01/25/links-for-you-12526)
-
-* [Building a UI for Gemini File Stores](https://www.raymondcamden.com/2026/01/22/building-a-ui-for-gemini-file-stores)
 
 <!-- ENDRSS -->
 
