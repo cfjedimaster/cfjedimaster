@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Val Town to Get Me to the Movies](https://www.raymondcamden.com/2026/03/01/using-val-town-to-get-me-to-the-movies)
+
 * [ColdFusion Wrappers for Bluesky and Mastodon](https://www.raymondcamden.com/2026/02/27/coldfusion-wrappers-for-bluesky-and-mastodon)
 
 * [Links For You (2/22/26)](https://www.raymondcamden.com/2026/02/22/links-for-you-22226)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building an RSS Aggregator with Astro](https://www.raymondcamden.com/2026/02/02/building-an-rss-aggregator-with-astro)
 
 * [Interrogate Your PDFs with Chrome AI](https://www.raymondcamden.com/2026/01/29/interrogate-your-pdfs-with-chrome-ai)
-
-* [Summarizing PDFs with On-Device AI](https://www.raymondcamden.com/2026/01/28/summarizing-pdfs-with-on-device-ai)
 
 <!-- ENDRSS -->
 
