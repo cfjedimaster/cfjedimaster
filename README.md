@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using Astro for a Combined RSS View and Generator](https://www.raymondcamden.com/2026/03/03/using-astro-for-a-combined-rss-view-and-generator)
+
 * [Using Val Town to Get Me to the Movies](https://www.raymondcamden.com/2026/03/01/using-val-town-to-get-me-to-the-movies)
 
 * [ColdFusion Wrappers for Bluesky and Mastodon](https://www.raymondcamden.com/2026/02/27/coldfusion-wrappers-for-bluesky-and-mastodon)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building a Bluesky Sentiment Dashboard with Alpine and Chrome AI](https://www.raymondcamden.com/2026/02/05/building-a-bluesky-sentiment-dashboard-with-alpine-and-chrome-ai)
 
 * [Building an RSS Aggregator with Astro](https://www.raymondcamden.com/2026/02/02/building-an-rss-aggregator-with-astro)
-
-* [Interrogate Your PDFs with Chrome AI](https://www.raymondcamden.com/2026/01/29/interrogate-your-pdfs-with-chrome-ai)
 
 <!-- ENDRSS -->
 
