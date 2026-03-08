@@ -21,7 +21,9 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
-* [Dyanimically Adjusting Image Text for Contrast](https://www.raymondcamden.com/2026/03/04/dyanimically-adjusting-image-text-for-contrast)
+* [Links For You (3/8/26)](https://www.raymondcamden.com/2026/03/08/links-for-you-3826)
+
+* [Dynamically Adjusting Image Text for Contrast](https://www.raymondcamden.com/2026/03/04/dyanimically-adjusting-image-text-for-contrast)
 
 * [Using Astro for a Combined RSS View and Generator](https://www.raymondcamden.com/2026/03/03/using-astro-for-a-combined-rss-view-and-generator)
 
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Creating Reddit Summaries with URL Context and Gemini](https://www.raymondcamden.com/2026/02/09/creating-reddit-summaries-with-url-context-and-gemini)
 
 * [Links For You (2/8/26)](https://www.raymondcamden.com/2026/02/08/links-for-you-2826)
-
-* [Building a Bluesky Sentiment Dashboard with Alpine and Chrome AI](https://www.raymondcamden.com/2026/02/05/building-a-bluesky-sentiment-dashboard-with-alpine-and-chrome-ai)
 
 <!-- ENDRSS -->
 
