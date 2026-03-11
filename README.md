@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing Live Content Collections in Astro V6](https://www.raymondcamden.com/2026/03/11/testing-live-content-collections-in-astro-v6)
+
 * [Building My Own Social Network Poster in Astro](https://www.raymondcamden.com/2026/03/10/building-my-own-social-network-poster-in-astro)
 
 * [Links For You (3/8/26)](https://www.raymondcamden.com/2026/03/08/links-for-you-3826)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Three Plug-N-Play CSS Libraries](https://www.raymondcamden.com/2026/02/16/three-plug-n-play-css-libraries)
 
 * [I threw thousands of files at Astro and you won't believe what happened next...](https://www.raymondcamden.com/2026/02/13/i-threw-thousands-of-files-at-astro-and-you-wont-believe-what-happened-next)
-
-* [Creating Reddit Summaries with URL Context and Gemini](https://www.raymondcamden.com/2026/02/09/creating-reddit-summaries-with-url-context-and-gemini)
 
 <!-- ENDRSS -->
 
