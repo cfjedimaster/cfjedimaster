@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Finding Your Most Popular Bluesky Followers](https://www.raymondcamden.com/2026/03/18/finding-your-most-popular-bluesky-followers)
+
 * [Testing Live Content Collections in Astro V6](https://www.raymondcamden.com/2026/03/11/testing-live-content-collections-in-astro-v6)
 
 * [Building My Own Social Network Poster in Astro](https://www.raymondcamden.com/2026/03/10/building-my-own-social-network-poster-in-astro)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (2/22/26)](https://www.raymondcamden.com/2026/02/22/links-for-you-22226)
 
 * [Three Plug-N-Play CSS Libraries](https://www.raymondcamden.com/2026/02/16/three-plug-n-play-css-libraries)
-
-* [I threw thousands of files at Astro and you won't believe what happened next...](https://www.raymondcamden.com/2026/02/13/i-threw-thousands-of-files-at-astro-and-you-wont-believe-what-happened-next)
 
 <!-- ENDRSS -->
 
