@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Two bots walk into a bar...](https://www.raymondcamden.com/2026/03/25/two-bots-walk-into-a-bar)
+
 * [Implementing OAuth in Astro](https://www.raymondcamden.com/2026/03/23/implementing-oauth-in-astro)
 
 * [Links For You (3/22/26)](https://www.raymondcamden.com/2026/03/22/links-for-you-32226)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Using Astro for a Combined RSS View and Generator](https://www.raymondcamden.com/2026/03/03/using-astro-for-a-combined-rss-view-and-generator)
 
 * [Using Val Town to Get Me to the Movies](https://www.raymondcamden.com/2026/03/01/using-val-town-to-get-me-to-the-movies)
-
-* [ColdFusion Wrappers for Bluesky and Mastodon](https://www.raymondcamden.com/2026/02/27/coldfusion-wrappers-for-bluesky-and-mastodon)
 
 <!-- ENDRSS -->
 
