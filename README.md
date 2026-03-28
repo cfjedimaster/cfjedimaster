@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Checking if a Movie has a Post or Mid Credit Scene](https://www.raymondcamden.com/2026/03/28/checking-if-a-movie-has-a-post-or-mid-credit-scene)
+
 * [Two bots walk into a bar...](https://www.raymondcamden.com/2026/03/25/two-bots-walk-into-a-bar)
 
 * [Implementing OAuth in Astro](https://www.raymondcamden.com/2026/03/23/implementing-oauth-in-astro)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Dynamically Adjusting Image Text for Contrast](https://www.raymondcamden.com/2026/03/04/dyanimically-adjusting-image-text-for-contrast)
 
 * [Using Astro for a Combined RSS View and Generator](https://www.raymondcamden.com/2026/03/03/using-astro-for-a-combined-rss-view-and-generator)
-
-* [Using Val Town to Get Me to the Movies](https://www.raymondcamden.com/2026/03/01/using-val-town-to-get-me-to-the-movies)
 
 <!-- ENDRSS -->
 
