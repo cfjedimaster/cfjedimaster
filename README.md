@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (4/5/26)](https://www.raymondcamden.com/2026/04/05/links-for-you-4526)
+
 * [You've gained a new achievement](https://www.raymondcamden.com/2026/04/01/youve-gained-a-new-achievement)
 
 * [Checking if a Movie has a Post or Mid Credit Scene](https://www.raymondcamden.com/2026/03/28/checking-if-a-movie-has-a-post-or-mid-credit-scene)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building My Own Social Network Poster in Astro](https://www.raymondcamden.com/2026/03/10/building-my-own-social-network-poster-in-astro)
 
 * [Links For You (3/8/26)](https://www.raymondcamden.com/2026/03/08/links-for-you-3826)
-
-* [Dynamically Adjusting Image Text for Contrast](https://www.raymondcamden.com/2026/03/04/dyanimically-adjusting-image-text-for-contrast)
 
 <!-- ENDRSS -->
 
