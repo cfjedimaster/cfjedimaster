@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Simple Markdown PWA App](https://www.raymondcamden.com/2026/04/20/building-a-simple-markdown-pwa-app)
+
 * [Summarizing Docs with Built-in AI](https://www.raymondcamden.com/2026/04/17/summarizing-docs-with-built-in-ai)
 
 * [Testing OCR with Chrome Built-in AI](https://www.raymondcamden.com/2026/04/11/testing-ocr-with-chrome-built-in-ai)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (3/22/26)](https://www.raymondcamden.com/2026/03/22/links-for-you-32226)
 
 * [Finding Your Most Popular Bluesky Followers](https://www.raymondcamden.com/2026/03/18/finding-your-most-popular-bluesky-followers)
-
-* [Testing Live Content Collections in Astro V6](https://www.raymondcamden.com/2026/03/11/testing-live-content-collections-in-astro-v6)
 
 <!-- ENDRSS -->
 
