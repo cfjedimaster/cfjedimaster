@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Animated video backgrounds via a Web Component and ColorThief](https://www.raymondcamden.com/2026/04/30/animated-video-backgrounds-via-a-web-component-and-colorthief)
+
 * [Links For You (4/26/26)](https://www.raymondcamden.com/2026/04/26/links-for-you-42626)
 
 * [Another Game: My Little Mortal Combat](https://www.raymondcamden.com/2026/04/25/another-game-my-little-mortal-combat)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Checking if a Movie has a Post or Mid Credit Scene](https://www.raymondcamden.com/2026/03/28/checking-if-a-movie-has-a-post-or-mid-credit-scene)
 
 * [Two bots walk into a bar...](https://www.raymondcamden.com/2026/03/25/two-bots-walk-into-a-bar)
-
-* [Implementing OAuth in Astro](https://www.raymondcamden.com/2026/03/23/implementing-oauth-in-astro)
 
 <!-- ENDRSS -->
 
