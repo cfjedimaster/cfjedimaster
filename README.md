@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [What was that song, the one with the words?](https://www.raymondcamden.com/2026/05/13/what-was-that-song-the-one-with-the-words)
+
 * [Using Val Town and Gemini for Sports Ball Stuff](https://www.raymondcamden.com/2026/05/04/using-val-town-and-gemini-for-sports-ball-stuff)
 
 * [Animated video backgrounds via a Web Component and ColorThief](https://www.raymondcamden.com/2026/04/30/animated-video-backgrounds-via-a-web-component-and-colorthief)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (4/5/26)](https://www.raymondcamden.com/2026/04/05/links-for-you-4526)
 
 * [You've gained a new achievement](https://www.raymondcamden.com/2026/04/01/youve-gained-a-new-achievement)
-
-* [Checking if a Movie has a Post or Mid Credit Scene](https://www.raymondcamden.com/2026/03/28/checking-if-a-movie-has-a-post-or-mid-credit-scene)
 
 <!-- ENDRSS -->
 
