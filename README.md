@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Is it hotter or colder this year?](https://www.raymondcamden.com/2026/05/15/is-it-hotter-or-colder-this-year)
+
 * [Send me a message in a panel...](https://www.raymondcamden.com/2026/05/14/send-me-a-message-in-a-panel)
 
 * [What was that song, the one with the words?](https://www.raymondcamden.com/2026/05/13/what-was-that-song-the-one-with-the-words)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Summarizing Docs with Built-in AI](https://www.raymondcamden.com/2026/04/17/summarizing-docs-with-built-in-ai)
 
 * [Testing OCR with Chrome Built-in AI](https://www.raymondcamden.com/2026/04/11/testing-ocr-with-chrome-built-in-ai)
-
-* [Links For You (4/5/26)](https://www.raymondcamden.com/2026/04/05/links-for-you-4526)
 
 <!-- ENDRSS -->
 
