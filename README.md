@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Looking for My Next Role - Hire Me](https://www.raymondcamden.com/2026/05/27/looking-for-my-next-role-hire-me)
+
 * [Dang good Office parsing on the web with officeParser](https://www.raymondcamden.com/2026/05/20/dang-good-office-parsing-on-the-web-with-officeparser)
 
 * [My First AI Skill for My Blog](https://www.raymondcamden.com/2026/05/19/my-first-ai-skill-for-my-blog)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Animated video backgrounds via a Web Component and ColorThief](https://www.raymondcamden.com/2026/04/30/animated-video-backgrounds-via-a-web-component-and-colorthief)
 
 * [Links For You (4/26/26)](https://www.raymondcamden.com/2026/04/26/links-for-you-42626)
-
-* [Another Game: My Little Mortal Combat](https://www.raymondcamden.com/2026/04/25/another-game-my-little-mortal-combat)
 
 <!-- ENDRSS -->
 
