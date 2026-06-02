@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [AI versus a Grue](https://www.raymondcamden.com/2026/06/02/ai-versus-a-grue)
+
 * [Creating a Heavy Rain Alert with RainDrop and Val Town](https://www.raymondcamden.com/2026/06/01/creating-a-heavy-rain-alert-with-raindrop-and-val-town)
 
 * [Looking for My Next Role - Hire Me](https://www.raymondcamden.com/2026/05/27/looking-for-my-next-role-hire-me)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [What was that song, the one with the words?](https://www.raymondcamden.com/2026/05/13/what-was-that-song-the-one-with-the-words)
 
 * [Using Val Town and Gemini for Sports Ball Stuff](https://www.raymondcamden.com/2026/05/04/using-val-town-and-gemini-for-sports-ball-stuff)
-
-* [Animated video backgrounds via a Web Component and ColorThief](https://www.raymondcamden.com/2026/04/30/animated-video-backgrounds-via-a-web-component-and-colorthief)
 
 <!-- ENDRSS -->
 
