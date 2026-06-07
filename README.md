@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Can GenAI help you win in Vegas? (2026)](https://www.raymondcamden.com/2026/06/07/can-genai-help-you-win-in-vegas-2026)
+
 * [AI versus a Grue](https://www.raymondcamden.com/2026/06/02/ai-versus-a-grue)
 
 * [Creating a Heavy Rain Alert with RainDrop and Val Town](https://www.raymondcamden.com/2026/06/01/creating-a-heavy-rain-alert-with-raindrop-and-val-town)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Send me a message in a panel...](https://www.raymondcamden.com/2026/05/14/send-me-a-message-in-a-panel)
 
 * [What was that song, the one with the words?](https://www.raymondcamden.com/2026/05/13/what-was-that-song-the-one-with-the-words)
-
-* [Using Val Town and Gemini for Sports Ball Stuff](https://www.raymondcamden.com/2026/05/04/using-val-town-and-gemini-for-sports-ball-stuff)
 
 <!-- ENDRSS -->
 
