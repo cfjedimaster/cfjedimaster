@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Testing Diffbot's Web Search API](https://www.raymondcamden.com/2026/06/11/testing-diffbots-web-search-api)
+
 * [Can GenAI help you win in Vegas? (2026)](https://www.raymondcamden.com/2026/06/07/can-genai-help-you-win-in-vegas-2026)
 
 * [AI versus a Grue](https://www.raymondcamden.com/2026/06/02/ai-versus-a-grue)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Is it hotter or colder this year?](https://www.raymondcamden.com/2026/05/15/is-it-hotter-or-colder-this-year)
 
 * [Send me a message in a panel...](https://www.raymondcamden.com/2026/05/14/send-me-a-message-in-a-panel)
-
-* [What was that song, the one with the words?](https://www.raymondcamden.com/2026/05/13/what-was-that-song-the-one-with-the-words)
 
 <!-- ENDRSS -->
 
