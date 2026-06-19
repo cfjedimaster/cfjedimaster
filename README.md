@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Form Handling Service in Val Town](https://www.raymondcamden.com/2026/06/19/building-a-form-handling-service-in-val-town)
+
 * [Creating a Dynamic Favicon with Cloudinary](https://www.raymondcamden.com/2026/06/16/creating-a-dynamic-favicon-with-cloudinary)
 
 * [Testing Diffbot's Web Search API](https://www.raymondcamden.com/2026/06/11/testing-diffbots-web-search-api)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [My First AI Skill for My Blog](https://www.raymondcamden.com/2026/05/19/my-first-ai-skill-for-my-blog)
 
 * [Links For You (5/17/26)](https://www.raymondcamden.com/2026/05/17/links-for-you-51726)
-
-* [Is it hotter or colder this year?](https://www.raymondcamden.com/2026/05/15/is-it-hotter-or-colder-this-year)
 
 <!-- ENDRSS -->
 
