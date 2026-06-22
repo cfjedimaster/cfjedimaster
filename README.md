@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Use AI to not use AI (as much)](https://www.raymondcamden.com/2026/06/22/use-ai-to-not-use-ai-as-much)
+
 * [Links For You (6/21/26)](https://www.raymondcamden.com/2026/06/21/links-for-you-62126)
 
 * [Building a Form Handling Service in Val Town](https://www.raymondcamden.com/2026/06/19/building-a-form-handling-service-in-val-town)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Looking for My Next Role - Hire Me](https://www.raymondcamden.com/2026/05/27/looking-for-my-next-role-hire-me)
 
 * [Dang good Office parsing on the web with officeParser](https://www.raymondcamden.com/2026/05/20/dang-good-office-parsing-on-the-web-with-officeparser)
-
-* [My First AI Skill for My Blog](https://www.raymondcamden.com/2026/05/19/my-first-ai-skill-for-my-blog)
 
 <!-- ENDRSS -->
 
