@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Decoding VINs with an API](https://www.raymondcamden.com/2026/06/26/decoding-vins-with-api)
+
 * [Parsing Arbitrary Dates in Strings with Chrono and a Web Component](https://www.raymondcamden.com/2026/06/24/parsing-arbitrary-dates-in-strings-with-chrono-and-a-web-component)
 
 * [Use AI to not use AI (as much)](https://www.raymondcamden.com/2026/06/22/use-ai-to-not-use-ai-as-much)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [AI versus a Grue](https://www.raymondcamden.com/2026/06/02/ai-versus-a-grue)
 
 * [Creating a Heavy Rain Alert with RainDrop and Val Town](https://www.raymondcamden.com/2026/06/01/creating-a-heavy-rain-alert-with-raindrop-and-val-town)
-
-* [Looking for My Next Role - Hire Me](https://www.raymondcamden.com/2026/05/27/looking-for-my-next-role-hire-me)
 
 <!-- ENDRSS -->
 
