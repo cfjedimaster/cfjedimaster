@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building Custom Form Selection Blocks - no JS, all CSS](https://www.raymondcamden.com/2026/07/01/building-custom-form-selection-blocks-no-js-all-css)
+
 * [Decoding VINs with an API](https://www.raymondcamden.com/2026/06/26/decoding-vins-with-api)
 
 * [Parsing Arbitrary Dates in Strings with Chrono and a Web Component](https://www.raymondcamden.com/2026/06/24/parsing-arbitrary-dates-in-strings-with-chrono-and-a-web-component)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Can GenAI help you win in Vegas? (2026)](https://www.raymondcamden.com/2026/06/07/can-genai-help-you-win-in-vegas-2026)
 
 * [AI versus a Grue](https://www.raymondcamden.com/2026/06/02/ai-versus-a-grue)
-
-* [Creating a Heavy Rain Alert with RainDrop and Val Town](https://www.raymondcamden.com/2026/06/01/creating-a-heavy-rain-alert-with-raindrop-and-val-town)
 
 <!-- ENDRSS -->
 
