@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building Custom Form Selection Boxes - Working on Accessibility](https://www.raymondcamden.com/2026/07/03/building-custom-form-selection-boxes-working-on-accessibility)
+
 * [Building Custom Form Selection Blocks - no JS, all CSS](https://www.raymondcamden.com/2026/07/01/building-custom-form-selection-blocks-no-js-all-css)
 
 * [Decoding VINs with an API](https://www.raymondcamden.com/2026/06/26/decoding-vins-with-api)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Testing Diffbot's Web Search API](https://www.raymondcamden.com/2026/06/11/testing-diffbots-web-search-api)
 
 * [Can GenAI help you win in Vegas? (2026)](https://www.raymondcamden.com/2026/06/07/can-genai-help-you-win-in-vegas-2026)
-
-* [AI versus a Grue](https://www.raymondcamden.com/2026/06/02/ai-versus-a-grue)
 
 <!-- ENDRSS -->
 
