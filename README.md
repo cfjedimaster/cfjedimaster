@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (7/5/26)](https://www.raymondcamden.com/2026/07/05/links-for-you-7526)
+
 * [Building Custom Form Selection Boxes - Working on Accessibility](https://www.raymondcamden.com/2026/07/03/building-custom-form-selection-boxes-working-on-accessibility)
 
 * [Building Custom Form Selection Blocks - no JS, all CSS](https://www.raymondcamden.com/2026/07/01/building-custom-form-selection-blocks-no-js-all-css)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Creating a Dynamic Favicon with Cloudinary](https://www.raymondcamden.com/2026/06/16/creating-a-dynamic-favicon-with-cloudinary)
 
 * [Testing Diffbot's Web Search API](https://www.raymondcamden.com/2026/06/11/testing-diffbots-web-search-api)
-
-* [Can GenAI help you win in Vegas? (2026)](https://www.raymondcamden.com/2026/06/07/can-genai-help-you-win-in-vegas-2026)
 
 <!-- ENDRSS -->
 
