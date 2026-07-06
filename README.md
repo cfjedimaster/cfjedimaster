@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My New Role - Helping AI Adoption at Cursor](https://www.raymondcamden.com/2026/07/06/my-new-role-helping-ai-adoption-at-cursor)
+
 * [Links For You (7/5/26)](https://www.raymondcamden.com/2026/07/05/links-for-you-7526)
 
 * [Building Custom Form Selection Boxes - Working on Accessibility](https://www.raymondcamden.com/2026/07/03/building-custom-form-selection-boxes-working-on-accessibility)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building a Form Handling Service in Val Town](https://www.raymondcamden.com/2026/06/19/building-a-form-handling-service-in-val-town)
 
 * [Creating a Dynamic Favicon with Cloudinary](https://www.raymondcamden.com/2026/06/16/creating-a-dynamic-favicon-with-cloudinary)
-
-* [Testing Diffbot's Web Search API](https://www.raymondcamden.com/2026/06/11/testing-diffbots-web-search-api)
 
 <!-- ENDRSS -->
 
