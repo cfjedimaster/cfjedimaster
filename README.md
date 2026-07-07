@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Asking Cursor to Review My Blog for Performance](https://www.raymondcamden.com/2026/07/07/asking-cursor-to-review-my-blog-for-performance)
+
 * [My New Role - Helping AI Adoption at Cursor](https://www.raymondcamden.com/2026/07/06/my-new-role-helping-ai-adoption-at-cursor)
 
 * [Links For You (7/5/26)](https://www.raymondcamden.com/2026/07/05/links-for-you-7526)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (6/21/26)](https://www.raymondcamden.com/2026/06/21/links-for-you-62126)
 
 * [Building a Form Handling Service in Val Town](https://www.raymondcamden.com/2026/06/19/building-a-form-handling-service-in-val-town)
-
-* [Creating a Dynamic Favicon with Cloudinary](https://www.raymondcamden.com/2026/06/16/creating-a-dynamic-favicon-with-cloudinary)
 
 <!-- ENDRSS -->
 
