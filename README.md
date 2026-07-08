@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Turning my Cursor Performance Work into a Repeatable Skill](https://www.raymondcamden.com/2026/07/08/turning-cursor-performance-work-repeatable-skill)
+
 * [Asking Cursor to Review My Blog for Performance](https://www.raymondcamden.com/2026/07/07/asking-cursor-to-review-my-blog-for-performance)
 
 * [My New Role - Helping AI Adoption at Cursor](https://www.raymondcamden.com/2026/07/06/my-new-role-helping-ai-adoption-at-cursor)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Use AI to not use AI (as much)](https://www.raymondcamden.com/2026/06/22/use-ai-to-not-use-ai-as-much)
 
 * [Links For You (6/21/26)](https://www.raymondcamden.com/2026/06/21/links-for-you-62126)
-
-* [Building a Form Handling Service in Val Town](https://www.raymondcamden.com/2026/06/19/building-a-form-handling-service-in-val-town)
 
 <!-- ENDRSS -->
 
