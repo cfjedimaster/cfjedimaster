@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [TIL - Algolia Makes Creating an MCP Server Stupid Easy](https://www.raymondcamden.com/2026/07/11/til-algolia-makes-creating-an-mcp-server-stupid-easy)
+
 * [Turning my Cursor Performance Work into a Repeatable Skill](https://www.raymondcamden.com/2026/07/08/turning-cursor-performance-work-repeatable-skill)
 
 * [Asking Cursor to Review My Blog for Performance](https://www.raymondcamden.com/2026/07/07/asking-cursor-to-review-my-blog-for-performance)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Parsing Arbitrary Dates in Strings with Chrono and a Web Component](https://www.raymondcamden.com/2026/06/24/parsing-arbitrary-dates-in-strings-with-chrono-and-a-web-component)
 
 * [Use AI to not use AI (as much)](https://www.raymondcamden.com/2026/06/22/use-ai-to-not-use-ai-as-much)
-
-* [Links For You (6/21/26)](https://www.raymondcamden.com/2026/06/21/links-for-you-62126)
 
 <!-- ENDRSS -->
 
