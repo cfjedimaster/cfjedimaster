@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Copying HTML Tables as Text, Markdown, and CSV](https://www.raymondcamden.com/2026/07/20/copying-html-tables-as-text-markdown-and-csv)
+
 * [Links For You (7/18/26)](https://www.raymondcamden.com/2026/07/18/links-for-you-71826)
 
 * [TIL - Algolia Makes Creating an MCP Server Stupid Easy](https://www.raymondcamden.com/2026/07/11/til-algolia-makes-creating-an-mcp-server-stupid-easy)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building Custom Form Selection Blocks - no JS, all CSS](https://www.raymondcamden.com/2026/07/01/building-custom-form-selection-blocks-no-js-all-css)
 
 * [Decoding VINs with an API](https://www.raymondcamden.com/2026/06/26/decoding-vins-with-api)
-
-* [Parsing Arbitrary Dates in Strings with Chrono and a Web Component](https://www.raymondcamden.com/2026/06/24/parsing-arbitrary-dates-in-strings-with-chrono-and-a-web-component)
 
 <!-- ENDRSS -->
 
