@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Updating my Watch Site for Algolia Support](https://www.raymondcamden.com/2026/07/29/updating-my-watch-site-for-algolia-support)
+
 * [Building Agentically and Celebrating Watches](https://www.raymondcamden.com/2026/07/24/building-agentically-and-celebrating-watches)
 
 * [Copying HTML Tables as Text, Markdown, and CSV](https://www.raymondcamden.com/2026/07/20/copying-html-tables-as-text-markdown-and-csv)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (7/5/26)](https://www.raymondcamden.com/2026/07/05/links-for-you-7526)
 
 * [Building Custom Form Selection Boxes - Working on Accessibility](https://www.raymondcamden.com/2026/07/03/building-custom-form-selection-boxes-working-on-accessibility)
-
-* [Building Custom Form Selection Blocks - no JS, all CSS](https://www.raymondcamden.com/2026/07/01/building-custom-form-selection-blocks-no-js-all-css)
 
 <!-- ENDRSS -->
 
