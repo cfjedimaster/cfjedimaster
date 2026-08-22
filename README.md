@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Using the Cursor SDK to Build a Project Documenter](https://www.raymondcamden.com/2026/08/22/using-the-cursor-sdk-to-build-a-project-documenter)
+
 * [&lt;file-preview&gt; - A simple web component for file previews](https://www.raymondcamden.com/2026/08/11/file-preview-a-simple-web-component-for-file-previews)
 
 * [Links For You (8/2/26)](https://www.raymondcamden.com/2026/08/02/links-for-you-8226)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Turning my Cursor Performance Work into a Repeatable Skill](https://www.raymondcamden.com/2026/07/08/turning-cursor-performance-work-repeatable-skill)
 
 * [Asking Cursor to Review My Blog for Performance](https://www.raymondcamden.com/2026/07/07/asking-cursor-to-review-my-blog-for-performance)
-
-* [My New Role - Helping AI Adoption at Cursor](https://www.raymondcamden.com/2026/07/06/my-new-role-helping-ai-adoption-at-cursor)
 
 <!-- ENDRSS -->
 
