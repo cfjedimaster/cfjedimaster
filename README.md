@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Links For You (8/23/26)](https://www.raymondcamden.com/2026/08/23/links-for-you-82326)
+
 * [Using the Cursor SDK to Build a Project Documenter](https://www.raymondcamden.com/2026/08/22/using-the-cursor-sdk-to-build-a-project-documenter)
 
 * [&lt;file-preview&gt; - A simple web component for file previews](https://www.raymondcamden.com/2026/08/11/file-preview-a-simple-web-component-for-file-previews)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [TIL - Algolia Makes Creating an MCP Server Stupid Easy](https://www.raymondcamden.com/2026/07/11/til-algolia-makes-creating-an-mcp-server-stupid-easy)
 
 * [Turning my Cursor Performance Work into a Repeatable Skill](https://www.raymondcamden.com/2026/07/08/turning-cursor-performance-work-repeatable-skill)
-
-* [Asking Cursor to Review My Blog for Performance](https://www.raymondcamden.com/2026/07/07/asking-cursor-to-review-my-blog-for-performance)
 
 <!-- ENDRSS -->
 
