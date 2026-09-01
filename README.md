@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Weather Nerd? Check out My OSX Radar Widget](https://www.raymondcamden.com/2026/09/01/weather-nerd-check-out-my-osx-radar-widget)
+
 * [Like LEGO? Got a Mac? Get My Screensaver](https://www.raymondcamden.com/2026/08/26/like-lego-got-a-mac-get-my-screensaver)
 
 * [Links For You (8/23/26)](https://www.raymondcamden.com/2026/08/23/links-for-you-82326)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Copying HTML Tables as Text, Markdown, and CSV](https://www.raymondcamden.com/2026/07/20/copying-html-tables-as-text-markdown-and-csv)
 
 * [Links For You (7/18/26)](https://www.raymondcamden.com/2026/07/18/links-for-you-71826)
-
-* [TIL - Algolia Makes Creating an MCP Server Stupid Easy](https://www.raymondcamden.com/2026/07/11/til-algolia-makes-creating-an-mcp-server-stupid-easy)
 
 <!-- ENDRSS -->
 
