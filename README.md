@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [My Family Allowance - a Simple Allowance Tracking Site](https://www.raymondcamden.com/2026/09/02/my-family-allowance-a-simple-allowance-tracking-site)
+
 * [Weather Nerd? Check out My OSX Radar Widget](https://www.raymondcamden.com/2026/09/01/weather-nerd-check-out-my-osx-radar-widget)
 
 * [Like LEGO? Got a Mac? Get My Screensaver](https://www.raymondcamden.com/2026/08/26/like-lego-got-a-mac-get-my-screensaver)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Building Agentically and Celebrating Watches](https://www.raymondcamden.com/2026/07/24/building-agentically-and-celebrating-watches)
 
 * [Copying HTML Tables as Text, Markdown, and CSV](https://www.raymondcamden.com/2026/07/20/copying-html-tables-as-text-markdown-and-csv)
-
-* [Links For You (7/18/26)](https://www.raymondcamden.com/2026/07/18/links-for-you-71826)
 
 <!-- ENDRSS -->
 
