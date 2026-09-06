@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [Building a Document Q&A System with On-Device AI](https://www.raymondcamden.com/2026/09/06/building-a-document-qa-system-with-on-device-ai)
+
 * [My Family Allowance - a Simple Allowance Tracking Site](https://www.raymondcamden.com/2026/09/02/my-family-allowance-a-simple-allowance-tracking-site)
 
 * [Weather Nerd? Check out My OSX Radar Widget](https://www.raymondcamden.com/2026/09/01/weather-nerd-check-out-my-osx-radar-widget)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Updating my Watch Site for Algolia Support](https://www.raymondcamden.com/2026/07/29/updating-my-watch-site-for-algolia-support)
 
 * [Building Agentically and Celebrating Watches](https://www.raymondcamden.com/2026/07/24/building-agentically-and-celebrating-watches)
-
-* [Copying HTML Tables as Text, Markdown, and CSV](https://www.raymondcamden.com/2026/07/20/copying-html-tables-as-text-markdown-and-csv)
 
 <!-- ENDRSS -->
 
