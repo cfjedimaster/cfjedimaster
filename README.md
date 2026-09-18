@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [It's only a decade late, I'll learn TypeScript!](https://www.raymondcamden.com/2026/09/18/its-only-a-decade-late-ill-learn-typescript)
+
 * [Building a Document Q&A System with On-Device AI](https://www.raymondcamden.com/2026/09/06/building-a-document-qa-system-with-on-device-ai)
 
 * [My Family Allowance - a Simple Allowance Tracking Site](https://www.raymondcamden.com/2026/09/02/my-family-allowance-a-simple-allowance-tracking-site)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (8/2/26)](https://www.raymondcamden.com/2026/08/02/links-for-you-8226)
 
 * [Updating my Watch Site for Algolia Support](https://www.raymondcamden.com/2026/07/29/updating-my-watch-site-for-algolia-support)
-
-* [Building Agentically and Celebrating Watches](https://www.raymondcamden.com/2026/07/24/building-agentically-and-celebrating-watches)
 
 <!-- ENDRSS -->
 
