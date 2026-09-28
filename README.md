@@ -21,6 +21,8 @@ I love to help people, so please reach out if you have questions. Also, my two f
 <!-- RSS -->
 ## My Latest Blog Entries
 
+* [A Simple Weather App in TypeScript](https://www.raymondcamden.com/2026/09/26/a-simple-weather-app-in-typescript)
+
 * [A Simple Alpine.js Template with Vite and TypeScript](https://www.raymondcamden.com/2026/09/22/a-simple-alpinejs-template-with-vite-and-typescript)
 
 * [Links For You (9/20/26)](https://www.raymondcamden.com/2026/09/20/links-for-you-92026)
@@ -38,8 +40,6 @@ I love to help people, so please reach out if you have questions. Also, my two f
 * [Links For You (8/23/26)](https://www.raymondcamden.com/2026/08/23/links-for-you-82326)
 
 * [Using the Cursor SDK to Build a Project Documenter](https://www.raymondcamden.com/2026/08/22/using-the-cursor-sdk-to-build-a-project-documenter)
-
-* [&lt;file-preview&gt; - A simple web component for file previews](https://www.raymondcamden.com/2026/08/11/file-preview-a-simple-web-component-for-file-previews)
 
 <!-- ENDRSS -->
 
